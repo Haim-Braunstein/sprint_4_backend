@@ -39,17 +39,20 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 import { authRoutes } from './api/auth/auth.routes.js'
-// import { userRoutes } from './api/user/user.routes.js'
+import { userRoutes } from './api/user/user.routes.js'
 // import { reviewRoutes } from './api/review/review.routes.js'
 import { stationRoutes } from './api/station/station.routes.js'
+import { categoryRoutes } from './api/category/category.routes.js'
+
 
 // routes
 import { setupAsyncLocalStorage } from './middlewares/setupAls.middleware.js'
 app.all('*', setupAsyncLocalStorage)
 
 app.use('/api/auth', authRoutes)
-// app.use('/api/user', userRoutes)
+app.use('/api/user', userRoutes)
 app.use('/api/station', stationRoutes)
+app.use('/api/category', categoryRoutes)
 // app.use('/api/review', reviewRoutes)
 
 // Make every unmatched server-side-route fall back to index.html

@@ -5,10 +5,8 @@ import { logger } from '../../services/logger.service.js'
 
 //LIST
 export async function getStations(req, res) {
-    console.log("🚀 ~ file: station.controller.js:8 ~ getStations ~ req:", req.query)
     try {
         let { filterBy, sortBy } = req.query.params
-        console.log("🚀 ~ file: station.controller.js:11 ~ getStations ~ sortBy:", sortBy)
 
         const filterCriteria = {
             txt: filterBy.txt || '',
@@ -31,7 +29,6 @@ export async function getStations(req, res) {
 export async function getStationById(req, res) {
     try {
         const stationId = req.params.id
-        console.log("🚀 ~ file: station.controller.js:34 ~ getStationById ~ stationId:", stationId)
         const station = await stationService.getById(stationId)
         res.json(station)
     } catch (err) {
@@ -55,7 +52,6 @@ export async function addStation(req, res) {
 }
 
 export async function updateStation(req, res) {
-    console.log("🚀 ~ file: station.controller.js:47 ~ updateStation ~ req:", req.body)
     try {
         const station = req.body
         const updatedStation = await stationService.update(station)
