@@ -65,7 +65,8 @@ async function update(station) {
 
      const stationToSave = {
       songs:station.songs,
-      name:station.name
+      name:station.name,
+      imgUrl:station.imgUrl
     }
     const collection = await dbService.getCollection('station')
     await collection.updateOne(
