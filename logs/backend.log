@@ -4627,6 +4627,389 @@
 13.4.2024, 17:49:42 - INFO - Server is running on port: 3033 
 13.4.2024, 17:50:14 - INFO - server.js loaded... 
 13.4.2024, 17:50:14 - INFO - Server is running on port: 3033 
+13.4.2024, 19:02:40 - INFO - server.js loaded... 
+13.4.2024, 19:02:40 - INFO - Server is running on port: 3033 
+13.4.2024, 19:04:32 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 19:04:32 - INFO - Req was made | / 
+13.4.2024, 19:13:41 - INFO - Req was made | / 
+13.4.2024, 19:13:41 - DEBUG - Getting categories 
+13.4.2024, 19:13:41 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 19:13:44 - INFO - Req was made | / 
+13.4.2024, 19:13:44 - DEBUG - Getting categories 
+13.4.2024, 19:13:44 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 19:13:44 - INFO - Req was made | / 
+13.4.2024, 19:13:44 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 19:14:44 - INFO - Req was made | / 
+13.4.2024, 19:14:44 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 19:14:44 - DEBUG - Getting categories 
+13.4.2024, 19:17:43 - INFO - server.js loaded... 
+13.4.2024, 19:17:43 - INFO - Server is running on port: 3033 
+13.4.2024, 19:17:50 - INFO - Req was made | / 
+13.4.2024, 19:17:50 - DEBUG - Getting categories 
+13.4.2024, 19:17:50 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 19:17:50 - INFO - Req was made | / 
+13.4.2024, 19:17:50 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 19:18:34 - INFO - Req was made | / 
+13.4.2024, 19:18:34 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 19:18:35 - DEBUG - Getting categories 
+13.4.2024, 19:18:35 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 19:18:35 - INFO - Req was made | / 
+13.4.2024, 19:18:45 - DEBUG - Getting categories 
+13.4.2024, 19:18:45 - INFO - Req was made | / 
+13.4.2024, 19:18:45 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 19:18:45 - INFO - Req was made | / 
+13.4.2024, 19:18:45 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 19:19:18 - INFO - server.js loaded... 
+13.4.2024, 19:19:18 - INFO - Server is running on port: 3033 
+13.4.2024, 19:19:36 - INFO - Req was made | / 
+13.4.2024, 19:19:36 - DEBUG - Getting categories 
+13.4.2024, 19:19:36 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 19:19:36 - INFO - Req was made | / 
+13.4.2024, 19:19:36 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 19:20:20 - INFO - server.js loaded... 
+13.4.2024, 19:20:20 - INFO - Server is running on port: 3033 
+13.4.2024, 19:20:49 - INFO - Req was made | / 
+13.4.2024, 19:20:49 - DEBUG - Getting categories 
+13.4.2024, 19:20:49 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 19:20:49 - INFO - Req was made | / 
+13.4.2024, 19:20:49 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 19:21:17 - INFO - Req was made | / 
+13.4.2024, 19:21:17 - DEBUG - Getting categories 
+13.4.2024, 19:21:17 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 19:21:17 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 19:21:17 - INFO - Req was made | / 
+13.4.2024, 19:22:27 - INFO - server.js loaded... 
+13.4.2024, 19:22:27 - INFO - Server is running on port: 3033 
+13.4.2024, 19:22:31 - INFO - Req was made | / 
+13.4.2024, 19:22:31 - DEBUG - Getting categories 
+13.4.2024, 19:22:31 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 19:22:31 - INFO - Req was made | / 
+13.4.2024, 19:22:31 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 19:23:07 - INFO - server.js loaded... 
+13.4.2024, 19:23:07 - INFO - Server is running on port: 3033 
+13.4.2024, 19:23:15 - INFO - server.js loaded... 
+13.4.2024, 19:23:15 - INFO - Server is running on port: 3033 
+13.4.2024, 19:23:19 - INFO - Req was made | / 
+13.4.2024, 19:23:19 - DEBUG - Getting categories 
+13.4.2024, 19:23:19 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 19:23:19 - INFO - Req was made | / 
+13.4.2024, 19:23:19 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 19:24:16 - INFO - server.js loaded... 
+13.4.2024, 19:24:16 - INFO - Server is running on port: 3033 
+13.4.2024, 19:24:23 - INFO - server.js loaded... 
+13.4.2024, 19:24:23 - INFO - Server is running on port: 3033 
+13.4.2024, 19:24:26 - INFO - Req was made | / 
+13.4.2024, 19:24:26 - DEBUG - Getting categories 
+13.4.2024, 19:24:26 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 19:24:26 - INFO - Req was made | / 
+13.4.2024, 19:24:26 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:00:36 - INFO - Req was made | / 
+13.4.2024, 20:00:36 - DEBUG - Getting categories 
+13.4.2024, 20:00:36 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:01:13 - INFO - server.js loaded... 
+13.4.2024, 20:01:13 - INFO - Server is running on port: 3033 
+13.4.2024, 20:01:21 - DEBUG - Getting categories 
+13.4.2024, 20:01:21 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:01:29 - INFO - server.js loaded... 
+13.4.2024, 20:01:29 - INFO - Server is running on port: 3033 
+13.4.2024, 20:01:37 - INFO - Req was made | / 
+13.4.2024, 20:01:37 - DEBUG - Getting categories 
+13.4.2024, 20:01:37 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:01:37 - INFO - Req was made | / 
+13.4.2024, 20:01:37 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:02:31 - INFO - Req was made | / 
+13.4.2024, 20:02:31 - DEBUG - Getting categories 
+13.4.2024, 20:02:31 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:02:36 - INFO - Req was made | / 
+13.4.2024, 20:02:36 - DEBUG - Getting categories 
+13.4.2024, 20:02:36 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:02:36 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:02:36 - INFO - Req was made | / 
+13.4.2024, 20:05:52 - INFO - server.js loaded... 
+13.4.2024, 20:05:52 - INFO - Server is running on port: 3033 
+13.4.2024, 20:05:56 - INFO - server.js loaded... 
+13.4.2024, 20:05:56 - INFO - Server is running on port: 3033 
+13.4.2024, 20:06:28 - INFO - server.js loaded... 
+13.4.2024, 20:06:28 - INFO - Server is running on port: 3033 
+13.4.2024, 20:06:36 - INFO - server.js loaded... 
+13.4.2024, 20:06:36 - INFO - Server is running on port: 3033 
+13.4.2024, 20:06:52 - INFO - server.js loaded... 
+13.4.2024, 20:06:52 - INFO - Server is running on port: 3033 
+13.4.2024, 20:06:56 - INFO - server.js loaded... 
+13.4.2024, 20:06:56 - INFO - Server is running on port: 3033 
+13.4.2024, 20:06:58 - INFO - Req was made | / 
+13.4.2024, 20:06:58 - DEBUG - Getting categories 
+13.4.2024, 20:06:58 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:06:58 - INFO - Req was made | / 
+13.4.2024, 20:06:58 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:07:31 - INFO - server.js loaded... 
+13.4.2024, 20:07:31 - INFO - Server is running on port: 3033 
+13.4.2024, 20:07:53 - INFO - server.js loaded... 
+13.4.2024, 20:07:53 - INFO - Server is running on port: 3033 
+13.4.2024, 20:07:58 - INFO - server.js loaded... 
+13.4.2024, 20:07:58 - INFO - Server is running on port: 3033 
+13.4.2024, 20:08:07 - INFO - Req was made | / 
+13.4.2024, 20:08:07 - DEBUG - Getting categories 
+13.4.2024, 20:08:07 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:08:07 - INFO - Req was made | / 
+13.4.2024, 20:08:07 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:08:35 - INFO - server.js loaded... 
+13.4.2024, 20:08:35 - INFO - Server is running on port: 3033 
+13.4.2024, 20:08:39 - INFO - Server is running on port: 3033 
+13.4.2024, 20:08:39 - INFO - server.js loaded... 
+13.4.2024, 20:08:42 - INFO - Req was made | / 
+13.4.2024, 20:08:42 - DEBUG - Getting categories 
+13.4.2024, 20:08:42 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:08:42 - INFO - Req was made | / 
+13.4.2024, 20:08:42 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:09:28 - INFO - server.js loaded... 
+13.4.2024, 20:09:28 - INFO - Server is running on port: 3033 
+13.4.2024, 20:10:53 - INFO - server.js loaded... 
+13.4.2024, 20:10:53 - INFO - Server is running on port: 3033 
+13.4.2024, 20:11:00 - INFO - server.js loaded... 
+13.4.2024, 20:11:00 - INFO - Server is running on port: 3033 
+13.4.2024, 20:11:03 - INFO - Req was made | / 
+13.4.2024, 20:11:03 - DEBUG - Getting categories 
+13.4.2024, 20:11:03 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:11:03 - INFO - Req was made | / 
+13.4.2024, 20:11:03 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:11:33 - INFO - server.js loaded... 
+13.4.2024, 20:11:33 - INFO - Server is running on port: 3033 
+13.4.2024, 20:11:40 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:11:40 - DEBUG - Getting categories 
+13.4.2024, 20:11:40 - INFO - Req was made | / 
+13.4.2024, 20:11:40 - INFO - Req was made | / 
+13.4.2024, 20:11:40 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:11:50 - INFO - server.js loaded... 
+13.4.2024, 20:11:50 - INFO - Server is running on port: 3033 
+13.4.2024, 20:11:53 - INFO - Req was made | / 
+13.4.2024, 20:11:53 - INFO - Req was made | / 
+13.4.2024, 20:11:53 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:12:24 - INFO - server.js loaded... 
+13.4.2024, 20:12:24 - INFO - Server is running on port: 3033 
+13.4.2024, 20:13:52 - INFO - Req was made | / 
+13.4.2024, 20:13:52 - DEBUG - Getting categories 
+13.4.2024, 20:13:52 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:17:34 - INFO - Req was made | / 
+13.4.2024, 20:17:34 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:18:09 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:18:09 - INFO - Req was made | / 
+13.4.2024, 20:18:09 - INFO - Req was made | / 
+13.4.2024, 20:18:09 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:18:11 - INFO - Req was made | / 
+13.4.2024, 20:18:11 - DEBUG - Getting categories 
+13.4.2024, 20:18:11 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:18:56 - INFO - Req was made | / 
+13.4.2024, 20:18:56 - DEBUG - Getting categories 
+13.4.2024, 20:18:56 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:30:03 - INFO - Req was made | / 
+13.4.2024, 20:30:03 - DEBUG - Getting categories 
+13.4.2024, 20:30:03 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:30:03 - INFO - Req was made | / 
+13.4.2024, 20:30:03 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:31:21 - INFO - server.js loaded... 
+13.4.2024, 20:31:21 - INFO - Server is running on port: 3033 
+13.4.2024, 20:31:24 - INFO - Req was made | / 
+13.4.2024, 20:31:24 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:31:24 - DEBUG - Getting categories 
+13.4.2024, 20:31:24 - INFO - Req was made | / 
+13.4.2024, 20:31:24 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:31:49 - INFO - server.js loaded... 
+13.4.2024, 20:31:49 - INFO - Server is running on port: 3033 
+13.4.2024, 20:31:52 - INFO - Req was made | / 
+13.4.2024, 20:31:52 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:31:52 - INFO - Req was made | / 
+13.4.2024, 20:32:06 - INFO - Server is running on port: 3033 
+13.4.2024, 20:32:06 - INFO - server.js loaded... 
+13.4.2024, 20:33:13 - INFO - Req was made | / 
+13.4.2024, 20:33:13 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+13.4.2024, 20:35:17 - INFO - Req was made | / 
+13.4.2024, 20:35:17 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:35:17 - DEBUG - Getting categories 
+13.4.2024, 20:35:20 - DEBUG - Getting categories 
+13.4.2024, 20:35:20 - INFO - Req was made | / 
+13.4.2024, 20:35:20 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:35:23 - INFO - Req was made | / 
+13.4.2024, 20:35:23 - DEBUG - Getting categories 
+13.4.2024, 20:35:23 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:37:13 - INFO - server.js loaded... 
+13.4.2024, 20:37:13 - INFO - Server is running on port: 3033 
+13.4.2024, 20:37:16 - INFO - Req was made | / 
+13.4.2024, 20:37:16 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:37:16 - INFO - Req was made | / 
+13.4.2024, 20:37:16 - DEBUG - Getting categories 
+13.4.2024, 20:37:16 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:37:30 - INFO - Req was made | / 
+13.4.2024, 20:37:30 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:37:47 - INFO - Req was made | / 
+13.4.2024, 20:37:47 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:39:56 - INFO - Req was made | / 
+13.4.2024, 20:39:56 - DEBUG - Getting categories 
+13.4.2024, 20:39:56 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:49:26 - INFO - Req was made | / 
+13.4.2024, 20:49:26 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:49:26 - INFO - Req was made | / 
+13.4.2024, 20:49:26 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:49:26 - DEBUG - Getting categories 
+13.4.2024, 20:51:37 - INFO - Req was made | / 
+13.4.2024, 20:51:37 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:55:26 - INFO - Req was made | / 
+13.4.2024, 20:55:26 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:56:43 - INFO - Req was made | / 
+13.4.2024, 20:56:43 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:03:58 - INFO - Req was made | / 
+13.4.2024, 21:03:58 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:04:01 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:04:01 - INFO - Req was made | / 
+13.4.2024, 21:04:13 - INFO - Req was made | / 
+13.4.2024, 21:04:13 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:11:20 - INFO - Req was made | / 
+13.4.2024, 21:11:20 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:12:15 - INFO - Req was made | / 
+13.4.2024, 21:12:15 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:15:09 - INFO - Req was made | / 
+13.4.2024, 21:15:09 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:29:11 - INFO - Req was made | / 
+13.4.2024, 21:29:11 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:29:19 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:29:19 - INFO - Req was made | / 
+13.4.2024, 21:30:54 - INFO - Req was made | / 
+13.4.2024, 21:30:54 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:33:50 - INFO - Req was made | / 
+13.4.2024, 21:33:50 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:33:55 - INFO - Req was made | / 
+13.4.2024, 21:33:55 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:37:26 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:37:26 - INFO - Req was made | / 
+13.4.2024, 21:38:58 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:38:58 - INFO - Req was made | / 
+13.4.2024, 21:40:44 - INFO - Req was made | / 
+13.4.2024, 21:40:44 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:46:44 - INFO - Req was made | / 
+13.4.2024, 21:46:44 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:46:57 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:46:57 - INFO - Req was made | / 
+13.4.2024, 21:51:27 - INFO - Req was made | / 
+13.4.2024, 21:51:27 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:54:29 - INFO - Req was made | / 
+13.4.2024, 21:54:29 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:54:33 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:54:33 - INFO - Req was made | / 
+13.4.2024, 21:55:07 - INFO - Req was made | / 
+13.4.2024, 21:55:07 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 21:59:57 - INFO - Req was made | / 
+13.4.2024, 21:59:57 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 22:00:11 - INFO - Req was made | / 
+13.4.2024, 22:00:11 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 22:00:30 - INFO - Req was made | / 
+13.4.2024, 22:00:30 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 22:00:35 - INFO - Req was made | / 
+13.4.2024, 22:00:35 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 22:01:40 - INFO - Req was made | / 
+13.4.2024, 22:01:40 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 22:01:46 - INFO - Req was made | / 
+13.4.2024, 22:01:46 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 22:12:16 - INFO - Req was made | / 
+13.4.2024, 22:12:16 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:12:16 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:12:16 - INFO - Req was made | / 
+13.4.2024, 22:12:25 - INFO - Req was made | / 
+13.4.2024, 22:12:25 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:12:25 - INFO - Req was made | / 
+13.4.2024, 22:12:25 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:18:23 - INFO - Req was made | / 
+13.4.2024, 22:18:23 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:18:23 - INFO - Req was made | / 
+13.4.2024, 22:18:23 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:19:23 - INFO - Req was made | / 
+13.4.2024, 22:19:23 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:19:23 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:19:23 - INFO - Req was made | / 
+13.4.2024, 22:19:35 - INFO - Req was made | / 
+13.4.2024, 22:19:35 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:19:35 - INFO - Req was made | / 
+13.4.2024, 22:19:35 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:19:49 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:19:49 - INFO - Req was made | / 
+13.4.2024, 22:19:50 - INFO - Req was made | / 
+13.4.2024, 22:19:50 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:22:14 - INFO - Req was made | / 
+13.4.2024, 22:22:14 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 22:23:42 - INFO - Req was made | / 
+13.4.2024, 22:23:42 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:23:42 - INFO - Req was made | / 
+13.4.2024, 22:23:42 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:24:20 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 22:24:20 - INFO - Req was made | / 
+13.4.2024, 22:38:32 - INFO - Req was made | / 
+13.4.2024, 22:38:32 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 22:38:44 - INFO - Req was made | / 
+13.4.2024, 22:38:44 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 8:57:20 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 8:57:20 - INFO - Req was made | / 
+14.4.2024, 8:58:19 - INFO - Req was made | / 
+14.4.2024, 8:58:19 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 9:02:48 - INFO - Req was made | / 
+14.4.2024, 9:02:48 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 9:02:59 - INFO - Req was made | / 
+14.4.2024, 9:02:59 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 9:03:11 - INFO - Req was made | / 
+14.4.2024, 9:03:11 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 9:03:51 - INFO - Req was made | / 
+14.4.2024, 9:03:51 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 10:07:55 - INFO - Req was made | / 
+14.4.2024, 10:07:55 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 10:10:50 - INFO - Req was made | / 
+14.4.2024, 10:10:50 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 10:11:29 - INFO - Req was made | / 
+14.4.2024, 10:11:29 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 10:22:25 - INFO - Req was made | / 
+14.4.2024, 10:22:25 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 10:23:17 - INFO - Req was made | / 
+14.4.2024, 10:23:17 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 10:23:58 - INFO - Req was made | / 
+14.4.2024, 10:23:58 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 10:31:20 - INFO - server.js loaded... 
+14.4.2024, 10:31:20 - INFO - Server is running on port: 3033 
+14.4.2024, 10:31:48 - INFO - server.js loaded... 
+14.4.2024, 10:31:48 - INFO - Server is running on port: 3033 
+14.4.2024, 10:31:51 - ERROR - Failed to get category | ReferenceError: logger is not defined 
+14.4.2024, 10:32:26 - ERROR - Failed to get category | ReferenceError: logger is not defined 
+14.4.2024, 10:41:25 - INFO - Req was made | / 
+14.4.2024, 10:41:25 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 10:41:40 - ERROR - Failed to get category | ReferenceError: logger is not defined 
+14.4.2024, 10:42:18 - INFO - server.js loaded... 
+14.4.2024, 10:42:18 - INFO - Server is running on port: 3033 
+14.4.2024, 10:42:22 - ERROR - Failed to get category | ReferenceError: logger is not defined 
+14.4.2024, 10:42:55 - INFO - server.js loaded... 
+14.4.2024, 10:42:55 - INFO - Server is running on port: 3033 
+14.4.2024, 10:42:59 - ERROR - Failed to get category | ReferenceError: logger is not defined 
+14.4.2024, 10:43:23 - INFO - server.js loaded... 
+14.4.2024, 10:43:23 - INFO - Server is running on port: 3033 
+14.4.2024, 10:43:25 - ERROR - Failed to get category | ReferenceError: logger is not defined 
+14.4.2024, 10:46:06 - INFO - server.js loaded... 
+14.4.2024, 10:46:06 - INFO - Server is running on port: 3033 
+14.4.2024, 10:46:23 - ERROR - Failed to get category | ReferenceError: logger is not defined 
+14.4.2024, 10:46:29 - INFO - server.js loaded... 
+14.4.2024, 10:46:29 - INFO - Server is running on port: 3033 
+14.4.2024, 10:46:37 - INFO - server.js loaded... 
+14.4.2024, 10:46:37 - INFO - Server is running on port: 3033 
+14.4.2024, 10:46:40 - ERROR - Failed to get category | ReferenceError: logger is not defined 
+14.4.2024, 10:47:25 - INFO - server.js loaded... 
+14.4.2024, 10:47:25 - INFO - Server is running on port: 3033 
+14.4.2024, 10:47:37 - INFO - server.js loaded... 
+14.4.2024, 10:47:37 - INFO - Server is running on port: 3033 
+14.4.2024, 10:47:42 - ERROR - Failed to get category | ReferenceError: logger is not defined 
+14.4.2024, 10:48:01 - INFO - server.js loaded... 
+14.4.2024, 10:48:01 - INFO - Server is running on port: 3033 
+14.4.2024, 10:48:13 - INFO - server.js loaded... 
+14.4.2024, 10:48:13 - INFO - Server is running on port: 3033 
+14.4.2024, 10:48:16 - ERROR - while finding category 661b82bff0666aa45e374b49 | ReferenceError: ObjectId is not defined 
+14.4.2024, 10:48:16 - ERROR - Failed to get category | ReferenceError: ObjectId is not defined 
+14.4.2024, 10:51:33 - INFO - server.js loaded... 
+14.4.2024, 10:51:33 - INFO - Server is running on port: 3033 
+14.4.2024, 10:51:48 - INFO - Req was made | / 
+14.4.2024, 10:51:48 - DEBUG - Getting categories 
 13.4.2024, 18:14:36 - INFO - Req was made | / 
 13.4.2024, 18:14:36 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
 13.4.2024, 18:14:38 - INFO - Req was made | / 

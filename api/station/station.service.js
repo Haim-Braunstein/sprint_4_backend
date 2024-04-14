@@ -5,15 +5,13 @@ import { dbService } from '../../services/db.service.js'
 import { logger } from '../../services/logger.service.js'
 import { utilService } from '../../services/util.service.js'
 
-async function query(filterBy={txt:''},sortBy) {
-  console.log("🚀 ~ file: station.service.js:9 ~ query ~ sortBy:", sortBy)
+async function query(filterBy = { txt: '' }, sortBy) {
   let criteria = {}
 
   try {
     if (filterBy.txt) {
       criteria.name = { $regex: filterBy.txt, $options: 'i' }
     }
-    console.log('filterBy', filterBy)
     const collection = await dbService.getCollection('station')
     const stations = await collection.find(criteria).sort(sortBy).toArray()
 
@@ -25,11 +23,9 @@ async function query(filterBy={txt:''},sortBy) {
 }
 
 async function getById(stationId) {
-  console.log("🚀 ~ file: station.service.js:29 ~ getById ~ stationId:", stationId)
   try {
     const collection = await dbService.getCollection('station')
     const station = collection.findOne({ _id: new ObjectId(stationId) })
-    console.log("🚀 ~ file: station.service.js:32 ~ getById ~ station:", station)
     return station
   } catch (err) {
     logger.error(`while finding station ${stationId}`, err)
