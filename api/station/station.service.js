@@ -16,7 +16,6 @@ async function query(filterBy={txt:''},sortBy) {
     console.log('filterBy', filterBy)
     const collection = await dbService.getCollection('station')
     const stations = await collection.find(criteria).sort(sortBy).toArray()
-    console.log('stations', stations)
 
     return stations
   } catch (err) {
@@ -69,7 +68,8 @@ async function update(station) {
     // }
 
      const stationToSave = {
-      songs:station.songs
+      songs:station.songs,
+      name:station.name
     }
     const collection = await dbService.getCollection('station')
     await collection.updateOne(

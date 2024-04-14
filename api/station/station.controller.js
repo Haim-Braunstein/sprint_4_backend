@@ -5,6 +5,7 @@ import { logger } from '../../services/logger.service.js'
 
 //LIST
 export async function getStations(req, res) {
+    console.log('req!!!!', req.query.params)
     try {
         let { filterBy, sortBy } = req.query.params
 
@@ -14,7 +15,7 @@ export async function getStations(req, res) {
         }
 
         const sortObj = {}
-        sortObj[sortBy.by] = 1
+        sortObj[sortBy.by||'artist'] = 1
     
 
         logger.debug('Getting Stations', filterCriteria, sortObj)

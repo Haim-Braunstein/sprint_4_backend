@@ -4627,3 +4627,676 @@
 13.4.2024, 17:49:42 - INFO - Server is running on port: 3033 
 13.4.2024, 17:50:14 - INFO - server.js loaded... 
 13.4.2024, 17:50:14 - INFO - Server is running on port: 3033 
+13.4.2024, 18:14:36 - INFO - Req was made | / 
+13.4.2024, 18:14:36 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 18:14:38 - INFO - Req was made | / 
+13.4.2024, 18:14:38 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 18:14:57 - INFO - Req was made | / 
+13.4.2024, 18:14:57 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 18:14:59 - INFO - Req was made | / 
+13.4.2024, 18:14:59 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 18:15:11 - INFO - Req was made | / 
+13.4.2024, 18:15:11 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 18:15:11 - INFO - Req was made | / 
+13.4.2024, 18:15:11 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 18:15:13 - INFO - Req was made | / 
+13.4.2024, 18:15:13 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 18:15:13 - INFO - Req was made | / 
+13.4.2024, 18:15:13 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 18:15:19 - INFO - Req was made | / 
+13.4.2024, 18:15:19 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 18:15:19 - INFO - Req was made | / 
+13.4.2024, 18:15:19 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 18:15:22 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 18:15:22 - INFO - Req was made | / 
+13.4.2024, 18:21:24 - INFO - Req was made | / 
+13.4.2024, 18:21:24 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 18:21:25 - INFO - Req was made | / 
+13.4.2024, 18:21:25 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 18:52:53 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 18:52:53 - INFO - Req was made | / 
+13.4.2024, 19:01:35 - INFO - Req was made | / 
+13.4.2024, 19:01:35 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 19:07:51 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 19:07:51 - INFO - Req was made | / 
+13.4.2024, 19:07:54 - INFO - Req was made | / 
+13.4.2024, 19:07:54 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 19:17:54 - INFO - server.js loaded... 
+13.4.2024, 19:17:54 - INFO - Server is running on port: 3033 
+13.4.2024, 20:16:29 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:16:29 - INFO - Req was made | / 
+13.4.2024, 20:16:30 - INFO - Req was made | / 
+13.4.2024, 20:16:30 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+13.4.2024, 20:16:49 - INFO - server.js loaded... 
+13.4.2024, 20:16:49 - INFO - Server is running on port: 3033 
+13.4.2024, 20:16:53 - INFO - Req was made | / 
+13.4.2024, 20:16:53 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+13.4.2024, 20:16:57 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+13.4.2024, 20:16:57 - INFO - Req was made | / 
+13.4.2024, 20:17:07 - INFO - Req was made | / 
+13.4.2024, 20:17:07 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+13.4.2024, 20:18:07 - INFO - Req was made | / 
+13.4.2024, 20:18:07 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+13.4.2024, 20:18:56 - INFO - server.js loaded... 
+13.4.2024, 20:18:56 - INFO - Server is running on port: 3033 
+13.4.2024, 20:19:28 - INFO - server.js loaded... 
+13.4.2024, 20:19:28 - INFO - Server is running on port: 3033 
+13.4.2024, 20:29:13 - INFO - Req was made | / 
+13.4.2024, 20:29:13 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+13.4.2024, 20:30:53 - INFO - server.js loaded... 
+13.4.2024, 20:30:53 - INFO - Server is running on port: 3033 
+13.4.2024, 20:31:20 - INFO - Req was made | / 
+13.4.2024, 20:31:20 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+13.4.2024, 20:31:30 - INFO - Req was made | / 
+13.4.2024, 20:31:30 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:31:32 - INFO - Req was made | / 
+13.4.2024, 20:31:32 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:31:51 - INFO - Req was made | / 
+13.4.2024, 20:31:51 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:32:01 - INFO - Req was made | / 
+13.4.2024, 20:32:01 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 20:32:02 - INFO - Req was made | / 
+13.4.2024, 20:32:02 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 20:32:05 - INFO - Req was made | / 
+13.4.2024, 20:32:05 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 20:32:05 - INFO - Req was made | / 
+13.4.2024, 20:32:05 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 20:32:10 - INFO - Req was made | / 
+13.4.2024, 20:32:10 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 20:33:02 - INFO - Req was made | / 
+13.4.2024, 20:33:02 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+13.4.2024, 20:33:13 - INFO - Req was made | / 
+13.4.2024, 20:33:13 - DEBUG - Getting categories 
+13.4.2024, 20:33:13 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+13.4.2024, 20:33:26 - INFO - Req was made | / 
+13.4.2024, 20:33:26 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+13.4.2024, 20:35:14 - INFO - server.js loaded... 
+13.4.2024, 20:35:14 - INFO - Server is running on port: 3033 
+13.4.2024, 20:35:24 - INFO - server.js loaded... 
+13.4.2024, 20:35:24 - INFO - Server is running on port: 3033 
+13.4.2024, 20:35:30 - INFO - Req was made | / 
+13.4.2024, 20:35:30 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+13.4.2024, 22:27:47 - INFO - Req was made | / 
+13.4.2024, 22:27:47 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 22:27:49 - INFO - Req was made | / 
+13.4.2024, 22:27:49 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 22:29:36 - INFO - Req was made | / 
+13.4.2024, 22:29:36 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 22:30:06 - INFO - Req was made | / 
+13.4.2024, 22:30:06 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 22:37:30 - INFO - Req was made | / 
+13.4.2024, 22:37:30 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 22:38:08 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+13.4.2024, 22:38:08 - INFO - Req was made | / 
+13.4.2024, 22:42:24 - INFO - Req was made | / 
+13.4.2024, 22:42:24 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:42:25 - INFO - Req was made | / 
+13.4.2024, 22:42:25 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:42:41 - INFO - Req was made | / 
+13.4.2024, 22:42:41 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:42:42 - INFO - Req was made | / 
+13.4.2024, 22:42:42 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:42:45 - INFO - Req was made | / 
+13.4.2024, 22:42:45 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:42:45 - INFO - Req was made | / 
+13.4.2024, 22:42:45 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:42:46 - INFO - Req was made | / 
+13.4.2024, 22:42:46 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:42:47 - INFO - Req was made | / 
+13.4.2024, 22:42:47 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:44:15 - INFO - Req was made | / 
+13.4.2024, 22:44:15 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:44:15 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:44:15 - INFO - Req was made | / 
+13.4.2024, 22:44:17 - INFO - Req was made | / 
+13.4.2024, 22:44:17 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:44:17 - INFO - Req was made | / 
+13.4.2024, 22:44:17 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:44:29 - INFO - Req was made | / 
+13.4.2024, 22:44:29 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:44:34 - INFO - Req was made | / 
+13.4.2024, 22:44:34 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:44:49 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:44:49 - INFO - Req was made | / 
+13.4.2024, 22:44:50 - INFO - Req was made | / 
+13.4.2024, 22:44:50 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+13.4.2024, 22:45:24 - INFO - Req was made | / 
+13.4.2024, 22:45:24 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 8:18:30 - INFO - Req was made | / 
+14.4.2024, 8:18:30 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 8:53:42 - INFO - Req was made | / 
+14.4.2024, 8:53:42 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 8:53:43 - INFO - Req was made | / 
+14.4.2024, 8:53:43 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 8:53:50 - INFO - Req was made | / 
+14.4.2024, 8:53:50 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 8:53:58 - INFO - Req was made | / 
+14.4.2024, 8:53:58 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 8:53:59 - INFO - Req was made | / 
+14.4.2024, 8:53:59 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 8:57:14 - INFO - Req was made | / 
+14.4.2024, 8:57:14 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 8:57:15 - INFO - Req was made | / 
+14.4.2024, 8:57:15 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 8:57:18 - INFO - Req was made | / 
+14.4.2024, 8:57:18 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 8:57:18 - INFO - Req was made | / 
+14.4.2024, 8:57:18 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 8:57:42 - INFO - Req was made | / 
+14.4.2024, 8:57:42 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 8:57:42 - INFO - Req was made | / 
+14.4.2024, 8:57:42 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 8:59:31 - INFO - Req was made | / 
+14.4.2024, 8:59:31 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 8:59:32 - INFO - Req was made | / 
+14.4.2024, 8:59:32 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 9:15:43 - INFO - Req was made | / 
+14.4.2024, 9:15:43 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 9:15:43 - INFO - Req was made | / 
+14.4.2024, 9:15:43 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 9:15:54 - INFO - Req was made | / 
+14.4.2024, 9:15:54 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 9:15:56 - INFO - Req was made | / 
+14.4.2024, 9:15:56 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 9:15:57 - INFO - Req was made | / 
+14.4.2024, 9:15:57 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 9:16:13 - INFO - Req was made | / 
+14.4.2024, 9:16:13 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 9:16:13 - INFO - Req was made | / 
+14.4.2024, 9:16:13 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 9:16:19 - INFO - Req was made | / 
+14.4.2024, 9:16:19 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 9:30:27 - INFO - Req was made | / 
+14.4.2024, 9:30:27 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 9:31:50 - INFO - Req was made | / 
+14.4.2024, 9:31:50 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 9:32:46 - INFO - Req was made | / 
+14.4.2024, 9:32:46 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 9:33:04 - INFO - server.js loaded... 
+14.4.2024, 9:33:04 - INFO - Server is running on port: 3033 
+14.4.2024, 9:33:07 - INFO - Req was made | / 
+14.4.2024, 9:33:07 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 9:33:58 - INFO - server.js loaded... 
+14.4.2024, 9:33:58 - INFO - Server is running on port: 3033 
+14.4.2024, 9:34:00 - INFO - Req was made | / 
+14.4.2024, 9:34:00 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 9:34:16 - INFO - server.js loaded... 
+14.4.2024, 9:34:16 - INFO - Server is running on port: 3033 
+14.4.2024, 9:34:16 - INFO - Req was made | / 
+14.4.2024, 9:34:16 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 9:34:35 - INFO - server.js loaded... 
+14.4.2024, 9:34:35 - INFO - Server is running on port: 3033 
+14.4.2024, 9:34:36 - INFO - Req was made | / 
+14.4.2024, 9:34:36 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 9:36:09 - INFO - server.js loaded... 
+14.4.2024, 9:36:09 - INFO - Server is running on port: 3033 
+14.4.2024, 9:36:13 - INFO - Req was made | / 
+14.4.2024, 9:36:13 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 9:36:35 - INFO - server.js loaded... 
+14.4.2024, 9:36:35 - INFO - Server is running on port: 3033 
+14.4.2024, 9:36:35 - INFO - Req was made | / 
+14.4.2024, 9:36:35 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 9:36:46 - INFO - server.js loaded... 
+14.4.2024, 9:36:46 - INFO - Server is running on port: 3033 
+14.4.2024, 9:36:47 - INFO - Req was made | / 
+14.4.2024, 9:36:47 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 9:38:37 - INFO - Req was made | / 
+14.4.2024, 9:38:37 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 9:39:00 - INFO - Req was made | / 
+14.4.2024, 9:39:00 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 9:39:11 - INFO - Req was made | / 
+14.4.2024, 9:39:11 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 9:39:12 - INFO - Req was made | / 
+14.4.2024, 9:39:12 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 9:41:48 - INFO - Req was made | / 
+14.4.2024, 9:41:48 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 9:41:56 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 9:41:56 - INFO - Req was made | / 
+14.4.2024, 9:41:57 - INFO - Req was made | / 
+14.4.2024, 9:41:57 - DEBUG - Getting Stations | {"txt":""} | {"undefined":1} 
+14.4.2024, 9:42:38 - INFO - Req was made | / 
+14.4.2024, 9:42:38 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 9:42:52 - INFO - Req was made | / 
+14.4.2024, 9:42:52 - DEBUG - Getting categories 
+14.4.2024, 9:42:52 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+14.4.2024, 9:42:56 - INFO - Req was made | / 
+14.4.2024, 9:42:56 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 9:44:56 - INFO - server.js loaded... 
+14.4.2024, 9:44:56 - INFO - Server is running on port: 3033 
+14.4.2024, 9:45:04 - INFO - Req was made | / 
+14.4.2024, 9:45:04 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 9:45:05 - INFO - Req was made | / 
+14.4.2024, 9:45:05 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 9:45:06 - INFO - Req was made | / 
+14.4.2024, 9:45:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 9:45:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 9:45:06 - INFO - Req was made | / 
+14.4.2024, 9:45:16 - INFO - Req was made | / 
+14.4.2024, 9:45:16 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 9:45:22 - INFO - Req was made | / 
+14.4.2024, 9:45:22 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 9:45:51 - INFO - Req was made | / 
+14.4.2024, 9:45:51 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 9:46:24 - INFO - Req was made | / 
+14.4.2024, 9:46:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 9:46:24 - INFO - Req was made | / 
+14.4.2024, 9:46:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 9:48:18 - INFO - Req was made | / 
+14.4.2024, 9:48:18 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 9:48:18 - INFO - Req was made | / 
+14.4.2024, 9:48:18 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 9:48:19 - INFO - Req was made | / 
+14.4.2024, 9:48:19 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 9:48:19 - INFO - Req was made | / 
+14.4.2024, 9:48:19 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 9:48:36 - INFO - Req was made | / 
+14.4.2024, 9:48:36 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 9:48:51 - INFO - Req was made | / 
+14.4.2024, 9:48:51 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 9:48:51 - INFO - Req was made | / 
+14.4.2024, 9:48:51 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 9:48:52 - INFO - Req was made | / 
+14.4.2024, 9:48:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 9:48:52 - INFO - Req was made | / 
+14.4.2024, 9:48:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 9:49:48 - INFO - Req was made | / 
+14.4.2024, 9:49:48 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 9:49:48 - INFO - Req was made | / 
+14.4.2024, 9:49:48 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 9:49:49 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 9:49:49 - INFO - Req was made | / 
+14.4.2024, 9:49:49 - INFO - Req was made | / 
+14.4.2024, 9:49:49 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 9:49:49 - INFO - Req was made | / 
+14.4.2024, 9:49:49 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 9:49:56 - INFO - Req was made | / 
+14.4.2024, 9:49:56 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 9:50:12 - INFO - Req was made | / 
+14.4.2024, 9:50:12 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 9:50:12 - INFO - Req was made | / 
+14.4.2024, 9:50:12 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 9:50:12 - INFO - Req was made | / 
+14.4.2024, 9:50:12 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 9:50:13 - INFO - Req was made | / 
+14.4.2024, 9:50:13 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:01:18 - INFO - Req was made | / 
+14.4.2024, 10:01:19 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 10:01:23 - INFO - Req was made | / 
+14.4.2024, 10:01:23 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 10:01:25 - INFO - Req was made | / 
+14.4.2024, 10:01:25 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 10:13:18 - INFO - Req was made | / 
+14.4.2024, 10:13:18 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 10:13:20 - INFO - Req was made | / 
+14.4.2024, 10:13:20 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 10:13:21 - INFO - Req was made | / 
+14.4.2024, 10:13:21 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 10:13:24 - INFO - Req was made | / 
+14.4.2024, 10:13:24 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 10:13:48 - INFO - Req was made | / 
+14.4.2024, 10:13:48 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:13:49 - INFO - Req was made | / 
+14.4.2024, 10:13:49 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:14:14 - INFO - Req was made | / 
+14.4.2024, 10:14:14 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 10:22:12 - INFO - Req was made | / 
+14.4.2024, 10:22:12 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:22:13 - INFO - Req was made | / 
+14.4.2024, 10:22:13 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:22:15 - INFO - Req was made | / 
+14.4.2024, 10:22:15 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:23:20 - INFO - Req was made | / 
+14.4.2024, 10:23:20 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 10:23:39 - INFO - Req was made | / 
+14.4.2024, 10:23:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:23:39 - INFO - Req was made | / 
+14.4.2024, 10:23:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:23:47 - INFO - Req was made | / 
+14.4.2024, 10:23:47 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:23:48 - INFO - Req was made | / 
+14.4.2024, 10:23:48 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:23:58 - INFO - Req was made | / 
+14.4.2024, 10:23:58 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:23:59 - INFO - Req was made | / 
+14.4.2024, 10:23:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:26:38 - INFO - Req was made | / 
+14.4.2024, 10:26:38 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 10:26:46 - INFO - Req was made | / 
+14.4.2024, 10:26:46 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 10:27:13 - INFO - server.js loaded... 
+14.4.2024, 10:27:13 - INFO - Server is running on port: 3033 
+14.4.2024, 10:27:18 - INFO - Req was made | / 
+14.4.2024, 10:27:18 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 10:27:34 - INFO - Req was made | / 
+14.4.2024, 10:27:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:28:00 - INFO - Req was made | / 
+14.4.2024, 10:28:00 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 10:31:08 - INFO - Req was made | / 
+14.4.2024, 10:31:08 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:31:08 - INFO - Req was made | / 
+14.4.2024, 10:31:08 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:31:19 - INFO - Req was made | / 
+14.4.2024, 10:31:19 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 10:31:22 - INFO - Req was made | / 
+14.4.2024, 10:31:22 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:31:56 - INFO - Req was made | / 
+14.4.2024, 10:31:56 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 10:32:03 - INFO - Req was made | / 
+14.4.2024, 10:32:03 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 10:32:13 - INFO - Req was made | / 
+14.4.2024, 10:32:13 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 10:32:17 - INFO - Req was made | / 
+14.4.2024, 10:32:17 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 10:32:27 - INFO - Req was made | / 
+14.4.2024, 10:32:27 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 10:32:37 - INFO - Req was made | / 
+14.4.2024, 10:32:37 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 10:33:32 - INFO - Req was made | / 
+14.4.2024, 10:33:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:33:33 - INFO - Req was made | / 
+14.4.2024, 10:33:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:33:39 - INFO - Req was made | / 
+14.4.2024, 10:33:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:33:39 - INFO - Req was made | / 
+14.4.2024, 10:33:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:34:04 - INFO - Req was made | / 
+14.4.2024, 10:34:04 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:34:05 - INFO - Req was made | / 
+14.4.2024, 10:34:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:34:12 - INFO - Req was made | / 
+14.4.2024, 10:34:12 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:34:12 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:34:12 - INFO - Req was made | / 
+14.4.2024, 10:34:14 - INFO - Req was made | / 
+14.4.2024, 10:34:14 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:34:14 - INFO - Req was made | / 
+14.4.2024, 10:34:14 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:34:17 - INFO - Req was made | / 
+14.4.2024, 10:34:17 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:34:17 - ERROR - cannot update station [object Object] | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+14.4.2024, 10:34:17 - ERROR - Failed to update station | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+14.4.2024, 10:34:21 - INFO - Req was made | / 
+14.4.2024, 10:34:21 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:34:21 - ERROR - Failed to update station | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+14.4.2024, 10:34:21 - ERROR - cannot update station [object Object] | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+14.4.2024, 10:34:24 - INFO - Req was made | / 
+14.4.2024, 10:34:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:34:25 - INFO - Req was made | / 
+14.4.2024, 10:34:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:37:38 - INFO - Req was made | / 
+14.4.2024, 10:37:38 - ERROR - Failed to get stations | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+14.4.2024, 10:37:57 - INFO - Req was made | / 
+14.4.2024, 10:37:57 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 10:39:41 - INFO - server.js loaded... 
+14.4.2024, 10:39:42 - INFO - Server is running on port: 3033 
+14.4.2024, 10:40:11 - INFO - server.js loaded... 
+14.4.2024, 10:40:11 - INFO - Server is running on port: 3033 
+14.4.2024, 10:40:41 - INFO - server.js loaded... 
+14.4.2024, 10:40:41 - INFO - Server is running on port: 3033 
+14.4.2024, 10:42:49 - INFO - Req was made | / 
+14.4.2024, 10:42:49 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:42:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:42:50 - INFO - Req was made | / 
+14.4.2024, 10:42:59 - INFO - Req was made | / 
+14.4.2024, 10:42:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:42:59 - INFO - Req was made | / 
+14.4.2024, 10:42:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:43:11 - INFO - Req was made | / 
+14.4.2024, 10:43:11 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:43:12 - INFO - Req was made | / 
+14.4.2024, 10:43:12 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:43:36 - INFO - Req was made | / 
+14.4.2024, 10:43:36 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:43:36 - INFO - Req was made | / 
+14.4.2024, 10:43:36 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:43:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:43:40 - INFO - Req was made | / 
+14.4.2024, 10:43:46 - INFO - Req was made | / 
+14.4.2024, 10:43:46 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:43:46 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:43:46 - INFO - Req was made | / 
+14.4.2024, 10:43:54 - INFO - Req was made | / 
+14.4.2024, 10:43:54 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:43:54 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:43:54 - INFO - Req was made | / 
+14.4.2024, 10:43:59 - INFO - Req was made | / 
+14.4.2024, 10:43:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:44:00 - INFO - Req was made | / 
+14.4.2024, 10:44:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:44:13 - INFO - Req was made | / 
+14.4.2024, 10:44:13 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:44:14 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 10:44:14 - INFO - Req was made | / 
+14.4.2024, 11:04:24 - INFO - Req was made | / 
+14.4.2024, 11:04:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:04:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:04:24 - INFO - Req was made | / 
+14.4.2024, 11:04:31 - INFO - Req was made | / 
+14.4.2024, 11:04:31 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:04:32 - INFO - Req was made | / 
+14.4.2024, 11:04:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:04:34 - INFO - Req was made | / 
+14.4.2024, 11:04:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:04:38 - INFO - Req was made | / 
+14.4.2024, 11:04:38 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 11:04:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:04:38 - INFO - Req was made | / 
+14.4.2024, 11:04:39 - INFO - Req was made | / 
+14.4.2024, 11:04:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:04:39 - INFO - Req was made | / 
+14.4.2024, 11:04:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:04:44 - INFO - Req was made | / 
+14.4.2024, 11:04:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:04:44 - INFO - Req was made | / 
+14.4.2024, 11:04:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:04:54 - INFO - Req was made | / 
+14.4.2024, 11:04:54 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:04:54 - INFO - Req was made | / 
+14.4.2024, 11:04:54 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:04:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:04:56 - INFO - Req was made | / 
+14.4.2024, 11:04:57 - INFO - Req was made | / 
+14.4.2024, 11:04:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:04:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:04:59 - INFO - Req was made | / 
+14.4.2024, 11:04:59 - INFO - Req was made | / 
+14.4.2024, 11:04:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:02 - INFO - Req was made | / 
+14.4.2024, 11:05:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:03 - INFO - Req was made | / 
+14.4.2024, 11:05:03 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:05 - INFO - Req was made | / 
+14.4.2024, 11:05:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:05 - INFO - Req was made | / 
+14.4.2024, 11:05:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:06 - INFO - Req was made | / 
+14.4.2024, 11:05:07 - INFO - Req was made | / 
+14.4.2024, 11:05:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:10 - INFO - Req was made | / 
+14.4.2024, 11:05:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:10 - INFO - Req was made | / 
+14.4.2024, 11:05:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:13 - INFO - Req was made | / 
+14.4.2024, 11:05:13 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:13 - INFO - Req was made | / 
+14.4.2024, 11:05:13 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:16 - INFO - Req was made | / 
+14.4.2024, 11:05:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:17 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:17 - INFO - Req was made | / 
+14.4.2024, 11:05:40 - INFO - Req was made | / 
+14.4.2024, 11:05:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:40 - INFO - Req was made | / 
+14.4.2024, 11:05:41 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:43 - INFO - Req was made | / 
+14.4.2024, 11:05:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:44 - INFO - Req was made | / 
+14.4.2024, 11:05:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:46 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:46 - INFO - Req was made | / 
+14.4.2024, 11:05:46 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:53 - INFO - Req was made | / 
+14.4.2024, 11:05:46 - INFO - Req was made | / 
+14.4.2024, 11:05:54 - INFO - Req was made | / 
+14.4.2024, 11:05:53 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:05:54 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:06:00 - INFO - Req was made | / 
+14.4.2024, 11:06:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:06:01 - INFO - Req was made | / 
+14.4.2024, 11:06:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:06:04 - INFO - Req was made | / 
+14.4.2024, 11:06:04 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:06:04 - INFO - Req was made | / 
+14.4.2024, 11:06:04 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:06:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:06:08 - INFO - Req was made | / 
+14.4.2024, 11:06:07 - INFO - Req was made | / 
+14.4.2024, 11:06:08 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:06:19 - INFO - Req was made | / 
+14.4.2024, 11:06:19 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:06:19 - INFO - Req was made | / 
+14.4.2024, 11:06:19 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:06:22 - INFO - Req was made | / 
+14.4.2024, 11:06:22 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:06:25 - INFO - Req was made | / 
+14.4.2024, 11:06:25 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 11:06:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:06:25 - INFO - Req was made | / 
+14.4.2024, 11:06:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:06:26 - INFO - Req was made | / 
+14.4.2024, 11:07:15 - INFO - Req was made | / 
+14.4.2024, 11:07:15 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:07:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:07:16 - INFO - Req was made | / 
+14.4.2024, 11:07:18 - INFO - Req was made | / 
+14.4.2024, 11:07:18 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:07:18 - INFO - Req was made | / 
+14.4.2024, 11:07:18 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:07:24 - INFO - Req was made | / 
+14.4.2024, 11:07:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:07:24 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 11:07:24 - INFO - Req was made | / 
+14.4.2024, 11:07:25 - INFO - Req was made | / 
+14.4.2024, 11:07:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:07:25 - INFO - Req was made | / 
+14.4.2024, 11:07:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:09:09 - INFO - server.js loaded... 
+14.4.2024, 11:09:09 - INFO - Server is running on port: 3033 
+14.4.2024, 11:10:15 - INFO - Req was made | / 
+14.4.2024, 11:10:15 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 11:10:18 - INFO - Req was made | / 
+14.4.2024, 11:10:18 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:10:19 - INFO - Req was made | / 
+14.4.2024, 11:10:19 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:10:23 - INFO - Req was made | / 
+14.4.2024, 11:10:23 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:10:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:10:24 - INFO - Req was made | / 
+14.4.2024, 11:10:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:10:25 - INFO - Req was made | / 
+14.4.2024, 11:10:29 - INFO - Req was made | / 
+14.4.2024, 11:10:29 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:10:30 - INFO - Req was made | / 
+14.4.2024, 11:10:30 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:10:31 - INFO - Req was made | / 
+14.4.2024, 11:10:31 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:10:32 - INFO - Req was made | / 
+14.4.2024, 11:10:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:10:33 - INFO - Req was made | / 
+14.4.2024, 11:10:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:10:33 - INFO - Req was made | / 
+14.4.2024, 11:10:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:10:36 - INFO - Req was made | / 
+14.4.2024, 11:10:36 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 11:10:36 - INFO - Req was made | / 
+14.4.2024, 11:10:36 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:10:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:10:37 - INFO - Req was made | / 
+14.4.2024, 11:10:37 - INFO - Req was made | / 
+14.4.2024, 11:10:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:10:57 - INFO - Req was made | / 
+14.4.2024, 11:10:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:10:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:10:57 - INFO - Req was made | / 
+14.4.2024, 11:11:00 - INFO - Req was made | / 
+14.4.2024, 11:11:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:15:28 - INFO - server.js loaded... 
+14.4.2024, 11:15:28 - INFO - Server is running on port: 3033 
+14.4.2024, 11:15:31 - INFO - Req was made | / 
+14.4.2024, 11:15:31 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:15:33 - INFO - Req was made | / 
+14.4.2024, 11:15:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:15:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:15:34 - INFO - Req was made | / 
+14.4.2024, 11:16:48 - INFO - server.js loaded... 
+14.4.2024, 11:16:49 - INFO - Server is running on port: 3033 
+14.4.2024, 11:16:54 - INFO - Req was made | / 
+14.4.2024, 11:16:54 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 11:16:54 - INFO - Req was made | / 
+14.4.2024, 11:16:54 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:16:57 - INFO - Req was made | / 
+14.4.2024, 11:16:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:17:00 - INFO - Req was made | / 
+14.4.2024, 11:17:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:17:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:17:01 - INFO - Req was made | / 
+14.4.2024, 11:17:02 - INFO - Req was made | / 
+14.4.2024, 11:17:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:17:06 - INFO - Req was made | / 
+14.4.2024, 11:17:06 - INFO - Req was made | / 
+14.4.2024, 11:17:06 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 11:17:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:17:13 - INFO - Req was made | / 
+14.4.2024, 11:17:13 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:17:45 - INFO - server.js loaded... 
+14.4.2024, 11:17:45 - INFO - Server is running on port: 3033 
+14.4.2024, 11:19:01 - INFO - Req was made | / 
+14.4.2024, 11:19:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:19:03 - INFO - Req was made | / 
+14.4.2024, 11:19:03 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:19:16 - INFO - Req was made | / 
+14.4.2024, 11:19:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:19:17 - INFO - Req was made | / 
+14.4.2024, 11:19:17 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:19:45 - INFO - Req was made | / 
+14.4.2024, 11:19:45 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:19:45 - INFO - Req was made | / 
+14.4.2024, 11:19:45 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:20:05 - INFO - Req was made | / 
+14.4.2024, 11:20:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:20:06 - INFO - Req was made | / 
+14.4.2024, 11:20:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:21:30 - INFO - Req was made | / 
+14.4.2024, 11:21:30 - DEBUG - Getting categories 
+14.4.2024, 11:21:30 - ERROR - Failed to get categories | ReferenceError: logger is not defined 
+14.4.2024, 11:21:42 - INFO - Req was made | / 
+14.4.2024, 11:21:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:21:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:21:42 - INFO - Req was made | / 
+14.4.2024, 11:22:15 - INFO - Req was made | / 
+14.4.2024, 11:22:15 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:22:15 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:22:15 - INFO - Req was made | / 
+14.4.2024, 11:22:49 - INFO - Req was made | / 
+14.4.2024, 11:22:49 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:22:49 - INFO - Req was made | / 
+14.4.2024, 11:22:49 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:22:59 - INFO - Req was made | / 
+14.4.2024, 11:22:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:22:59 - INFO - Req was made | / 
+14.4.2024, 11:22:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:23:05 - INFO - Req was made | / 
+14.4.2024, 11:23:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:23:08 - INFO - Req was made | / 
+14.4.2024, 11:23:08 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:23:08 - INFO - Req was made | / 
+14.4.2024, 11:23:08 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+14.4.2024, 11:23:09 - INFO - Req was made | / 
+14.4.2024, 11:23:09 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:23:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:23:10 - INFO - Req was made | / 
+14.4.2024, 11:23:15 - INFO - Req was made | / 
+14.4.2024, 11:23:15 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 11:23:16 - INFO - Req was made | / 
+14.4.2024, 11:23:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
