@@ -1,5 +1,7 @@
 import { stationService } from './station.service.js'
 import { logger } from '../../services/logger.service.js'
+import { socketService } from '../../services/socket.service.js'
+
 
 
 
@@ -57,6 +59,14 @@ export async function updateStation(req, res) {
         const station = req.body
         const updatedStation = await stationService.update(station)
         res.json(updatedStation)
+
+        console.log("🚀 ~ file: station.controller.js:72 ~ updateStation ~ updatedStation:", updatedStation)
+
+        // socketService.emitTo({
+        //     type: 'station-updated',
+        //     data: updatedStation,
+        //     label: `station:${updatedStation._id}`,
+        // })
     } catch (err) {
         logger.error('Failed to update station', err)
         res.status(500).send({ err: 'Failed to update station' })

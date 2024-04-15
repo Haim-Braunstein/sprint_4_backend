@@ -2,15 +2,23 @@ import express from 'express'
 import cookieParser from 'cookie-parser'
 import cors from 'cors'
 import path, { dirname } from 'path'
+import http from 'http'
 import { fileURLToPath } from 'url'
+import { logger } from './services/logger.service.js'
+import { setupSocketAPI } from './services/socket.service.js'
+import { Server } from 'socket.io'
+
+
+
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
-import { logger } from './services/logger.service.js'
 logger.info('server.js loaded...')
 
 const app = express()
+const server = http.createServer(app)
+
 
 // Express App Config
 app.use(cookieParser())
@@ -44,7 +52,6 @@ import { userRoutes } from './api/user/user.routes.js'
 import { stationRoutes } from './api/station/station.routes.js'
 import { categoryRoutes } from './api/category/category.routes.js'
 
-
 // routes
 import { setupAsyncLocalStorage } from './middlewares/setupAls.middleware.js'
 app.all('*', setupAsyncLocalStorage)
@@ -53,6 +60,8 @@ app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)
 app.use('/api/station', stationRoutes)
 app.use('/api/category', categoryRoutes)
+setupSocketAPI(server)
+
 // app.use('/api/review', reviewRoutes)
 
 // Make every unmatched server-side-route fall back to index.html
@@ -65,6 +74,6 @@ app.get('/**', (req, res) => {
 
 const port = process.env.PORT || 3033
 
-app.listen(port, () => {
+server.listen(port, () => {
     logger.info('Server is running on port: ' + port)
 })

@@ -6729,3 +6729,1984 @@
 14.4.2024, 21:38:23 - INFO - Req was made | / 
 14.4.2024, 21:38:24 - INFO - Req was made | / 
 14.4.2024, 21:38:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 21:59:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 21:59:01 - INFO - Req was made | / 
+14.4.2024, 21:59:17 - INFO - Req was made | / 
+14.4.2024, 21:59:17 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 21:59:23 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+14.4.2024, 21:59:23 - INFO - Req was made | / 
+15.4.2024, 8:25:14 - INFO - server.js loaded... 
+15.4.2024, 8:25:14 - INFO - Server is running on port: 3033 
+15.4.2024, 8:25:18 - INFO - Req was made | / 
+15.4.2024, 8:25:18 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 8:25:30 - INFO - Req was made | / 
+15.4.2024, 8:25:30 - DEBUG - Getting categories 
+15.4.2024, 8:27:34 - INFO - Req was made | / 
+15.4.2024, 8:27:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 8:27:35 - INFO - Req was made | / 
+15.4.2024, 8:27:35 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 8:28:07 - INFO - Req was made | / 
+15.4.2024, 8:28:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 8:28:08 - INFO - Req was made | / 
+15.4.2024, 8:28:08 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 8:29:14 - INFO - Req was made | / 
+15.4.2024, 8:29:14 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 8:29:17 - INFO - Req was made | / 
+15.4.2024, 8:29:17 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 8:29:17 - INFO - Req was made | / 
+15.4.2024, 8:29:17 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 8:29:56 - INFO - Req was made | / 
+15.4.2024, 8:29:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 8:29:56 - INFO - Req was made | / 
+15.4.2024, 8:29:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 8:30:01 - INFO - Req was made | / 
+15.4.2024, 8:30:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 8:30:02 - INFO - Req was made | / 
+15.4.2024, 8:30:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 8:30:07 - INFO - Req was made | / 
+15.4.2024, 8:30:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 8:31:24 - INFO - Req was made | / 
+15.4.2024, 8:31:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 8:31:28 - INFO - Req was made | / 
+15.4.2024, 8:31:28 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 8:40:37 - INFO - server.js loaded... 
+15.4.2024, 8:40:37 - INFO - Server is running on port: 3033 
+15.4.2024, 8:52:20 - INFO - server.js loaded... 
+15.4.2024, 8:52:20 - INFO - Server is running on port: 3033 
+15.4.2024, 8:52:32 - INFO - server.js loaded... 
+15.4.2024, 8:52:32 - INFO - Server is running on port: 3033 
+15.4.2024, 9:11:25 - INFO - server.js loaded... 
+15.4.2024, 9:11:25 - INFO - Server is running on port: 3033 
+15.4.2024, 9:12:11 - INFO - server.js loaded... 
+15.4.2024, 9:12:11 - INFO - Server is running on port: 3033 
+15.4.2024, 9:12:42 - INFO - Req was made | / 
+15.4.2024, 9:12:42 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 9:16:09 - INFO - server.js loaded... 
+15.4.2024, 9:16:09 - INFO - Server is running on port: 3033 
+15.4.2024, 9:21:54 - INFO - Req was made | / 
+15.4.2024, 9:21:54 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 9:22:25 - INFO - Req was made | / 
+15.4.2024, 9:22:25 - DEBUG - Getting categories 
+15.4.2024, 9:23:47 - INFO - server.js loaded... 
+15.4.2024, 9:23:47 - INFO - Server is running on port: 3033 
+15.4.2024, 9:24:24 - INFO - server.js loaded... 
+15.4.2024, 9:24:24 - INFO - Server is running on port: 3033 
+15.4.2024, 9:24:48 - INFO - server.js loaded... 
+15.4.2024, 9:24:48 - INFO - Server is running on port: 3033 
+15.4.2024, 9:58:51 - INFO - server.js loaded... 
+15.4.2024, 9:58:51 - INFO - Server is running on port: 3033 
+15.4.2024, 9:59:03 - INFO - Req was made | / 
+15.4.2024, 9:59:03 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 9:59:46 - INFO - Req was made | / 
+15.4.2024, 9:59:46 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:20:29 - INFO - server.js loaded... 
+15.4.2024, 10:20:29 - INFO - Server is running on port: 3033 
+15.4.2024, 10:20:37 - INFO - Req was made | / 
+15.4.2024, 10:20:37 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:21:20 - INFO - Req was made | / 
+15.4.2024, 10:21:20 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:21:39 - INFO - Req was made | / 
+15.4.2024, 10:21:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:21:40 - INFO - Req was made | / 
+15.4.2024, 10:21:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:21:40 - INFO - Req was made | / 
+15.4.2024, 10:21:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:21:41 - INFO - Req was made | / 
+15.4.2024, 10:21:41 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:21:46 - INFO - Req was made | / 
+15.4.2024, 10:21:46 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:21:50 - INFO - Req was made | / 
+15.4.2024, 10:21:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:21:54 - INFO - Req was made | / 
+15.4.2024, 10:21:54 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:22:05 - INFO - Req was made | / 
+15.4.2024, 10:22:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:22:07 - INFO - Req was made | / 
+15.4.2024, 10:22:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:22:44 - INFO - Req was made | / 
+15.4.2024, 10:22:44 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:22:49 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:22:49 - INFO - Req was made | / 
+15.4.2024, 10:22:50 - INFO - Req was made | / 
+15.4.2024, 10:22:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:22:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:22:50 - INFO - Req was made | / 
+15.4.2024, 10:22:51 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:22:51 - INFO - Req was made | / 
+15.4.2024, 10:22:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:22:52 - INFO - Req was made | / 
+15.4.2024, 10:23:01 - INFO - Req was made | / 
+15.4.2024, 10:23:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:23:06 - INFO - Req was made | / 
+15.4.2024, 10:23:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:23:10 - INFO - Req was made | / 
+15.4.2024, 10:23:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:23:41 - INFO - server.js loaded... 
+15.4.2024, 10:23:41 - INFO - Server is running on port: 3033 
+15.4.2024, 10:33:05 - INFO - server.js loaded... 
+15.4.2024, 10:33:05 - INFO - Server is running on port: 3033 
+15.4.2024, 10:33:38 - INFO - server.js loaded... 
+15.4.2024, 10:33:38 - INFO - Server is running on port: 3033 
+15.4.2024, 10:34:26 - INFO - Req was made | / 
+15.4.2024, 10:34:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:34:26 - INFO - Req was made | / 
+15.4.2024, 10:34:26 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:34:35 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:34:35 - INFO - Req was made | / 
+15.4.2024, 10:34:35 - INFO - Req was made | / 
+15.4.2024, 10:34:35 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:36:21 - INFO - server.js loaded... 
+15.4.2024, 10:36:21 - INFO - Server is running on port: 3033 
+15.4.2024, 10:36:25 - INFO - Req was made | / 
+15.4.2024, 10:36:25 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:37:36 - INFO - server.js loaded... 
+15.4.2024, 10:37:36 - INFO - Server is running on port: 3033 
+15.4.2024, 10:37:39 - INFO - Req was made | / 
+15.4.2024, 10:37:39 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:37:53 - INFO - Req was made | / 
+15.4.2024, 10:37:53 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:38:07 - INFO - server.js loaded... 
+15.4.2024, 10:38:08 - INFO - Server is running on port: 3033 
+15.4.2024, 10:38:13 - INFO - Req was made | / 
+15.4.2024, 10:38:13 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:38:40 - INFO - server.js loaded... 
+15.4.2024, 10:38:40 - INFO - Server is running on port: 3033 
+15.4.2024, 10:39:07 - INFO - Req was made | / 
+15.4.2024, 10:39:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:39:08 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:39:08 - INFO - Req was made | / 
+15.4.2024, 10:39:12 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:39:12 - INFO - Req was made | / 
+15.4.2024, 10:39:40 - INFO - Req was made | / 
+15.4.2024, 10:39:40 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:45:33 - INFO - Req was made | / 
+15.4.2024, 10:45:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:45:45 - INFO - server.js loaded... 
+15.4.2024, 10:45:46 - INFO - Server is running on port: 3033 
+15.4.2024, 10:46:12 - INFO - Req was made | / 
+15.4.2024, 10:46:12 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:46:12 - INFO - Req was made | / 
+15.4.2024, 10:46:12 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:46:12 - INFO - Req was made | / 
+15.4.2024, 10:46:12 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 10:46:15 - INFO - Req was made | / 
+15.4.2024, 10:46:15 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:47:54 - INFO - Req was made | / 
+15.4.2024, 10:47:54 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:51:32 - INFO - Req was made | / 
+15.4.2024, 10:51:32 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:57:48 - INFO - server.js loaded... 
+15.4.2024, 10:57:48 - INFO - Server is running on port: 3033 
+15.4.2024, 10:57:59 - INFO - Req was made | / 
+15.4.2024, 10:57:59 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:59:06 - INFO - Req was made | / 
+15.4.2024, 10:59:06 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:59:16 - INFO - Req was made | / 
+15.4.2024, 10:59:16 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 10:59:50 - INFO - Req was made | / 
+15.4.2024, 10:59:50 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:00:00 - INFO - Req was made | / 
+15.4.2024, 11:00:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:00:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:00:02 - INFO - Req was made | / 
+15.4.2024, 11:00:16 - INFO - Req was made | / 
+15.4.2024, 11:00:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:00:16 - INFO - Req was made | / 
+15.4.2024, 11:00:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:00:18 - INFO - Req was made | / 
+15.4.2024, 11:00:18 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:00:19 - INFO - Req was made | / 
+15.4.2024, 11:00:19 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:00:22 - INFO - Req was made | / 
+15.4.2024, 11:00:22 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:00:26 - INFO - Req was made | / 
+15.4.2024, 11:00:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:00:32 - INFO - Req was made | / 
+15.4.2024, 11:00:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:01:49 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:01:49 - INFO - Req was made | / 
+15.4.2024, 11:01:49 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:01:49 - INFO - Req was made | / 
+15.4.2024, 11:01:50 - INFO - Req was made | / 
+15.4.2024, 11:01:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:01:50 - INFO - Req was made | / 
+15.4.2024, 11:01:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:06:05 - INFO - Req was made | / 
+15.4.2024, 11:06:05 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:08:16 - INFO - Req was made | / 
+15.4.2024, 11:08:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:08:18 - INFO - Req was made | / 
+15.4.2024, 11:08:18 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:08:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:08:26 - INFO - Req was made | / 
+15.4.2024, 11:08:26 - INFO - Req was made | / 
+15.4.2024, 11:08:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:08:27 - INFO - Req was made | / 
+15.4.2024, 11:08:27 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:09:13 - INFO - Req was made | / 
+15.4.2024, 11:09:13 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:09:13 - INFO - Req was made | / 
+15.4.2024, 11:09:13 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:10:35 - INFO - Req was made | / 
+15.4.2024, 11:10:35 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:10:38 - INFO - Req was made | / 
+15.4.2024, 11:10:38 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:10:43 - INFO - Req was made | / 
+15.4.2024, 11:10:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:10:56 - INFO - Req was made | / 
+15.4.2024, 11:10:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:11:00 - INFO - Req was made | / 
+15.4.2024, 11:11:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:11:11 - INFO - Req was made | / 
+15.4.2024, 11:11:11 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:11:14 - INFO - Req was made | / 
+15.4.2024, 11:11:14 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:11:51 - INFO - Req was made | / 
+15.4.2024, 11:11:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:11:53 - INFO - Req was made | / 
+15.4.2024, 11:11:53 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:12:06 - INFO - Req was made | / 
+15.4.2024, 11:12:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:12:06 - INFO - Req was made | / 
+15.4.2024, 11:12:06 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:12:08 - INFO - Req was made | / 
+15.4.2024, 11:12:08 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:12:19 - INFO - Req was made | / 
+15.4.2024, 11:12:19 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:12:21 - INFO - Req was made | / 
+15.4.2024, 11:12:21 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:13:22 - INFO - Req was made | / 
+15.4.2024, 11:13:22 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:22:57 - INFO - Req was made | / 
+15.4.2024, 11:22:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:22:57 - INFO - Req was made | / 
+15.4.2024, 11:22:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:23:02 - INFO - Req was made | / 
+15.4.2024, 11:23:02 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:23:05 - INFO - Req was made | / 
+15.4.2024, 11:23:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:23:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:23:07 - INFO - Req was made | / 
+15.4.2024, 11:23:09 - INFO - Req was made | / 
+15.4.2024, 11:23:09 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:23:26 - INFO - Req was made | / 
+15.4.2024, 11:23:26 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:23:38 - INFO - Req was made | / 
+15.4.2024, 11:23:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:23:38 - INFO - Req was made | / 
+15.4.2024, 11:23:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:23:43 - INFO - Req was made | / 
+15.4.2024, 11:23:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:23:44 - INFO - Req was made | / 
+15.4.2024, 11:23:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:23:44 - INFO - Req was made | / 
+15.4.2024, 11:23:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:23:44 - INFO - Req was made | / 
+15.4.2024, 11:23:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:23:47 - INFO - Req was made | / 
+15.4.2024, 11:23:47 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:23:48 - INFO - Req was made | / 
+15.4.2024, 11:23:48 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:23:48 - INFO - Req was made | / 
+15.4.2024, 11:23:48 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:23:48 - INFO - Req was made | / 
+15.4.2024, 11:23:48 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:23:52 - INFO - Req was made | / 
+15.4.2024, 11:23:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:23:53 - INFO - Req was made | / 
+15.4.2024, 11:23:53 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:23:54 - INFO - Req was made | / 
+15.4.2024, 11:23:54 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:23:56 - INFO - Req was made | / 
+15.4.2024, 11:23:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:24:01 - INFO - Req was made | / 
+15.4.2024, 11:24:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:24:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:24:01 - INFO - Req was made | / 
+15.4.2024, 11:24:02 - INFO - Req was made | / 
+15.4.2024, 11:24:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:24:02 - INFO - Req was made | / 
+15.4.2024, 11:24:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:24:05 - INFO - Req was made | / 
+15.4.2024, 11:24:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:24:06 - INFO - Req was made | / 
+15.4.2024, 11:24:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:24:06 - INFO - Req was made | / 
+15.4.2024, 11:24:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:24:08 - INFO - Req was made | / 
+15.4.2024, 11:24:08 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:25:17 - INFO - Req was made | / 
+15.4.2024, 11:25:17 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:25:18 - INFO - Req was made | / 
+15.4.2024, 11:25:18 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:25:18 - INFO - Req was made | / 
+15.4.2024, 11:25:18 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:25:21 - INFO - Req was made | / 
+15.4.2024, 11:25:21 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:25:25 - INFO - Req was made | / 
+15.4.2024, 11:25:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:25:36 - INFO - Req was made | / 
+15.4.2024, 11:25:36 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:25:36 - INFO - Req was made | / 
+15.4.2024, 11:25:36 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:25:37 - INFO - Req was made | / 
+15.4.2024, 11:25:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:26:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:26:02 - INFO - Req was made | / 
+15.4.2024, 11:26:28 - INFO - Req was made | / 
+15.4.2024, 11:26:28 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:26:29 - INFO - Req was made | / 
+15.4.2024, 11:26:29 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:26:32 - INFO - Req was made | / 
+15.4.2024, 11:26:33 - INFO - Req was made | / 
+15.4.2024, 11:26:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:26:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:26:33 - INFO - Req was made | / 
+15.4.2024, 11:26:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:26:33 - INFO - Req was made | / 
+15.4.2024, 11:26:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:26:40 - INFO - Req was made | / 
+15.4.2024, 11:26:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:36:43 - INFO - Req was made | / 
+15.4.2024, 11:36:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:36:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:36:43 - INFO - Req was made | / 
+15.4.2024, 11:36:49 - INFO - Req was made | / 
+15.4.2024, 11:36:49 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:36:49 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:36:49 - INFO - Req was made | / 
+15.4.2024, 11:36:49 - INFO - Req was made | / 
+15.4.2024, 11:36:49 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:02 - INFO - Req was made | / 
+15.4.2024, 11:43:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:02 - INFO - Req was made | / 
+15.4.2024, 11:43:05 - INFO - Req was made | / 
+15.4.2024, 11:43:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:05 - INFO - Req was made | / 
+15.4.2024, 11:43:06 - INFO - Req was made | / 
+15.4.2024, 11:43:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:05 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:43:06 - INFO - Req was made | / 
+15.4.2024, 11:43:06 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:43:06 - INFO - Req was made | / 
+15.4.2024, 11:43:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:09 - INFO - Req was made | / 
+15.4.2024, 11:43:09 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:10 - INFO - Req was made | / 
+15.4.2024, 11:43:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:12 - INFO - Req was made | / 
+15.4.2024, 11:43:12 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:43:12 - INFO - Req was made | / 
+15.4.2024, 11:43:12 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:21 - INFO - Req was made | / 
+15.4.2024, 11:43:21 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:43:21 - INFO - Req was made | / 
+15.4.2024, 11:43:21 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:22 - INFO - Req was made | / 
+15.4.2024, 11:43:22 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:23 - INFO - Req was made | / 
+15.4.2024, 11:43:23 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:29 - INFO - Req was made | / 
+15.4.2024, 11:43:29 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:30 - INFO - Req was made | / 
+15.4.2024, 11:43:30 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:32 - INFO - Req was made | / 
+15.4.2024, 11:43:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:36 - INFO - Req was made | / 
+15.4.2024, 11:43:36 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:40 - INFO - Req was made | / 
+15.4.2024, 11:43:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:43 - INFO - Req was made | / 
+15.4.2024, 11:43:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:52 - INFO - Req was made | / 
+15.4.2024, 11:43:52 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:43:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:43:56 - INFO - Req was made | / 
+15.4.2024, 11:43:56 - INFO - Req was made | / 
+15.4.2024, 11:43:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:44:00 - INFO - Req was made | / 
+15.4.2024, 11:44:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:44:00 - INFO - Req was made | / 
+15.4.2024, 11:44:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:44:20 - INFO - Req was made | / 
+15.4.2024, 11:44:20 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:44:24 - INFO - Req was made | / 
+15.4.2024, 11:44:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:44:28 - INFO - Req was made | / 
+15.4.2024, 11:44:28 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:44:28 - INFO - Req was made | / 
+15.4.2024, 11:44:28 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:44:29 - INFO - Req was made | / 
+15.4.2024, 11:44:29 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:44:32 - INFO - Req was made | / 
+15.4.2024, 11:44:32 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:44:32 - INFO - Req was made | / 
+15.4.2024, 11:44:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:44:33 - INFO - Req was made | / 
+15.4.2024, 11:44:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:44:33 - INFO - Req was made | / 
+15.4.2024, 11:44:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:44:40 - INFO - Req was made | / 
+15.4.2024, 11:44:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:44:44 - INFO - Req was made | / 
+15.4.2024, 11:44:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:44:52 - INFO - Req was made | / 
+15.4.2024, 11:44:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:46:37 - INFO - Req was made | / 
+15.4.2024, 11:46:37 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:46:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:46:37 - INFO - Req was made | / 
+15.4.2024, 11:46:38 - INFO - Req was made | / 
+15.4.2024, 11:46:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:46:40 - INFO - Req was made | / 
+15.4.2024, 11:46:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:46:41 - INFO - Req was made | / 
+15.4.2024, 11:46:41 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:46:42 - INFO - Req was made | / 
+15.4.2024, 11:46:42 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:46:42 - INFO - Req was made | / 
+15.4.2024, 11:46:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:46:43 - INFO - Req was made | / 
+15.4.2024, 11:46:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:46:45 - INFO - Req was made | / 
+15.4.2024, 11:46:45 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:46:45 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:46:46 - INFO - Req was made | / 
+15.4.2024, 11:46:45 - INFO - Req was made | / 
+15.4.2024, 11:46:47 - INFO - Req was made | / 
+15.4.2024, 11:46:47 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:46:53 - INFO - Req was made | / 
+15.4.2024, 11:46:53 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:46:46 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:46:54 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:46:54 - INFO - Req was made | / 
+15.4.2024, 11:46:54 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:46:54 - INFO - Req was made | / 
+15.4.2024, 11:46:55 - INFO - Req was made | / 
+15.4.2024, 11:46:55 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:46:56 - INFO - Req was made | / 
+15.4.2024, 11:46:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:46:57 - INFO - Req was made | / 
+15.4.2024, 11:46:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:46:58 - INFO - Req was made | / 
+15.4.2024, 11:46:58 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:46:58 - INFO - Req was made | / 
+15.4.2024, 11:46:58 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:46:58 - INFO - Req was made | / 
+15.4.2024, 11:46:58 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:47:03 - INFO - Req was made | / 
+15.4.2024, 11:47:03 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:47:04 - INFO - Req was made | / 
+15.4.2024, 11:47:04 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:47:15 - INFO - Req was made | / 
+15.4.2024, 11:47:15 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:47:19 - INFO - Req was made | / 
+15.4.2024, 11:47:19 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:47:24 - INFO - Req was made | / 
+15.4.2024, 11:47:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:47:32 - INFO - Req was made | / 
+15.4.2024, 11:47:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:47:32 - INFO - Req was made | / 
+15.4.2024, 11:47:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:47:34 - INFO - Req was made | / 
+15.4.2024, 11:47:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:47:34 - INFO - Req was made | / 
+15.4.2024, 11:47:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:47:49 - INFO - Req was made | / 
+15.4.2024, 11:47:49 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:47:50 - INFO - Req was made | / 
+15.4.2024, 11:47:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:47:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:47:52 - INFO - Req was made | / 
+15.4.2024, 11:48:50 - INFO - Req was made | / 
+15.4.2024, 11:48:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:54:06 - INFO - Req was made | / 
+15.4.2024, 11:54:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:54:06 - INFO - Req was made | / 
+15.4.2024, 11:54:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:54:07 - INFO - Req was made | / 
+15.4.2024, 11:54:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:54:09 - INFO - Req was made | / 
+15.4.2024, 11:54:09 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:54:13 - INFO - Req was made | / 
+15.4.2024, 11:54:13 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:54:17 - INFO - Req was made | / 
+15.4.2024, 11:54:17 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:54:20 - INFO - Req was made | / 
+15.4.2024, 11:54:20 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:54:20 - INFO - Req was made | / 
+15.4.2024, 11:54:20 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:54:21 - INFO - Req was made | / 
+15.4.2024, 11:54:21 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:54:25 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:54:25 - INFO - Req was made | / 
+15.4.2024, 11:54:25 - INFO - Req was made | / 
+15.4.2024, 11:54:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:54:26 - INFO - Req was made | / 
+15.4.2024, 11:54:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:54:27 - INFO - Req was made | / 
+15.4.2024, 11:54:27 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:54:30 - INFO - Req was made | / 
+15.4.2024, 11:54:30 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:54:34 - INFO - Req was made | / 
+15.4.2024, 11:54:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:54:36 - INFO - Req was made | / 
+15.4.2024, 11:54:36 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:57:15 - INFO - Req was made | / 
+15.4.2024, 11:57:15 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:57:22 - INFO - Req was made | / 
+15.4.2024, 11:57:22 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:57:25 - INFO - Req was made | / 
+15.4.2024, 11:57:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:57:25 - INFO - Req was made | / 
+15.4.2024, 11:57:25 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:57:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:57:26 - INFO - Req was made | / 
+15.4.2024, 11:58:07 - INFO - Req was made | / 
+15.4.2024, 11:58:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:58:11 - INFO - Req was made | / 
+15.4.2024, 11:58:11 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:59:11 - INFO - Req was made | / 
+15.4.2024, 11:59:11 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:59:11 - INFO - Req was made | / 
+15.4.2024, 11:59:11 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:59:14 - INFO - Req was made | / 
+15.4.2024, 11:59:14 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:59:18 - INFO - Req was made | / 
+15.4.2024, 11:59:18 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:59:54 - INFO - Req was made | / 
+15.4.2024, 11:59:54 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:59:56 - INFO - Req was made | / 
+15.4.2024, 11:59:56 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:59:56 - INFO - Req was made | / 
+15.4.2024, 11:59:57 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 11:59:57 - INFO - Req was made | / 
+15.4.2024, 11:59:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:59:57 - INFO - Req was made | / 
+15.4.2024, 11:59:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:59:57 - INFO - Req was made | / 
+15.4.2024, 11:59:58 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:59:58 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 11:59:58 - INFO - Req was made | / 
+15.4.2024, 12:00:02 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 12:00:02 - INFO - Req was made | / 
+15.4.2024, 12:00:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 12:00:02 - INFO - Req was made | / 
+15.4.2024, 12:00:04 - INFO - Req was made | / 
+15.4.2024, 12:00:04 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 12:00:24 - INFO - Req was made | / 
+15.4.2024, 12:00:24 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 12:00:24 - INFO - Req was made | / 
+15.4.2024, 12:00:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 12:00:25 - INFO - Req was made | / 
+15.4.2024, 12:00:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 12:01:00 - INFO - Req was made | / 
+15.4.2024, 12:01:00 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 12:01:01 - INFO - Req was made | / 
+15.4.2024, 12:01:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 12:01:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 12:01:02 - INFO - Req was made | / 
+15.4.2024, 12:01:04 - INFO - Req was made | / 
+15.4.2024, 12:01:04 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 13:47:24 - INFO - Req was made | / 
+15.4.2024, 13:47:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 13:47:24 - INFO - Req was made | / 
+15.4.2024, 13:47:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 13:47:31 - INFO - Req was made | / 
+15.4.2024, 13:47:31 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 13:47:31 - INFO - Req was made | / 
+15.4.2024, 13:47:31 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 13:47:31 - INFO - Req was made | / 
+15.4.2024, 13:47:31 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 13:47:32 - INFO - Req was made | / 
+15.4.2024, 13:47:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 13:47:37 - INFO - Req was made | / 
+15.4.2024, 13:47:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 13:47:46 - INFO - Req was made | / 
+15.4.2024, 13:47:46 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 13:47:50 - INFO - Req was made | / 
+15.4.2024, 13:47:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 13:47:50 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 13:47:50 - INFO - Req was made | / 
+15.4.2024, 13:47:51 - INFO - Req was made | / 
+15.4.2024, 13:47:51 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 13:51:34 - INFO - Server is running on port: 3033 
+15.4.2024, 13:51:34 - INFO - server.js loaded... 
+15.4.2024, 14:05:09 - INFO - server.js loaded... 
+15.4.2024, 14:05:10 - INFO - Server is running on port: 3033 
+15.4.2024, 14:05:11 - INFO - New connected socket [id: 4r6NhdY80owMO5nvAAAD] 
+15.4.2024, 14:05:11 - INFO - New connected socket [id: L_aDZPiLkOp5Znp0AAAC] 
+15.4.2024, 14:05:11 - INFO - New connected socket [id: vkW6jvxUGdxsla4tAAAN] 
+15.4.2024, 14:05:11 - INFO - New connected socket [id: wtoMAn-xHxf5fdMOAAAO] 
+15.4.2024, 14:05:11 - INFO - New connected socket [id: WwUZOwNRFtfi9pgXAAAP] 
+15.4.2024, 14:05:11 - INFO - New connected socket [id: _w4eUWpgowJAZxA9AAAQ] 
+15.4.2024, 14:05:11 - INFO - New connected socket [id: HVzDGUKEjvGWfM7iAAAR] 
+15.4.2024, 14:05:11 - INFO - New connected socket [id: -WHNhq1XRw0hDP5-AAAS] 
+15.4.2024, 14:05:11 - INFO - New connected socket [id: GatmQP6LZ2QkUrkFAAAT] 
+15.4.2024, 14:05:11 - INFO - New connected socket [id: 6tAHwjiBaFmgzBWoAAAW] 
+15.4.2024, 14:05:11 - INFO - New connected socket [id: rj13c5j1kUUjD1_OAAAX] 
+15.4.2024, 14:05:11 - INFO - New connected socket [id: okczEes_D8qmCubUAAAY] 
+15.4.2024, 14:05:11 - INFO - New connected socket [id: z5SqBPZk2oo_lh_eAAAZ] 
+15.4.2024, 14:05:11 - INFO - New connected socket [id: 4yi06YzUiZDAiol0AAAc] 
+15.4.2024, 14:05:11 - INFO - New connected socket [id: K26Hx4SvQfJv-MtNAAAd] 
+15.4.2024, 14:05:12 - INFO - New connected socket [id: rwCcM9_pBXXyiTm5AAAg] 
+15.4.2024, 14:05:12 - INFO - New connected socket [id: fgQEqcKJf1r_dr2mAAAh] 
+15.4.2024, 14:05:13 - INFO - New connected socket [id: 0BpBTXYjGGHTrNjXAAAj] 
+15.4.2024, 14:05:13 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:05:16 - INFO - Req was made | / 
+15.4.2024, 14:05:15 - INFO - New connected socket [id: P4wKsaXuN247_CkPAAAn] 
+15.4.2024, 14:05:14 - INFO - New connected socket [id: FjM63zHzuLnQfSReAAAl] 
+15.4.2024, 14:05:16 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:05:16 - INFO - New connected socket [id: zUkkNX_4U82e_bVLAAAu] 
+15.4.2024, 14:05:16 - INFO - New connected socket [id: 6RgS1uku2h74uOD6AAAt] 
+15.4.2024, 14:05:16 - INFO - New connected socket [id: ahz9JY8MmcPxdFygAAAw] 
+15.4.2024, 14:05:17 - INFO - New connected socket [id: qTQsi7nc561QFC1uAAAx] 
+15.4.2024, 14:05:16 - INFO - New connected socket [id: fyCe_UzepOE5xbS4AAAv] 
+15.4.2024, 14:05:17 - INFO - Station updated [id: 661a74f284edb867eb472d09], broadcasting changes. 
+15.4.2024, 14:05:17 - INFO - Station updated [id: 661a74f284edb867eb472d09], broadcasting changes. 
+15.4.2024, 14:05:17 - INFO - New connected socket [id: grW0AekUkLzo52rDAAAz] 
+15.4.2024, 14:06:34 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:06:34 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:06:34 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:06:34 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:06:34 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:06:34 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:06:34 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:06:34 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:06:35 - INFO - New connected socket [id: hMZbHA05zfj8YljVAAA1] 
+15.4.2024, 14:06:35 - INFO - Req was made | / 
+15.4.2024, 14:06:35 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:07:20 - INFO - Req was made | / 
+15.4.2024, 14:07:20 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:07:22 - INFO - Req was made | / 
+15.4.2024, 14:07:22 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:07:24 - INFO - Req was made | / 
+15.4.2024, 14:07:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:07:28 - INFO - Req was made | / 
+15.4.2024, 14:07:28 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:07:28 - INFO - Req was made | / 
+15.4.2024, 14:07:28 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:07:30 - INFO - Req was made | / 
+15.4.2024, 14:07:30 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:07:32 - INFO - Req was made | / 
+15.4.2024, 14:07:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:07:34 - INFO - Station updated [id: 661a74f284edb867eb472d16], broadcasting changes. 
+15.4.2024, 14:07:35 - INFO - Req was made | / 
+15.4.2024, 14:07:35 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:07:37 - INFO - Station updated [id: 661a74f284edb867eb472d16], broadcasting changes. 
+15.4.2024, 14:07:37 - INFO - Req was made | / 
+15.4.2024, 14:07:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:07:42 - INFO - Station updated [id: 661a74f284edb867eb472d16], broadcasting changes. 
+15.4.2024, 14:07:42 - INFO - Req was made | / 
+15.4.2024, 14:07:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:09:23 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:09:23 - INFO - New connected socket [id: mPGa0K2tHjBc-SqAAAA3] 
+15.4.2024, 14:09:23 - INFO - Req was made | / 
+15.4.2024, 14:09:23 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:09:30 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:09:31 - INFO - New connected socket [id: WaYUrG6hNKCTGh-hAAA5] 
+15.4.2024, 14:09:31 - INFO - Req was made | / 
+15.4.2024, 14:09:31 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:09:53 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:09:55 - INFO - New connected socket [id: fZWbD7_UuXQFF2sbAAA7] 
+15.4.2024, 14:09:55 - INFO - Req was made | / 
+15.4.2024, 14:09:55 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:10:03 - INFO - New connected socket [id: 9RQDE0hhodFuxG9tAAA9] 
+15.4.2024, 14:10:07 - INFO - New connected socket [id: yY2zaz0hkEPchFSKAAA_] 
+15.4.2024, 14:10:08 - INFO - New connected socket [id: rGBjNKFcnjFJDcM4AABB] 
+15.4.2024, 14:10:14 - INFO - New connected socket [id: bbdPH27fGXpyCHIuAABD] 
+15.4.2024, 14:10:15 - INFO - New connected socket [id: i7jCevg2D21EA8jqAABF] 
+15.4.2024, 14:10:16 - INFO - New connected socket [id: _OfVkshd8EFsE0ZrAABH] 
+15.4.2024, 14:10:17 - INFO - New connected socket [id: fBmJevkXgAxawmsJAABK] 
+15.4.2024, 14:10:17 - INFO - New connected socket [id: 53lihLFmLQpKl-eIAABL] 
+15.4.2024, 14:10:18 - INFO - New connected socket [id: TfJHEtvxb0SccNtgAABN] 
+15.4.2024, 14:10:20 - INFO - Req was made | / 
+15.4.2024, 14:10:20 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:10:20 - INFO - New connected socket [id: jJPycnDCVJs21yrJAABP] 
+15.4.2024, 14:10:26 - INFO - Req was made | / 
+15.4.2024, 14:10:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:10:27 - INFO - Req was made | / 
+15.4.2024, 14:10:27 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:10:44 - INFO - Station updated [id: 661a74f284edb867eb472d16], broadcasting changes. 
+15.4.2024, 14:10:45 - INFO - Req was made | / 
+15.4.2024, 14:10:45 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:11:13 - INFO - Station updated [id: 661a74f284edb867eb472d16], broadcasting changes. 
+15.4.2024, 14:11:14 - INFO - Req was made | / 
+15.4.2024, 14:11:14 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:11:27 - INFO - Req was made | / 
+15.4.2024, 14:11:27 - DEBUG - Getting categories 
+15.4.2024, 14:11:31 - INFO - Req was made | / 
+15.4.2024, 14:11:31 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:11:32 - INFO - Req was made | / 
+15.4.2024, 14:11:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:11:35 - INFO - Req was made | / 
+15.4.2024, 14:11:35 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:11:36 - INFO - Req was made | / 
+15.4.2024, 14:11:36 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:11:43 - INFO - Station updated [id: 661a74f284edb867eb472d16], broadcasting changes. 
+15.4.2024, 14:11:43 - INFO - Req was made | / 
+15.4.2024, 14:11:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:11:46 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:11:47 - INFO - New connected socket [id: _IYxfegAKXJ_w-qKAABR] 
+15.4.2024, 14:11:47 - INFO - Req was made | / 
+15.4.2024, 14:11:47 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:11:48 - INFO - Req was made | / 
+15.4.2024, 14:11:48 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:11:50 - INFO - Req was made | / 
+15.4.2024, 14:11:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:11:51 - INFO - Req was made | / 
+15.4.2024, 14:11:51 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:11:56 - INFO - Req was made | / 
+15.4.2024, 14:11:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:11:57 - INFO - Req was made | / 
+15.4.2024, 14:11:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:12:12 - INFO - Req was made | / 
+15.4.2024, 14:12:12 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:13:04 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:13:05 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:13:06 - INFO - Req was made | / 
+15.4.2024, 14:13:05 - INFO - New connected socket [id: apSYPefsgY1jmsO1AABT] 
+15.4.2024, 14:13:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:13:06 - INFO - New connected socket [id: -bq-mPyo8ZZcqxFGAABV] 
+15.4.2024, 14:13:06 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:13:06 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:13:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:13:06 - INFO - Req was made | / 
+15.4.2024, 14:13:06 - INFO - Req was made | / 
+15.4.2024, 14:13:06 - INFO - Req was made | / 
+15.4.2024, 14:13:07 - INFO - Req was made | / 
+15.4.2024, 14:13:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:13:08 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:13:08 - INFO - Req was made | / 
+15.4.2024, 14:13:23 - INFO - Req was made | / 
+15.4.2024, 14:13:23 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:13:25 - INFO - Req was made | / 
+15.4.2024, 14:13:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:13:31 - INFO - Req was made | / 
+15.4.2024, 14:13:31 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:13:37 - INFO - Req was made | / 
+15.4.2024, 14:13:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:13:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:13:38 - INFO - Req was made | / 
+15.4.2024, 14:13:39 - INFO - Req was made | / 
+15.4.2024, 14:13:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:13:41 - INFO - Req was made | / 
+15.4.2024, 14:13:41 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:13:44 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:13:44 - INFO - New connected socket [id: ppwVy6vxpR0Y54FfAABX] 
+15.4.2024, 14:13:45 - INFO - Req was made | / 
+15.4.2024, 14:13:45 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:13:45 - INFO - Req was made | / 
+15.4.2024, 14:13:45 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:13:45 - INFO - Req was made | / 
+15.4.2024, 14:13:45 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:13:49 - INFO - Req was made | / 
+15.4.2024, 14:13:49 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:13:50 - INFO - Req was made | / 
+15.4.2024, 14:13:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:13:51 - INFO - Req was made | / 
+15.4.2024, 14:13:51 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:13:54 - INFO - Req was made | / 
+15.4.2024, 14:13:54 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:13:55 - INFO - Req was made | / 
+15.4.2024, 14:13:55 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:15:06 - INFO - Req was made | / 
+15.4.2024, 14:15:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:15:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:15:07 - INFO - Req was made | / 
+15.4.2024, 14:15:08 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:15:08 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:15:08 - INFO - Req was made | / 
+15.4.2024, 14:15:08 - INFO - Req was made | / 
+15.4.2024, 14:15:08 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:15:08 - INFO - Req was made | / 
+15.4.2024, 14:15:09 - INFO - Req was made | / 
+15.4.2024, 14:15:09 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:15:10 - INFO - Req was made | / 
+15.4.2024, 14:15:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:15:11 - INFO - Req was made | / 
+15.4.2024, 14:15:11 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:15:11 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:15:11 - INFO - Req was made | / 
+15.4.2024, 14:15:15 - INFO - Req was made | / 
+15.4.2024, 14:15:15 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:15:15 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:15:15 - INFO - Req was made | / 
+15.4.2024, 14:15:15 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 14:15:16 - INFO - Req was made | / 
+15.4.2024, 14:15:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:15:17 - INFO - Req was made | / 
+15.4.2024, 14:15:17 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:15:17 - INFO - Req was made | / 
+15.4.2024, 14:15:17 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:15:29 - INFO - Req was made | / 
+15.4.2024, 14:15:29 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:15:29 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 14:15:44 - INFO - Req was made | / 
+15.4.2024, 14:15:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:15:45 - INFO - Req was made | / 
+15.4.2024, 14:15:45 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:15:50 - INFO - Req was made | / 
+15.4.2024, 14:15:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:15:50 - INFO - Req was made | / 
+15.4.2024, 14:15:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:15:52 - INFO - Req was made | / 
+15.4.2024, 14:15:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:15:52 - INFO - Req was made | / 
+15.4.2024, 14:15:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:00 - INFO - Req was made | / 
+15.4.2024, 14:16:01 - INFO - Req was made | / 
+15.4.2024, 14:16:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:05 - INFO - Req was made | / 
+15.4.2024, 14:16:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:06 - INFO - Req was made | / 
+15.4.2024, 14:16:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:18 - INFO - Req was made | / 
+15.4.2024, 14:16:18 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:18 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 14:16:20 - INFO - Req was made | / 
+15.4.2024, 14:16:20 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:21 - INFO - Req was made | / 
+15.4.2024, 14:16:21 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:23 - INFO - Req was made | / 
+15.4.2024, 14:16:23 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:24 - INFO - Req was made | / 
+15.4.2024, 14:16:27 - INFO - Req was made | / 
+15.4.2024, 14:16:27 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:28 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 14:16:29 - INFO - Req was made | / 
+15.4.2024, 14:16:29 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:29 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 14:16:30 - INFO - Req was made | / 
+15.4.2024, 14:16:30 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:31 - INFO - Req was made | / 
+15.4.2024, 14:16:31 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:36 - INFO - Req was made | / 
+15.4.2024, 14:16:36 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:38 - INFO - Req was made | / 
+15.4.2024, 14:16:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:39 - INFO - Req was made | / 
+15.4.2024, 14:16:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:39 - INFO - Req was made | / 
+15.4.2024, 14:16:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:40 - INFO - Req was made | / 
+15.4.2024, 14:16:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:43 - INFO - Req was made | / 
+15.4.2024, 14:16:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:53 - INFO - Req was made | / 
+15.4.2024, 14:16:53 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:16:53 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 14:16:59 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:17:00 - INFO - New connected socket [id: dPubPUy0B_7WhjXHAABZ] 
+15.4.2024, 14:17:00 - INFO - Req was made | / 
+15.4.2024, 14:17:00 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:17:00 - INFO - Req was made | / 
+15.4.2024, 14:17:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:17:01 - INFO - Req was made | / 
+15.4.2024, 14:17:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:17:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:17:01 - INFO - Req was made | / 
+15.4.2024, 14:17:06 - INFO - Req was made | / 
+15.4.2024, 14:17:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:17:06 - INFO - Req was made | / 
+15.4.2024, 14:17:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:18:29 - INFO - Req was made | / 
+15.4.2024, 14:18:29 - DEBUG - Getting categories 
+15.4.2024, 14:19:44 - INFO - Req was made | / 
+15.4.2024, 14:19:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:21:28 - INFO - Req was made | / 
+15.4.2024, 14:21:28 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:21:28 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:21:28 - INFO - Req was made | / 
+15.4.2024, 14:21:33 - INFO - Req was made | / 
+15.4.2024, 14:21:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:21:34 - INFO - Req was made | / 
+15.4.2024, 14:21:34 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:21:35 - INFO - Req was made | / 
+15.4.2024, 14:21:35 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:21:37 - INFO - Req was made | / 
+15.4.2024, 14:21:37 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:21:37 - INFO - Req was made | / 
+15.4.2024, 14:21:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:21:38 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:21:38 - INFO - Req was made | / 
+15.4.2024, 14:21:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:21:39 - INFO - Req was made | / 
+15.4.2024, 14:21:40 - INFO - Req was made | / 
+15.4.2024, 14:21:40 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:21:41 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:21:41 - INFO - Req was made | / 
+15.4.2024, 14:21:59 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:21:59 - INFO - Req was made | / 
+15.4.2024, 14:21:59 - INFO - Req was made | / 
+15.4.2024, 14:21:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:00 - INFO - Req was made | / 
+15.4.2024, 14:22:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:00 - INFO - Req was made | / 
+15.4.2024, 14:22:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:01 - INFO - Req was made | / 
+15.4.2024, 14:22:02 - INFO - Req was made | / 
+15.4.2024, 14:22:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:04 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:04 - INFO - Req was made | / 
+15.4.2024, 14:22:06 - INFO - Req was made | / 
+15.4.2024, 14:22:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:07 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 14:22:10 - INFO - Req was made | / 
+15.4.2024, 14:22:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:11 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:11 - INFO - Req was made | / 
+15.4.2024, 14:22:11 - INFO - Req was made | / 
+15.4.2024, 14:22:11 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:22:11 - INFO - Req was made | / 
+15.4.2024, 14:22:11 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:22:12 - INFO - Req was made | / 
+15.4.2024, 14:22:12 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:12 - INFO - Req was made | / 
+15.4.2024, 14:22:12 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:12 - INFO - Req was made | / 
+15.4.2024, 14:22:12 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:13 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:13 - INFO - Req was made | / 
+15.4.2024, 14:22:13 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:22:15 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:22:15 - INFO - Req was made | / 
+15.4.2024, 14:22:15 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:15 - INFO - Req was made | / 
+15.4.2024, 14:22:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:16 - INFO - Req was made | / 
+15.4.2024, 14:22:17 - INFO - Req was made | / 
+15.4.2024, 14:22:17 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:25 - INFO - Req was made | / 
+15.4.2024, 14:22:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:34 - INFO - Req was made | / 
+15.4.2024, 14:22:34 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:22:35 - INFO - Req was made | / 
+15.4.2024, 14:22:35 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:36 - INFO - Req was made | / 
+15.4.2024, 14:22:36 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:22:37 - INFO - Req was made | / 
+15.4.2024, 14:24:55 - INFO - server.js loaded... 
+15.4.2024, 14:24:55 - INFO - Server is running on port: 3033 
+15.4.2024, 14:24:55 - INFO - New connected socket [id: ySGplQ-ArytC0CneAAAE] 
+15.4.2024, 14:24:55 - INFO - New connected socket [id: oVgh4GGDm-3tekKyAAAF] 
+15.4.2024, 14:24:55 - INFO - New connected socket [id: 4TAMaYKEQqOszrZHAAAG] 
+15.4.2024, 14:24:55 - INFO - New connected socket [id: 9G0vDQediQbsoOKlAAAH] 
+15.4.2024, 14:25:10 - INFO - Req was made | / 
+15.4.2024, 14:25:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:25:28 - INFO - server.js loaded... 
+15.4.2024, 14:25:28 - INFO - Server is running on port: 3033 
+15.4.2024, 14:25:28 - INFO - New connected socket [id: W4vi46SuBfgphYE5AAAB] 
+15.4.2024, 14:25:28 - INFO - New connected socket [id: QKJdkC88KZhVbb0GAAAD] 
+15.4.2024, 14:25:28 - INFO - New connected socket [id: Vf5HEyM6I2wtXirSAAAG] 
+15.4.2024, 14:25:28 - INFO - New connected socket [id: jd8yaa-VD0gDsGhXAAAH] 
+15.4.2024, 14:25:34 - INFO - Req was made | / 
+15.4.2024, 14:25:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:25:38 - INFO - Req was made | / 
+15.4.2024, 14:25:38 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:25:39 - INFO - Req was made | / 
+15.4.2024, 14:25:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:25:40 - INFO - Req was made | / 
+15.4.2024, 14:25:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:25:55 - INFO - server.js loaded... 
+15.4.2024, 14:25:55 - INFO - Server is running on port: 3033 
+15.4.2024, 14:25:55 - INFO - New connected socket [id: 5IaQvsGaaG4VtSLxAAAE] 
+15.4.2024, 14:25:55 - INFO - New connected socket [id: f3Ethy5E5DUPC2URAAAF] 
+15.4.2024, 14:25:55 - INFO - New connected socket [id: oRyJp6M7mtDnlmCVAAAG] 
+15.4.2024, 14:25:55 - INFO - New connected socket [id: a2nNvVolSPRAYEq4AAAH] 
+15.4.2024, 14:26:01 - INFO - Req was made | / 
+15.4.2024, 14:26:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:26:20 - INFO - Req was made | / 
+15.4.2024, 14:26:20 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:26:27 - INFO - New connected socket [id: WDKfHxv36dIfUSG9AAAQ] 
+15.4.2024, 14:26:27 - INFO - New connected socket [id: T_n3PFwFo46bnCHmAAAR] 
+15.4.2024, 14:26:27 - INFO - New connected socket [id: Mdp9esbmNSOhOCNMAAAS] 
+15.4.2024, 14:26:27 - INFO - New connected socket [id: hGmQ0VT2gJ5aeyFaAAAT] 
+15.4.2024, 14:26:27 - INFO - New connected socket [id: 7gJY8w643RIHN6eqAAAU] 
+15.4.2024, 14:26:27 - INFO - New connected socket [id: 0k_g_FTWgaBY0uZHAAAV] 
+15.4.2024, 14:26:28 - INFO - New connected socket [id: PM7WExjO7ipykoQ9AAAX] 
+15.4.2024, 14:26:27 - INFO - New connected socket [id: LhO55Drt8liJv14_AAAW] 
+15.4.2024, 14:26:52 - INFO - New connected socket [id: 36Dpka6aJCWdsIzyAAAZ] 
+15.4.2024, 14:26:53 - INFO - New connected socket [id: sMvrhperX8gXWZLTAAAb] 
+15.4.2024, 14:26:56 - INFO - New connected socket [id: M0tLRAc-kZ7K7ovnAAAd] 
+15.4.2024, 14:26:56 - INFO - New connected socket [id: wnEA0grLbQiGrOj-AAAg] 
+15.4.2024, 14:26:56 - INFO - New connected socket [id: _eWTzeMw_vUeT5RzAAAh] 
+15.4.2024, 14:26:59 - INFO - New connected socket [id: 9keNYAUDtLbFmxPSAAAj] 
+15.4.2024, 14:27:02 - INFO - New connected socket [id: RqQ7cajrEkzips7JAAAl] 
+15.4.2024, 14:27:03 - INFO - New connected socket [id: hQFCXhHC7IoOD1_6AAAp] 
+15.4.2024, 14:27:03 - INFO - New connected socket [id: 8G0NbYkaGKfYsDUrAAAq] 
+15.4.2024, 14:27:03 - INFO - New connected socket [id: s2LMfbGDhNoog3OlAAAr] 
+15.4.2024, 14:27:57 - INFO - Req was made | / 
+15.4.2024, 14:27:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:27:58 - INFO - Req was made | / 
+15.4.2024, 14:27:58 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:28:07 - INFO - Req was made | / 
+15.4.2024, 14:28:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:28:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:28:07 - INFO - Req was made | / 
+15.4.2024, 14:31:48 - INFO - server.js loaded... 
+15.4.2024, 14:31:48 - INFO - Server is running on port: 3033 
+15.4.2024, 14:31:48 - INFO - New connected socket [id: L0oJQL0_CLwRCi7zAAAD] 
+15.4.2024, 14:31:48 - INFO - New connected socket [id: VWU0d9aF6Kx_ABRjAAAE] 
+15.4.2024, 14:31:48 - INFO - New connected socket [id: b_zP923o5QbU1NozAAAF] 
+15.4.2024, 14:31:49 - INFO - New connected socket [id: OQJXw72PbsLAfGLlAAAQ] 
+15.4.2024, 14:31:49 - INFO - New connected socket [id: IjcRaYZ_kq9g7X0JAAAR] 
+15.4.2024, 14:31:49 - INFO - New connected socket [id: WthwIcOMjz_4htRZAAAS] 
+15.4.2024, 14:31:49 - INFO - New connected socket [id: -VMl7fr_z-kRR_JsAAAT] 
+15.4.2024, 14:31:49 - INFO - New connected socket [id: qdJZOF8c58kfplfwAAAV] 
+15.4.2024, 14:31:49 - INFO - New connected socket [id: UrlMIibtpqPymYVpAAAW] 
+15.4.2024, 14:31:49 - INFO - New connected socket [id: 9-gsDm368xeJjZN-AAAU] 
+15.4.2024, 14:31:49 - INFO - New connected socket [id: KJc133Hktori1B18AAAX] 
+15.4.2024, 14:31:49 - INFO - New connected socket [id: U5LmmqTrg3Zf1otyAAAZ] 
+15.4.2024, 14:31:49 - INFO - New connected socket [id: 3QL5LXAVofzmPi7kAAAY] 
+15.4.2024, 14:31:49 - INFO - New connected socket [id: Lx1iAS6qSrhew4vbAAAc] 
+15.4.2024, 14:31:49 - INFO - New connected socket [id: WCHMDZnPUqGHgmKwAAAd] 
+15.4.2024, 14:31:51 - INFO - New connected socket [id: y7nr_2kaJBhLN6jPAAAf] 
+15.4.2024, 14:31:51 - INFO - New connected socket [id: rKJi2YnObn9zmkyAAAAh] 
+15.4.2024, 14:31:53 - INFO - New connected socket [id: m7LSdBQ1IjtmB841AAAm] 
+15.4.2024, 14:31:53 - INFO - New connected socket [id: mQsdaZ8ATYxFi1huAAAn] 
+15.4.2024, 14:31:53 - INFO - New connected socket [id: 6tGnsZjBbSVFB8MFAAAo] 
+15.4.2024, 14:31:53 - INFO - New connected socket [id: F6yTlaQTPFjY5hG-AAAp] 
+15.4.2024, 14:31:53 - INFO - New connected socket [id: DRfw7hVIEfeDuxf7AAAr] 
+15.4.2024, 14:31:57 - INFO - Req was made | / 
+15.4.2024, 14:31:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:31:58 - INFO - Req was made | / 
+15.4.2024, 14:31:58 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:31:58 - INFO - Req was made | / 
+15.4.2024, 14:31:58 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:31:59 - INFO - Req was made | / 
+15.4.2024, 14:31:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:32:00 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 14:32:00 - INFO - Req was made | / 
+15.4.2024, 14:32:00 - INFO - Req was made | / 
+15.4.2024, 14:32:01 - INFO - Req was made | / 
+15.4.2024, 14:32:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:32:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:34:43 - INFO - New connected socket [id: eadDeIiNxqMmvUN1AAAt] 
+15.4.2024, 14:34:44 - INFO - New connected socket [id: 3Ux8kxwxFyq8bh9DAAAw] 
+15.4.2024, 14:34:44 - INFO - New connected socket [id: JMNhCBDmBqwl8JDsAAAx] 
+15.4.2024, 14:34:48 - INFO - New connected socket [id: 72qwoSW2yz4MDedOAAA0] 
+15.4.2024, 14:34:48 - INFO - New connected socket [id: -sHgizO3XVH8wPjGAAA1] 
+15.4.2024, 14:38:20 - INFO - Req was made | / 
+15.4.2024, 14:38:20 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:38:58 - INFO - Req was made | / 
+15.4.2024, 14:38:58 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:39:00 - INFO - Req was made | / 
+15.4.2024, 14:39:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:39:05 - INFO - Req was made | / 
+15.4.2024, 14:39:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:39:09 - INFO - Req was made | / 
+15.4.2024, 14:39:09 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:39:10 - INFO - Req was made | / 
+15.4.2024, 14:39:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:39:10 - INFO - Req was made | / 
+15.4.2024, 14:39:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:39:12 - INFO - Req was made | / 
+15.4.2024, 14:39:12 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:39:14 - INFO - Req was made | / 
+15.4.2024, 14:39:14 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:39:19 - INFO - Req was made | / 
+15.4.2024, 14:39:19 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:39:23 - INFO - Req was made | / 
+15.4.2024, 14:39:23 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:39:24 - INFO - Req was made | / 
+15.4.2024, 14:39:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:39:24 - INFO - Req was made | / 
+15.4.2024, 14:39:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:41:23 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:23 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:23 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:23 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:23 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:23 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:23 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:23 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:23 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:23 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:23 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:23 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:23 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:23 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:23 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:30 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:31 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:31 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:31 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:31 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:31 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 14:41:42 - INFO - Req was made | / 
+15.4.2024, 14:41:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:41:44 - INFO - New connected socket [id: gT8WpQqrUDZwpPd_AAA6] 
+15.4.2024, 14:41:44 - INFO - New connected socket [id: XBk1qrA35yqFccryAAA9] 
+15.4.2024, 14:41:44 - INFO - New connected socket [id: uUa3LYnGj0r0stOrAAA-] 
+15.4.2024, 14:41:45 - INFO - New connected socket [id: GUgOlNtqVo7XOf5lAABC] 
+15.4.2024, 14:41:45 - INFO - New connected socket [id: j7h1VaJFSuWc4ZhVAABH] 
+15.4.2024, 14:41:45 - INFO - New connected socket [id: AgEsJaJZKxkbVZ6yAABI] 
+15.4.2024, 14:41:46 - INFO - New connected socket [id: vcXEQZz6Ni3GXa51AABJ] 
+15.4.2024, 14:41:46 - INFO - New connected socket [id: hlQnfFDr3xpnRnwwAABK] 
+15.4.2024, 14:41:46 - INFO - New connected socket [id: B-TwkcL3rLR7_RZhAABL] 
+15.4.2024, 14:41:46 - INFO - New connected socket [id: GtjbCF64pfSn_W2GAABM] 
+15.4.2024, 14:41:46 - INFO - New connected socket [id: wC6jF-YheM321xy7AABN] 
+15.4.2024, 14:41:46 - INFO - New connected socket [id: hFm8vtUqj3P95YHWAABO] 
+15.4.2024, 14:41:47 - INFO - New connected socket [id: 8XXuBjR-xX3qujIUAABP] 
+15.4.2024, 14:41:48 - INFO - New connected socket [id: 7jJpOhB3cUOgmbJ6AABY] 
+15.4.2024, 14:41:49 - INFO - New connected socket [id: 9xilQOjkbA9RhVv3AABZ] 
+15.4.2024, 14:41:49 - INFO - New connected socket [id: gwMtcAdAciXegCz0AABa] 
+15.4.2024, 14:41:49 - INFO - New connected socket [id: PJlBIsJohzhq3uQvAABb] 
+15.4.2024, 14:41:49 - INFO - New connected socket [id: yyY2NLyJg2fDxOOcAABc] 
+15.4.2024, 14:41:49 - INFO - New connected socket [id: kYMMRV1o0UctulKmAABd] 
+15.4.2024, 14:41:49 - INFO - New connected socket [id: Rv8D965mhCR9a5F3AABe] 
+15.4.2024, 14:41:49 - INFO - New connected socket [id: lb6pmr8DWDHNziH5AABf] 
+15.4.2024, 14:42:16 - INFO - Req was made | / 
+15.4.2024, 14:42:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:44:38 - INFO - Req was made | / 
+15.4.2024, 14:44:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:44:39 - INFO - Req was made | / 
+15.4.2024, 14:44:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:44:43 - INFO - Req was made | / 
+15.4.2024, 14:44:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:44:44 - INFO - Req was made | / 
+15.4.2024, 14:44:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:44:45 - INFO - Req was made | / 
+15.4.2024, 14:44:45 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:44:48 - INFO - Req was made | / 
+15.4.2024, 14:44:48 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:44:51 - INFO - Req was made | / 
+15.4.2024, 14:44:51 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:44:53 - INFO - Req was made | / 
+15.4.2024, 14:44:53 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:45:01 - INFO - Req was made | / 
+15.4.2024, 14:45:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:45:02 - INFO - Req was made | / 
+15.4.2024, 14:45:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:45:05 - INFO - Req was made | / 
+15.4.2024, 14:45:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:45:05 - INFO - Req was made | / 
+15.4.2024, 14:45:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:45:06 - INFO - Req was made | / 
+15.4.2024, 14:45:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:45:07 - INFO - Req was made | / 
+15.4.2024, 14:45:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:48:04 - INFO - Req was made | / 
+15.4.2024, 14:48:04 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:48:04 - INFO - New connected socket [id: khlofE20YscjM9IVAABi] 
+15.4.2024, 14:48:05 - INFO - Req was made | / 
+15.4.2024, 14:48:04 - INFO - New connected socket [id: LW9rzgPxy0QS_wk5AABj] 
+15.4.2024, 14:48:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:48:05 - INFO - Req was made | / 
+15.4.2024, 14:48:07 - INFO - New connected socket [id: 25LgJ0ZRXnkwW6BLAABm] 
+15.4.2024, 14:48:07 - INFO - New connected socket [id: EZKFoVCE2ewnupVZAABn] 
+15.4.2024, 14:48:07 - INFO - New connected socket [id: QtMPV7ynU9X9_1XYAABp] 
+15.4.2024, 14:48:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:48:07 - INFO - New connected socket [id: CvwW48xcs32zsBgmAABr] 
+15.4.2024, 14:48:06 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 14:48:08 - INFO - Req was made | / 
+15.4.2024, 14:48:08 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:48:09 - INFO - Req was made | / 
+15.4.2024, 14:48:09 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:48:10 - INFO - Req was made | / 
+15.4.2024, 14:48:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:48:21 - INFO - Req was made | / 
+15.4.2024, 14:48:21 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:48:24 - INFO - Req was made | / 
+15.4.2024, 14:48:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:48:25 - INFO - Req was made | / 
+15.4.2024, 14:48:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:48:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:48:33 - INFO - Req was made | / 
+15.4.2024, 14:48:33 - INFO - Req was made | / 
+15.4.2024, 14:48:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:48:38 - INFO - Req was made | / 
+15.4.2024, 14:48:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:48:39 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 14:48:42 - INFO - Req was made | / 
+15.4.2024, 14:48:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:48:42 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 14:48:43 - INFO - Req was made | / 
+15.4.2024, 14:48:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:48:43 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 14:48:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:48:43 - INFO - Req was made | / 
+15.4.2024, 14:48:44 - INFO - Req was made | / 
+15.4.2024, 14:48:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 14:48:44 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 14:48:44 - INFO - Req was made | / 
+15.4.2024, 14:48:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:26:44 - INFO - Req was made | / 
+15.4.2024, 15:26:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:26:45 - INFO - Req was made | / 
+15.4.2024, 15:26:45 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:26:46 - INFO - Req was made | / 
+15.4.2024, 15:26:46 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:26:46 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:26:46 - INFO - Req was made | / 
+15.4.2024, 15:26:47 - INFO - Req was made | / 
+15.4.2024, 15:26:47 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:26:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:26:49 - INFO - Req was made | / 
+15.4.2024, 15:26:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:26:52 - INFO - Req was made | / 
+15.4.2024, 15:26:53 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:26:53 - INFO - Req was made | / 
+15.4.2024, 15:26:54 - INFO - Req was made | / 
+15.4.2024, 15:26:54 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:26:54 - INFO - New connected socket [id: mfR3K9z_YFy0pdweAABt] 
+15.4.2024, 15:26:55 - INFO - Req was made | / 
+15.4.2024, 15:26:55 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:26:55 - INFO - Req was made | / 
+15.4.2024, 15:26:55 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:26:56 - INFO - New connected socket [id: JZYcUaiOfz-jjLndAABz] 
+15.4.2024, 15:26:55 - INFO - New connected socket [id: nePRkgiHcgi513WuAABy] 
+15.4.2024, 15:26:57 - INFO - Req was made | / 
+15.4.2024, 15:26:55 - INFO - New connected socket [id: 44ZiVoe6eswSx2asAABv] 
+15.4.2024, 15:26:57 - INFO - New connected socket [id: dAo_1D8XuilwsJZXAAB2] 
+15.4.2024, 15:26:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:26:59 - INFO - Req was made | / 
+15.4.2024, 15:26:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:26:56 - INFO - Req was made | / 
+15.4.2024, 15:26:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:26:57 - INFO - New connected socket [id: wX3T4I_Q3YKGQFSNAAB3] 
+15.4.2024, 15:26:59 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:26:59 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:26:59 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:27:02 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:27:02 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:27:02 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:27:02 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:27:02 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:27:02 - INFO - New connected socket [id: NJP_2dd1LH8wVqcjAAB5] 
+15.4.2024, 15:27:07 - INFO - New connected socket [id: Iaxa8AOkybklSnCYAAB8] 
+15.4.2024, 15:27:07 - INFO - Req was made | / 
+15.4.2024, 15:27:07 - INFO - New connected socket [id: DftUIsToiCYRHclfAAB9] 
+15.4.2024, 15:27:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:27:07 - INFO - Req was made | / 
+15.4.2024, 15:27:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:27:07 - INFO - Req was made | / 
+15.4.2024, 15:27:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:27:07 - INFO - New connected socket [id: FTAfqOMm4xn2jhS1AACB] 
+15.4.2024, 15:27:07 - INFO - New connected socket [id: 1pyX6MVKscf-ShwKAACA] 
+15.4.2024, 15:27:21 - INFO - Req was made | / 
+15.4.2024, 15:27:21 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:27:21 - INFO - New connected socket [id: dGVeHXQXbnrlsyZoAACD] 
+15.4.2024, 15:27:22 - INFO - Req was made | / 
+15.4.2024, 15:27:22 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:27:23 - INFO - New connected socket [id: 7dePg1s6CIJSgE2qAACF] 
+15.4.2024, 15:27:07 - INFO - Req was made | / 
+15.4.2024, 15:27:07 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 15:27:29 - INFO - Req was made | / 
+15.4.2024, 15:27:29 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:27:29 - INFO - New connected socket [id: 8H1eR-dXuqjTgd0GAACH] 
+15.4.2024, 15:27:34 - INFO - New connected socket [id: kvuwPe2J6zefT26cAACJ] 
+15.4.2024, 15:27:34 - INFO - Req was made | / 
+15.4.2024, 15:27:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:27:34 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 15:27:38 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:27:38 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:27:38 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:27:38 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:27:38 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:27:39 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 15:27:39 - INFO - Req was made | / 
+15.4.2024, 15:27:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:27:39 - INFO - New connected socket [id: HGkrzCQPJhrqAa0EAACM] 
+15.4.2024, 15:27:39 - INFO - Req was made | / 
+15.4.2024, 15:27:39 - INFO - New connected socket [id: uBFfJXl09kOJ_ZjGAACN] 
+15.4.2024, 15:27:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:27:39 - INFO - Req was made | / 
+15.4.2024, 15:27:40 - INFO - New connected socket [id: kQSVuSrzdqNeSrsrAACP] 
+15.4.2024, 15:27:46 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:27:46 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:27:46 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:27:46 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:27:46 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:27:47 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:27:48 - INFO - New connected socket [id: I1FsiYrbYMvpj24bAACR] 
+15.4.2024, 15:27:48 - INFO - Req was made | / 
+15.4.2024, 15:27:48 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:27:48 - INFO - New connected socket [id: s24U9-nuoVPt7idRAACT] 
+15.4.2024, 15:27:49 - INFO - Req was made | / 
+15.4.2024, 15:27:49 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 15:27:50 - INFO - Req was made | / 
+15.4.2024, 15:27:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:27:50 - INFO - New connected socket [id: R1ngIDcNdRDWfuYFAACV] 
+15.4.2024, 15:28:05 - INFO - Req was made | / 
+15.4.2024, 15:28:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:28:05 - INFO - New connected socket [id: lMYE8mFgFN8VSjPBAACX] 
+15.4.2024, 15:28:11 - INFO - Req was made | / 
+15.4.2024, 15:28:11 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:28:11 - INFO - New connected socket [id: jxFF54f75SWsoVRrAACZ] 
+15.4.2024, 15:28:13 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:28:13 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:28:13 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:28:14 - INFO - New connected socket [id: VcNhbvxav673TvyYAACb] 
+15.4.2024, 15:28:14 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:28:14 - INFO - Req was made | / 
+15.4.2024, 15:28:15 - INFO - Req was made | / 
+15.4.2024, 15:28:15 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 15:28:15 - INFO - New connected socket [id: da9uovdKr_knK9wmAACd] 
+15.4.2024, 15:28:15 - INFO - Req was made | / 
+15.4.2024, 15:28:15 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:28:15 - INFO - New connected socket [id: zr-lDU0YJYWhLS4FAACf] 
+15.4.2024, 15:28:20 - INFO - Req was made | / 
+15.4.2024, 15:28:20 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:28:20 - INFO - New connected socket [id: Do9sX8ltgewuCAGuAACh] 
+15.4.2024, 15:28:21 - INFO - Req was made | / 
+15.4.2024, 15:28:21 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:28:21 - INFO - New connected socket [id: svBcf68mSyacDBvCAACj] 
+15.4.2024, 15:28:26 - INFO - Req was made | / 
+15.4.2024, 15:28:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:28:26 - INFO - New connected socket [id: ZmG-d96eEqXcNvn1AACl] 
+15.4.2024, 15:31:46 - INFO - Req was made | / 
+15.4.2024, 15:31:46 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:31:46 - INFO - New connected socket [id: I3sblC1tvJsyrNDyAACn] 
+15.4.2024, 15:32:01 - INFO - Req was made | / 
+15.4.2024, 15:32:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:32:01 - INFO - New connected socket [id: ooPqw5BaPq88Sk93AACp] 
+15.4.2024, 15:32:02 - INFO - Req was made | / 
+15.4.2024, 15:32:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:32:02 - INFO - New connected socket [id: WHZX5odNje4zK5X3AACr] 
+15.4.2024, 15:32:04 - INFO - Req was made | / 
+15.4.2024, 15:32:04 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:32:04 - INFO - New connected socket [id: 9o0MTpbtmyDjROxPAACt] 
+15.4.2024, 15:32:05 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 15:32:18 - INFO - Req was made | / 
+15.4.2024, 15:32:18 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:32:18 - INFO - New connected socket [id: F5gn2hgwkcQXNny0AACv] 
+15.4.2024, 15:32:21 - INFO - Req was made | / 
+15.4.2024, 15:32:21 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:32:21 - INFO - New connected socket [id: _URv3Bs1nDO66at8AACx] 
+15.4.2024, 15:32:21 - INFO - Req was made | / 
+15.4.2024, 15:32:21 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:32:21 - INFO - New connected socket [id: kfITei8L4DL8H-JuAACz] 
+15.4.2024, 15:32:25 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:32:25 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:32:25 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:32:25 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:32:25 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:32:25 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:32:25 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:32:25 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:32:25 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:32:26 - INFO - Req was made | / 
+15.4.2024, 15:32:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:32:26 - INFO - New connected socket [id: 8Y9ToPU1HpxwyQxfAAC2] 
+15.4.2024, 15:32:26 - INFO - Req was made | / 
+15.4.2024, 15:32:26 - INFO - New connected socket [id: KqJ-1pwaBqxh-sz4AAC3] 
+15.4.2024, 15:32:26 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 15:32:27 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:32:27 - INFO - Req was made | / 
+15.4.2024, 15:32:27 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:32:27 - INFO - Req was made | / 
+15.4.2024, 15:32:27 - INFO - New connected socket [id: 0RdkxovcasJ0UvhKAAC6] 
+15.4.2024, 15:32:27 - INFO - New connected socket [id: wGJNq20fy2leFdjJAAC7] 
+15.4.2024, 15:34:20 - INFO - New connected socket [id: pAtFmt1wY60O0rTxAAC9] 
+15.4.2024, 15:34:20 - INFO - Req was made | / 
+15.4.2024, 15:34:20 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 15:34:27 - INFO - Req was made | / 
+15.4.2024, 15:34:27 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:34:27 - INFO - New connected socket [id: 4bo72cjX0gtzVFGOAAC_] 
+15.4.2024, 15:34:28 - INFO - New connected socket [id: baN5Ucpr03N8ty8xAADB] 
+15.4.2024, 15:34:29 - INFO - Req was made | / 
+15.4.2024, 15:34:29 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:34:29 - INFO - New connected socket [id: XEdejMdf3LVOCLb7AADD] 
+15.4.2024, 15:34:30 - INFO - Req was made | / 
+15.4.2024, 15:34:30 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:34:30 - INFO - New connected socket [id: NcJDh13Z5MGvZ6Z3AADF] 
+15.4.2024, 15:34:31 - INFO - Req was made | / 
+15.4.2024, 15:34:31 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:34:32 - INFO - Req was made | / 
+15.4.2024, 15:34:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:34:32 - INFO - New connected socket [id: 6pOCuJXVQr773mrkAADH] 
+15.4.2024, 15:34:33 - INFO - Req was made | / 
+15.4.2024, 15:34:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:34:33 - INFO - New connected socket [id: vjJjMKRWN9gl-dKxAADJ] 
+15.4.2024, 15:34:37 - INFO - Req was made | / 
+15.4.2024, 15:34:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:34:37 - INFO - New connected socket [id: tmmrD-xhKbDmRz4UAADL] 
+15.4.2024, 15:34:43 - INFO - Req was made | / 
+15.4.2024, 15:34:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:34:43 - INFO - New connected socket [id: MQBC7ChVSysc7V1rAADN] 
+15.4.2024, 15:34:43 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 15:34:50 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:34:50 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:34:50 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:34:50 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:34:50 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:34:50 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:34:50 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:34:50 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:34:50 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:34:50 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:34:50 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:34:51 - INFO - New connected socket [id: QRBelp2DCMW8MQCjAADP] 
+15.4.2024, 15:34:51 - INFO - Req was made | / 
+15.4.2024, 15:34:51 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 15:34:51 - INFO - New connected socket [id: _Phe6-JxGIvkntw7AADR] 
+15.4.2024, 15:34:52 - INFO - Req was made | / 
+15.4.2024, 15:34:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:34:52 - INFO - New connected socket [id: G3qd30kLn5FSpMlBAADT] 
+15.4.2024, 15:34:52 - INFO - Req was made | / 
+15.4.2024, 15:34:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:34:52 - INFO - New connected socket [id: xyCm1OOZ_wS_S8E7AADV] 
+15.4.2024, 15:34:53 - INFO - Req was made | / 
+15.4.2024, 15:34:53 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:34:55 - INFO - Req was made | / 
+15.4.2024, 15:34:55 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:34:55 - INFO - New connected socket [id: Ji7N9r7-anoqX3iiAADX] 
+15.4.2024, 15:34:56 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 15:34:56 - INFO - Req was made | / 
+15.4.2024, 15:34:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:34:56 - INFO - New connected socket [id: giZ2WBMbeyg4u-RTAADZ] 
+15.4.2024, 15:34:58 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:34:58 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:34:58 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:34:58 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:34:58 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:34:58 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:34:58 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:34:59 - INFO - New connected socket [id: GHZQZxIhd6iZ58dwAADb] 
+15.4.2024, 15:34:59 - INFO - Req was made | / 
+15.4.2024, 15:34:59 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 15:34:59 - INFO - New connected socket [id: RemIDC2YKxMcC2DYAADd] 
+15.4.2024, 15:35:00 - INFO - Req was made | / 
+15.4.2024, 15:35:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:35:00 - INFO - New connected socket [id: XsheA8h7FE-eQui-AADf] 
+15.4.2024, 15:35:01 - INFO - Req was made | / 
+15.4.2024, 15:35:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:35:01 - INFO - New connected socket [id: 5wzvD4Qb9zbup2ekAADh] 
+15.4.2024, 15:35:01 - INFO - Req was made | / 
+15.4.2024, 15:35:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:46:25 - INFO - Req was made | / 
+15.4.2024, 15:46:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:46:26 - INFO - Req was made | / 
+15.4.2024, 15:46:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:46:28 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:46:28 - INFO - Req was made | / 
+15.4.2024, 15:46:34 - INFO - Req was made | / 
+15.4.2024, 15:46:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:46:34 - INFO - Req was made | / 
+15.4.2024, 15:46:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:46:35 - INFO - Req was made | / 
+15.4.2024, 15:46:35 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:46:43 - INFO - New connected socket [id: r3fl15rEjkXtgkm5AADn] 
+15.4.2024, 15:46:43 - INFO - New connected socket [id: kjLYrwfZH7nsqTUwAADj] 
+15.4.2024, 15:46:43 - INFO - New connected socket [id: Kf0P5z9c5rg3uHwVAADm] 
+15.4.2024, 15:46:46 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:46:46 - INFO - Req was made | / 
+15.4.2024, 15:46:46 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 15:46:46 - INFO - Req was made | / 
+15.4.2024, 15:46:48 - INFO - Req was made | / 
+15.4.2024, 15:46:48 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:46:49 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 15:46:50 - INFO - Req was made | / 
+15.4.2024, 15:46:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:46:52 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 15:46:52 - INFO - Req was made | / 
+15.4.2024, 15:46:52 - INFO - Req was made | / 
+15.4.2024, 15:46:53 - INFO - Req was made | / 
+15.4.2024, 15:46:53 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:46:53 - INFO - New connected socket [id: 4u3luc329EykktnYAADp] 
+15.4.2024, 15:46:53 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:46:56 - INFO - Req was made | / 
+15.4.2024, 15:46:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:46:47 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:46:49 - INFO - Req was made | / 
+15.4.2024, 15:46:46 - INFO - Req was made | / 
+15.4.2024, 15:46:52 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 15:46:53 - INFO - Req was made | / 
+15.4.2024, 15:47:05 - INFO - Req was made | / 
+15.4.2024, 15:47:03 - INFO - New connected socket [id: UdjXUFxEtDFvf4vcAADr] 
+15.4.2024, 15:47:05 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 15:47:07 - INFO - Req was made | / 
+15.4.2024, 15:47:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:47:10 - INFO - Req was made | / 
+15.4.2024, 15:47:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:47:11 - INFO - New connected socket [id: X7PzJpQxPIMy4WW0AADt] 
+15.4.2024, 15:47:13 - INFO - Req was made | / 
+15.4.2024, 15:47:14 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 15:47:14 - INFO - Req was made | / 
+15.4.2024, 15:47:14 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:47:16 - INFO - Req was made | / 
+15.4.2024, 15:47:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:47:17 - INFO - Req was made | / 
+15.4.2024, 15:47:17 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:47:20 - ERROR - Failed to Login Error: Invalid username or password 
+15.4.2024, 15:47:20 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:47:20 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:47:20 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:47:20 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:47:20 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:47:20 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:47:20 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:47:20 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:47:20 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:47:20 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:47:21 - INFO - New connected socket [id: 2FkgnKGOVvYH0lzBAADv] 
+15.4.2024, 15:47:20 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:47:23 - INFO - Req was made | / 
+15.4.2024, 15:47:23 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 15:57:32 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:57:48 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:57:49 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:57:48 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:57:48 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:57:48 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 15:57:58 - INFO - New connected socket [id: W4wyGbMJZNowOfHCAADx] 
+15.4.2024, 15:57:59 - INFO - Req was made | / 
+15.4.2024, 15:57:59 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 15:58:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:58:00 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 15:58:00 - INFO - New connected socket [id: KpvBhAgqQHAb4Y-nAADz] 
+15.4.2024, 15:58:00 - INFO - Req was made | / 
+15.4.2024, 15:58:01 - INFO - Req was made | / 
+15.4.2024, 15:58:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:58:00 - INFO - Req was made | / 
+15.4.2024, 15:58:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:58:02 - INFO - Req was made | / 
+15.4.2024, 15:58:14 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:58:14 - INFO - Req was made | / 
+15.4.2024, 15:58:15 - INFO - Req was made | / 
+15.4.2024, 15:58:15 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:58:33 - INFO - Req was made | / 
+15.4.2024, 15:58:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:58:34 - INFO - Req was made | / 
+15.4.2024, 15:58:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:59:01 - INFO - Req was made | / 
+15.4.2024, 15:59:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:59:03 - INFO - Req was made | / 
+15.4.2024, 15:59:03 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:59:05 - INFO - Req was made | / 
+15.4.2024, 15:59:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:59:06 - INFO - Req was made | / 
+15.4.2024, 15:59:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:59:08 - INFO - Req was made | / 
+15.4.2024, 15:59:08 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:59:09 - INFO - Req was made | / 
+15.4.2024, 15:59:09 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:59:21 - INFO - Req was made | / 
+15.4.2024, 15:59:21 - DEBUG - Getting categories 
+15.4.2024, 15:59:39 - INFO - Req was made | / 
+15.4.2024, 15:59:39 - DEBUG - Getting categories 
+15.4.2024, 15:59:45 - DEBUG - Getting categories 
+15.4.2024, 15:59:45 - INFO - Req was made | / 
+15.4.2024, 15:59:55 - INFO - Req was made | / 
+15.4.2024, 15:59:55 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 15:59:57 - INFO - Req was made | / 
+15.4.2024, 15:59:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:00:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:00:07 - INFO - Req was made | / 
+15.4.2024, 16:00:08 - INFO - Req was made | / 
+15.4.2024, 16:00:08 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:01:06 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:01:06 - INFO - Req was made | / 
+15.4.2024, 16:01:08 - INFO - Req was made | / 
+15.4.2024, 16:01:08 - DEBUG - Getting categories 
+15.4.2024, 16:19:25 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:19:26 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:19:26 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:19:26 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:19:26 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:19:26 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:19:26 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:19:35 - INFO - New connected socket [id: 2eJ82eVdr3GwpBDtAAD1] 
+15.4.2024, 16:19:36 - INFO - Req was made | / 
+15.4.2024, 16:19:36 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:19:37 - INFO - Req was made | / 
+15.4.2024, 16:19:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:19:38 - INFO - Req was made | / 
+15.4.2024, 16:19:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:19:39 - INFO - Req was made | / 
+15.4.2024, 16:19:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:23:55 - INFO - Req was made | / 
+15.4.2024, 16:23:55 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:23:58 - INFO - Req was made | / 
+15.4.2024, 16:23:58 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:24:01 - INFO - Req was made | / 
+15.4.2024, 16:24:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:24:04 - INFO - Req was made | / 
+15.4.2024, 16:24:04 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:24:16 - INFO - Req was made | / 
+15.4.2024, 16:24:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:24:18 - INFO - Req was made | / 
+15.4.2024, 16:24:18 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:24:27 - INFO - Req was made | / 
+15.4.2024, 16:24:27 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:24:27 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 16:34:37 - INFO - server.js loaded... 
+15.4.2024, 16:34:37 - INFO - Server is running on port: 3033 
+15.4.2024, 16:34:37 - INFO - New connected socket [id: yWtGea6gtRDy5OreAAAH] 
+15.4.2024, 16:34:37 - INFO - New connected socket [id: Z6_pZg3MBVdlbrW4AAAI] 
+15.4.2024, 16:34:38 - INFO - New connected socket [id: SW6HbDqZ7X3R7XaQAAAN] 
+15.4.2024, 16:34:38 - INFO - New connected socket [id: jQ1d9p7WtUtdZmuUAAAO] 
+15.4.2024, 16:34:38 - INFO - New connected socket [id: yVIR7l4x-7b8Q35aAAAP] 
+15.4.2024, 16:34:38 - INFO - New connected socket [id: dfEa0kAozQrMLEJ9AAAR] 
+15.4.2024, 16:34:39 - INFO - New connected socket [id: 2YcXWLBspta1Vu-pAAAS] 
+15.4.2024, 16:34:39 - INFO - New connected socket [id: RvlaPQ21ZHedznk4AAAT] 
+15.4.2024, 16:34:39 - INFO - New connected socket [id: BuzFpN7J_M2poz6TAAAV] 
+15.4.2024, 16:34:40 - INFO - New connected socket [id: Lz_NxQzVlbJ99UjUAAAW] 
+15.4.2024, 16:34:40 - INFO - New connected socket [id: kA4Javn7Qp5q4BxaAAAX] 
+15.4.2024, 16:34:40 - INFO - New connected socket [id: 0rYWcPMUeGjJbJYwAAAY] 
+15.4.2024, 16:34:40 - INFO - New connected socket [id: syxVs9vgo0eLxk2qAAAZ] 
+15.4.2024, 16:34:45 - INFO - New connected socket [id: 5ZpvPEzfPehAkTUXAAAb] 
+15.4.2024, 16:34:48 - INFO - New connected socket [id: GUhhuH2uHwG1KigrAAAf] 
+15.4.2024, 16:35:18 - INFO - New connected socket [id: QNdg2g_gtinEoOPUAAAh] 
+15.4.2024, 16:35:19 - INFO - Req was made | / 
+15.4.2024, 16:35:19 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:35:23 - INFO - New connected socket [id: ucj1qfiM6k2CTJYgAAAj] 
+15.4.2024, 16:34:47 - INFO - New connected socket [id: MeA0hhzolc-y2hQCAAAd] 
+15.4.2024, 16:35:26 - INFO - Req was made | / 
+15.4.2024, 16:35:26 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:36:45 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:36:51 - INFO - Req was made | / 
+15.4.2024, 16:36:51 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:36:52 - INFO - Req was made | / 
+15.4.2024, 16:36:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:36:52 - INFO - New connected socket [id: 2AC98YqIHarSov5XAAAl] 
+15.4.2024, 16:36:52 - INFO - Req was made | / 
+15.4.2024, 16:36:52 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:36:53 - INFO - Req was made | / 
+15.4.2024, 16:36:53 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:36:54 - INFO - Req was made | / 
+15.4.2024, 16:36:54 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:36:55 - INFO - Req was made | / 
+15.4.2024, 16:36:55 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:36:55 - INFO - Req was made | / 
+15.4.2024, 16:36:55 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:36:56 - INFO - Req was made | / 
+15.4.2024, 16:36:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:37:06 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:37:13 - INFO - Req was made | / 
+15.4.2024, 16:37:13 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:37:13 - INFO - Req was made | / 
+15.4.2024, 16:37:13 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:37:14 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:37:14 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:37:14 - INFO - Req was made | / 
+15.4.2024, 16:37:15 - INFO - Req was made | / 
+15.4.2024, 16:37:13 - INFO - New connected socket [id: 7J9Y1hVnDWn9dGQaAAAn] 
+15.4.2024, 16:37:16 - INFO - Req was made | / 
+15.4.2024, 16:37:15 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:37:17 - INFO - Req was made | / 
+15.4.2024, 16:37:17 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:37:18 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:37:18 - INFO - Req was made | / 
+15.4.2024, 16:37:19 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:37:14 - INFO - Req was made | / 
+15.4.2024, 16:37:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:37:19 - INFO - Req was made | / 
+15.4.2024, 16:37:20 - INFO - Req was made | / 
+15.4.2024, 16:37:20 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:37:20 - INFO - Req was made | / 
+15.4.2024, 16:37:20 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:37:21 - INFO - Req was made | / 
+15.4.2024, 16:37:21 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:37:23 - INFO - Req was made | / 
+15.4.2024, 16:37:23 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:37:25 - INFO - Req was made | / 
+15.4.2024, 16:37:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:37:27 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:37:27 - INFO - Req was made | / 
+15.4.2024, 16:37:29 - INFO - Req was made | / 
+15.4.2024, 16:37:29 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:37:39 - INFO - New connected socket [id: 9wHgrbIUwUfO-WNKAAAp] 
+15.4.2024, 16:37:39 - INFO - Req was made | / 
+15.4.2024, 16:37:39 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:37:45 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:37:45 - INFO - New connected socket [id: EdCBZxuxHsN_aMEtAAAr] 
+15.4.2024, 16:37:46 - INFO - Req was made | / 
+15.4.2024, 16:37:46 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:38:08 - INFO - Req was made | / 
+15.4.2024, 16:38:08 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:38:09 - INFO - Req was made | / 
+15.4.2024, 16:38:09 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:38:13 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:17 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:17 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:17 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:17 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:17 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:17 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:17 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:17 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:22 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:22 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:22 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:22 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:22 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:24 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:25 - INFO - New connected socket [id: 3lvTP6ZB1EjfU-wFAAAt] 
+15.4.2024, 16:38:25 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:38:25 - INFO - Req was made | / 
+15.4.2024, 16:38:26 - INFO - Req was made | / 
+15.4.2024, 16:38:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:38:26 - INFO - Req was made | / 
+15.4.2024, 16:38:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:38:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:38:26 - INFO - Req was made | / 
+15.4.2024, 16:38:27 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:29 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:31 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:32 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:38:34 - INFO - New connected socket [id: QhHbAvl2A4KH1jPKAAAv] 
+15.4.2024, 16:38:35 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:38:35 - INFO - Req was made | / 
+15.4.2024, 16:38:35 - INFO - Req was made | / 
+15.4.2024, 16:38:35 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:38:37 - INFO - Req was made | / 
+15.4.2024, 16:38:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:38:38 - INFO - Req was made | / 
+15.4.2024, 16:38:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:38:39 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:38:39 - INFO - Req was made | / 
+15.4.2024, 16:38:39 - INFO - New connected socket [id: 6Di_05fEhR8JDPjGAAAx] 
+15.4.2024, 16:38:39 - INFO - Req was made | / 
+15.4.2024, 16:38:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:38:40 - INFO - Req was made | / 
+15.4.2024, 16:38:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:38:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:38:40 - INFO - Req was made | / 
+15.4.2024, 16:38:42 - INFO - Socket is leaving topic 661d185fce45e17ea595c5ca [id: 6Di_05fEhR8JDPjGAAAx] 
+15.4.2024, 16:38:42 - INFO - Req was made | / 
+15.4.2024, 16:38:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:38:42 - INFO - Req was made | / 
+15.4.2024, 16:38:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:38:48 - INFO - Req was made | / 
+15.4.2024, 16:38:48 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:38:48 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 16:39:59 - INFO - Req was made | / 
+15.4.2024, 16:39:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:39:59 - INFO - Req was made | / 
+15.4.2024, 16:40:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:40:00 - INFO - Req was made | / 
+15.4.2024, 16:40:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:40:01 - INFO - Req was made | / 
+15.4.2024, 16:40:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:40:12 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:40:14 - INFO - New connected socket [id: BUv5j45w1-q_CwGwAAAz] 
+15.4.2024, 16:40:15 - INFO - Req was made | / 
+15.4.2024, 16:40:15 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:40:15 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:40:15 - INFO - Req was made | / 
+15.4.2024, 16:40:17 - INFO - Req was made | / 
+15.4.2024, 16:40:17 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:40:35 - INFO - Socket is leaving topic 661b9b7af0666aa45e374b6d [id: BuzFpN7J_M2poz6TAAAV] 
+15.4.2024, 16:40:35 - INFO - Req was made | / 
+15.4.2024, 16:40:35 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:40:36 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:40:36 - INFO - Req was made | / 
+15.4.2024, 16:40:40 - INFO - Req was made | / 
+15.4.2024, 16:40:41 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:40:43 - INFO - Req was made | / 
+15.4.2024, 16:40:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:40:59 - INFO - Req was made | / 
+15.4.2024, 16:40:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:40:59 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 16:41:57 - INFO - Req was made | / 
+15.4.2024, 16:41:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:41:58 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:41:58 - INFO - Req was made | / 
+15.4.2024, 16:41:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:41:59 - INFO - Req was made | / 
+15.4.2024, 16:42:12 - INFO - Req was made | / 
+15.4.2024, 16:42:12 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:42:13 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 16:44:35 - INFO - server.js loaded... 
+15.4.2024, 16:44:35 - INFO - Server is running on port: 3033 
+15.4.2024, 16:44:35 - INFO - New connected socket [id: M5RShWkuMypESM1gAAAD] 
+15.4.2024, 16:44:36 - INFO - New connected socket [id: SrBH_aoo8h7OcnnFAAAF] 
+15.4.2024, 16:44:35 - INFO - New connected socket [id: DjXkaJmX7bXlZp3bAAAC] 
+15.4.2024, 16:44:47 - INFO - Req was made | / 
+15.4.2024, 16:44:47 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:44:48 - INFO - Station updated [id: 661bb9089f9e9468991f1be7], broadcasting changes. 
+15.4.2024, 16:47:40 - INFO - Req was made | / 
+15.4.2024, 16:47:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:47:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:47:40 - INFO - Req was made | / 
+15.4.2024, 16:47:41 - INFO - Req was made | / 
+15.4.2024, 16:47:41 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:50:35 - INFO - Req was made | / 
+15.4.2024, 16:50:35 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:50:36 - INFO - Req was made | / 
+15.4.2024, 16:50:36 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:50:37 - INFO - Req was made | / 
+15.4.2024, 16:50:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:51:08 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:51:10 - INFO - New connected socket [id: mvRuEz_D6vOPro4XAAAH] 
+15.4.2024, 16:51:12 - INFO - Req was made | / 
+15.4.2024, 16:51:12 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:51:13 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:51:13 - INFO - Req was made | / 
+15.4.2024, 16:51:09 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:51:14 - INFO - Req was made | / 
+15.4.2024, 16:51:14 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:51:16 - INFO - New connected socket [id: S3CKzXAgA-UVOiF3AAAJ] 
+15.4.2024, 16:51:17 - INFO - Req was made | / 
+15.4.2024, 16:51:17 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:51:17 - INFO - Req was made | / 
+15.4.2024, 16:51:19 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:51:19 - INFO - Req was made | / 
+15.4.2024, 16:51:17 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:51:20 - INFO - Req was made | / 
+15.4.2024, 16:51:20 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:51:23 - INFO - Station updated [id: 6619390084edb867eb472ce7], broadcasting changes. 
+15.4.2024, 16:51:24 - INFO - Req was made | / 
+15.4.2024, 16:51:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:51:24 - INFO - Req was made | / 
+15.4.2024, 16:51:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:51:25 - INFO - Req was made | / 
+15.4.2024, 16:51:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:51:42 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 16:51:44 - INFO - New connected socket [id: Q85fNtSDSwEW3B6HAAAL] 
+15.4.2024, 16:51:45 - INFO - Req was made | / 
+15.4.2024, 16:51:45 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:51:45 - INFO - Req was made | / 
+15.4.2024, 16:51:45 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 16:51:47 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:51:47 - INFO - Req was made | / 
+15.4.2024, 16:51:48 - INFO - Req was made | / 
+15.4.2024, 16:51:48 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:51:59 - INFO - Station updated [id: 6619390084edb867eb472ce7], broadcasting changes. 
+15.4.2024, 16:51:59 - INFO - Req was made | / 
+15.4.2024, 16:52:00 - INFO - Req was made | / 
+15.4.2024, 16:51:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:52:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:52:00 - INFO - Req was made | / 
+15.4.2024, 16:52:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:54:12 - INFO - Station updated [id: 6619390084edb867eb472ce7], broadcasting changes. 
+15.4.2024, 16:54:13 - INFO - Req was made | / 
+15.4.2024, 16:54:13 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:54:13 - INFO - Req was made | / 
+15.4.2024, 16:54:13 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:54:14 - INFO - Req was made | / 
+15.4.2024, 16:54:14 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:54:17 - INFO - Station updated [id: 6619390084edb867eb472ce7], broadcasting changes. 
+15.4.2024, 16:54:17 - INFO - Req was made | / 
+15.4.2024, 16:54:17 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:54:17 - INFO - Req was made | / 
+15.4.2024, 16:54:17 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:54:18 - INFO - Req was made | / 
+15.4.2024, 16:54:18 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:54:21 - INFO - Station updated [id: 6619390084edb867eb472ce7], broadcasting changes. 
+15.4.2024, 16:54:21 - INFO - Req was made | / 
+15.4.2024, 16:54:21 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:54:21 - INFO - Req was made | / 
+15.4.2024, 16:54:21 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:54:22 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:54:22 - INFO - Req was made | / 
+15.4.2024, 16:54:23 - INFO - Station updated [id: 6619390084edb867eb472ce7], broadcasting changes. 
+15.4.2024, 16:54:24 - INFO - Req was made | / 
+15.4.2024, 16:54:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:54:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:54:24 - INFO - Req was made | / 
+15.4.2024, 16:54:25 - INFO - Req was made | / 
+15.4.2024, 16:54:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:54:26 - INFO - Station updated [id: 6619390084edb867eb472ce7], broadcasting changes. 
+15.4.2024, 16:54:26 - INFO - Req was made | / 
+15.4.2024, 16:54:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:54:26 - INFO - Req was made | / 
+15.4.2024, 16:54:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:54:27 - INFO - Req was made | / 
+15.4.2024, 16:54:27 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:54:28 - INFO - Station updated [id: 6619390084edb867eb472ce7], broadcasting changes. 
+15.4.2024, 16:54:29 - INFO - Req was made | / 
+15.4.2024, 16:54:29 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:54:29 - INFO - Req was made | / 
+15.4.2024, 16:54:29 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:54:30 - INFO - Req was made | / 
+15.4.2024, 16:54:30 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:55:37 - INFO - Station updated [id: 6619390084edb867eb472ce7], broadcasting changes. 
+15.4.2024, 16:55:38 - INFO - Req was made | / 
+15.4.2024, 16:55:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:55:38 - INFO - Req was made | / 
+15.4.2024, 16:55:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:55:39 - INFO - Req was made | / 
+15.4.2024, 16:55:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:55:41 - INFO - Station updated [id: 6619390084edb867eb472ce7], broadcasting changes. 
+15.4.2024, 16:55:41 - INFO - Req was made | / 
+15.4.2024, 16:55:41 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:55:41 - INFO - Req was made | / 
+15.4.2024, 16:55:41 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:55:42 - INFO - Req was made | / 
+15.4.2024, 16:55:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:55:44 - INFO - Station updated [id: 6619390084edb867eb472ce7], broadcasting changes. 
+15.4.2024, 16:55:45 - INFO - Req was made | / 
+15.4.2024, 16:55:45 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:55:45 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:55:45 - INFO - Req was made | / 
+15.4.2024, 16:55:45 - INFO - Req was made | / 
+15.4.2024, 16:55:45 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:55:47 - INFO - Station updated [id: 6619390084edb867eb472ce7], broadcasting changes. 
+15.4.2024, 16:55:47 - INFO - Req was made | / 
+15.4.2024, 16:55:47 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:55:47 - INFO - Req was made | / 
+15.4.2024, 16:55:47 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 16:55:48 - INFO - Req was made | / 
+15.4.2024, 16:55:48 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:45:55 - INFO - Station updated [id: 6619390084edb867eb472ce7], broadcasting changes. 
+15.4.2024, 17:45:55 - INFO - Req was made | / 
+15.4.2024, 17:45:55 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:45:55 - INFO - Req was made | / 
+15.4.2024, 17:45:55 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:45:56 - INFO - Req was made | / 
+15.4.2024, 17:45:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:45:59 - INFO - Station updated [id: 6619390084edb867eb472ce7], broadcasting changes. 
+15.4.2024, 17:45:59 - INFO - Req was made | / 
+15.4.2024, 17:45:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:45:59 - INFO - Req was made | / 
+15.4.2024, 17:45:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:46:00 - INFO - Req was made | / 
+15.4.2024, 17:46:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:46:04 - INFO - Station updated [id: 6619390084edb867eb472ce7], broadcasting changes. 
+15.4.2024, 17:46:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:46:05 - INFO - Req was made | / 
+15.4.2024, 17:46:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:46:05 - INFO - Req was made | / 
+15.4.2024, 17:46:05 - INFO - Req was made | / 
+15.4.2024, 17:46:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:48:28 - INFO - Socket is leaving topic 6619390084edb867eb472ce7 [id: mvRuEz_D6vOPro4XAAAH] 
+15.4.2024, 17:48:28 - INFO - Req was made | / 
+15.4.2024, 17:48:28 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:48:29 - INFO - Req was made | / 
+15.4.2024, 17:48:29 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:48:34 - INFO - Socket is leaving topic 6619390084edb867eb472ce7 [id: Q85fNtSDSwEW3B6HAAAL] 
+15.4.2024, 17:48:34 - INFO - Req was made | / 
+15.4.2024, 17:48:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:48:35 - INFO - Req was made | / 
+15.4.2024, 17:48:35 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:48:46 - INFO - Station updated [id: 661a74f284edb867eb472d03], broadcasting changes. 
+15.4.2024, 17:48:46 - INFO - Req was made | / 
+15.4.2024, 17:48:46 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:48:47 - INFO - Req was made | / 
+15.4.2024, 17:48:47 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:49:15 - INFO - Req was made | / 
+15.4.2024, 17:49:15 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:49:21 - INFO - Socket is leaving topic 661a74f284edb867eb472d03 [id: Q85fNtSDSwEW3B6HAAAL] 
+15.4.2024, 17:49:22 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:49:22 - INFO - Req was made | / 
+15.4.2024, 17:49:23 - INFO - Req was made | / 
+15.4.2024, 17:49:23 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:55:53 - INFO - Socket is leaving topic 661a74f284edb867eb472d01 [id: Q85fNtSDSwEW3B6HAAAL] 
+15.4.2024, 17:55:53 - INFO - Req was made | / 
+15.4.2024, 17:55:53 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:55:55 - INFO - Req was made | / 
+15.4.2024, 17:55:55 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:56:01 - INFO - Station updated [id: 661a74f284edb867eb472d03], broadcasting changes. 
+15.4.2024, 17:56:03 - INFO - Req was made | / 
+15.4.2024, 17:56:03 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:56:04 - INFO - Req was made | / 
+15.4.2024, 17:56:04 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:56:05 - INFO - Station updated [id: 661a74f284edb867eb472d03], broadcasting changes. 
+15.4.2024, 17:56:05 - INFO - Req was made | / 
+15.4.2024, 17:56:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:56:06 - INFO - Req was made | / 
+15.4.2024, 17:56:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:56:10 - INFO - Station updated [id: 661a74f284edb867eb472d03], broadcasting changes. 
+15.4.2024, 17:56:10 - INFO - Req was made | / 
+15.4.2024, 17:56:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 17:56:11 - INFO - Req was made | / 
+15.4.2024, 17:56:11 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
