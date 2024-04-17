@@ -60,8 +60,6 @@ export async function updateStation(req, res) {
         const updatedStation = await stationService.update(station)
         res.json(updatedStation)
 
-        console.log("🚀 ~ file: station.controller.js:72 ~ updateStation ~ updatedStation:", updatedStation)
-
         // socketService.emitTo({
         //     type: 'station-updated',
         //     data: updatedStation,

@@ -10,7 +10,7 @@ export const stationRoutes = express.Router()
 
 stationRoutes.get('/', log, getStations)
 stationRoutes.get('/:id', getStationById)
-stationRoutes.post('/', addStation)
+stationRoutes.post('/',requireAuth, addStation)
 stationRoutes.put('/:id', updateStation)
 stationRoutes.delete('/:id', removeStation)
 

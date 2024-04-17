@@ -8710,3 +8710,1459 @@
 15.4.2024, 17:56:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
 15.4.2024, 17:56:11 - INFO - Req was made | / 
 15.4.2024, 17:56:11 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:17:04 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 19:17:30 - INFO - New connected socket [id: vWorWMadcNkMKDYKAAAN] 
+15.4.2024, 19:17:30 - INFO - Req was made | / 
+15.4.2024, 19:17:30 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:17:31 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 19:17:31 - INFO - Req was made | / 
+15.4.2024, 19:17:33 - INFO - Req was made | / 
+15.4.2024, 19:17:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:17:36 - INFO - Station updated [id: 661a74f284edb867eb472d03], broadcasting changes. 
+15.4.2024, 19:17:37 - INFO - Req was made | / 
+15.4.2024, 19:17:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:17:40 - INFO - Req was made | / 
+15.4.2024, 19:17:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:17:41 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 19:17:43 - INFO - New connected socket [id: pLUrxdWxcfAYq-WJAAAP] 
+15.4.2024, 19:17:43 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 19:17:43 - INFO - Req was made | / 
+15.4.2024, 19:17:43 - INFO - Req was made | / 
+15.4.2024, 19:17:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:17:45 - INFO - Req was made | / 
+15.4.2024, 19:17:45 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:17:46 - INFO - Req was made | / 
+15.4.2024, 19:17:46 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:17:48 - INFO - Station updated [id: 661a74f284edb867eb472d03], broadcasting changes. 
+15.4.2024, 19:17:49 - INFO - Req was made | / 
+15.4.2024, 19:17:49 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:17:50 - INFO - Req was made | / 
+15.4.2024, 19:17:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:17:50 - INFO - Station updated [id: 661a74f284edb867eb472d03], broadcasting changes. 
+15.4.2024, 19:17:51 - INFO - Req was made | / 
+15.4.2024, 19:17:51 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:17:51 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:17:51 - INFO - Req was made | / 
+15.4.2024, 19:17:51 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 19:17:53 - INFO - New connected socket [id: QZ_FuRgAe-4RcZt8AAAR] 
+15.4.2024, 19:17:53 - INFO - Req was made | / 
+15.4.2024, 19:17:53 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:17:54 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 19:17:54 - INFO - Req was made | / 
+15.4.2024, 19:17:55 - INFO - Req was made | / 
+15.4.2024, 19:17:55 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:43:22 - INFO - Req was made | / 
+15.4.2024, 19:43:22 - DEBUG - Getting categories 
+15.4.2024, 19:43:31 - INFO - Req was made | / 
+15.4.2024, 19:43:31 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:43:32 - INFO - Req was made | / 
+15.4.2024, 19:43:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:49:07 - INFO - Req was made | / 
+15.4.2024, 19:49:07 - DEBUG - Getting categories 
+15.4.2024, 19:49:21 - INFO - Req was made | / 
+15.4.2024, 19:49:21 - DEBUG - Getting categories 
+15.4.2024, 19:49:27 - INFO - Socket is leaving topic 661a74f284edb867eb472d03 [id: QZ_FuRgAe-4RcZt8AAAR] 
+15.4.2024, 19:49:28 - INFO - Req was made | / 
+15.4.2024, 19:49:28 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:49:29 - INFO - Req was made | / 
+15.4.2024, 19:49:29 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:50:45 - INFO - Req was made | / 
+15.4.2024, 19:50:45 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:50:47 - INFO - Req was made | / 
+15.4.2024, 19:50:47 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:50:54 - INFO - Req was made | / 
+15.4.2024, 19:50:54 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:51:02 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 19:51:04 - INFO - New connected socket [id: 4m4Xh0HGqIIU5ohMAAAT] 
+15.4.2024, 19:51:05 - INFO - Req was made | / 
+15.4.2024, 19:51:05 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 19:51:05 - INFO - Req was made | / 
+15.4.2024, 19:51:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:51:06 - INFO - Req was made | / 
+15.4.2024, 19:51:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:51:07 - INFO - Req was made | / 
+15.4.2024, 19:51:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:51:39 - INFO - Socket is leaving topic 661d5a92d9c22d2279c96920 [id: 4m4Xh0HGqIIU5ohMAAAT] 
+15.4.2024, 19:51:39 - INFO - Req was made | / 
+15.4.2024, 19:51:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:51:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:51:40 - INFO - Req was made | / 
+15.4.2024, 19:54:49 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 19:54:51 - INFO - New connected socket [id: Y5kwrS9TuERS7SbWAAAV] 
+15.4.2024, 19:54:51 - INFO - Req was made | / 
+15.4.2024, 19:54:51 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 19:54:51 - INFO - Req was made | / 
+15.4.2024, 19:54:51 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:54:52 - INFO - Req was made | / 
+15.4.2024, 19:54:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:54:52 - INFO - Req was made | / 
+15.4.2024, 19:54:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:54:55 - INFO - Socket is leaving topic 6619390084edb867eb472ce7 [id: Y5kwrS9TuERS7SbWAAAV] 
+15.4.2024, 19:54:55 - INFO - Req was made | / 
+15.4.2024, 19:54:55 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:54:56 - INFO - Req was made | / 
+15.4.2024, 19:54:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:55:02 - INFO - Socket is leaving topic 661a74f284edb867eb472cff [id: 4m4Xh0HGqIIU5ohMAAAT] 
+15.4.2024, 19:55:02 - INFO - Req was made | / 
+15.4.2024, 19:55:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:55:03 - INFO - Req was made | / 
+15.4.2024, 19:55:03 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:55:05 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 19:55:07 - INFO - New connected socket [id: Vi7xaLRGRxxqxzmQAAAX] 
+15.4.2024, 19:55:08 - INFO - Req was made | / 
+15.4.2024, 19:55:08 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 19:55:08 - INFO - Req was made | / 
+15.4.2024, 19:55:08 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:55:09 - INFO - Req was made | / 
+15.4.2024, 19:55:09 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:55:09 - INFO - Req was made | / 
+15.4.2024, 19:55:09 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:55:16 - INFO - Station updated [id: 661a74f284edb867eb472d09], broadcasting changes. 
+15.4.2024, 19:55:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:55:16 - INFO - Req was made | / 
+15.4.2024, 19:55:16 - INFO - Req was made | / 
+15.4.2024, 19:55:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:55:22 - INFO - Station updated [id: 661a74f284edb867eb472d09], broadcasting changes. 
+15.4.2024, 19:55:22 - INFO - Req was made | / 
+15.4.2024, 19:55:22 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:55:22 - INFO - Req was made | / 
+15.4.2024, 19:55:22 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:57:22 - INFO - Station updated [id: 661a74f284edb867eb472d09], broadcasting changes. 
+15.4.2024, 19:57:22 - INFO - Req was made | / 
+15.4.2024, 19:57:22 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:57:22 - INFO - Req was made | / 
+15.4.2024, 19:57:22 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 19:57:58 - INFO - server.js loaded... 
+15.4.2024, 19:57:58 - INFO - Server is running on port: 3033 
+15.4.2024, 19:57:58 - INFO - New connected socket [id: IupFwbsnhYKpntlFAAAC] 
+15.4.2024, 19:57:58 - INFO - New connected socket [id: VohT-8pYoaITEjPXAAAD] 
+15.4.2024, 19:58:00 - INFO - New connected socket [id: l2YodhEGXspP8qVtAAAF] 
+15.4.2024, 20:16:19 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 20:16:19 - INFO - Req was made | / 
+15.4.2024, 20:16:21 - INFO - Req was made | / 
+15.4.2024, 20:16:21 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 20:21:52 - INFO - Station updated [id: 661a74f284edb867eb472d09], broadcasting changes. 
+15.4.2024, 20:21:52 - INFO - Req was made | / 
+15.4.2024, 20:21:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 20:22:10 - INFO - Req was made | / 
+15.4.2024, 20:22:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 20:22:10 - INFO - Req was made | / 
+15.4.2024, 20:22:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 20:22:16 - INFO - Station updated [id: 661a74f284edb867eb472d09], broadcasting changes. 
+15.4.2024, 20:22:16 - INFO - Req was made | / 
+15.4.2024, 20:22:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 20:22:25 - INFO - Station updated [id: 661a74f284edb867eb472d09], broadcasting changes. 
+15.4.2024, 20:22:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 20:22:25 - INFO - Req was made | / 
+15.4.2024, 20:22:27 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 20:22:28 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 20:22:28 - INFO - Req was made | / 
+15.4.2024, 20:22:28 - INFO - New connected socket [id: GINo9uyGow5XtXPbAAAH] 
+15.4.2024, 20:22:28 - INFO - Req was made | / 
+15.4.2024, 20:22:28 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 20:22:29 - INFO - Req was made | / 
+15.4.2024, 20:22:29 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 20:22:31 - INFO - Station updated [id: 661a74f284edb867eb472d09], broadcasting changes. 
+15.4.2024, 20:22:31 - INFO - Req was made | / 
+15.4.2024, 20:22:31 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 20:22:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 20:22:32 - INFO - Req was made | / 
+15.4.2024, 20:22:35 - INFO - Station updated [id: 661a74f284edb867eb472d09], broadcasting changes. 
+15.4.2024, 20:22:35 - INFO - Req was made | / 
+15.4.2024, 20:22:35 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 20:22:35 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 20:22:35 - INFO - Req was made | / 
+15.4.2024, 20:22:37 - INFO - Station updated [id: 661a74f284edb867eb472d09], broadcasting changes. 
+15.4.2024, 20:22:37 - INFO - Req was made | / 
+15.4.2024, 20:22:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 20:22:38 - INFO - Req was made | / 
+15.4.2024, 20:22:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 20:57:42 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 20:57:52 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 20:58:03 - INFO - New connected socket [id: q9c_-rH6uaHS9xHTAAAK] 
+15.4.2024, 20:58:03 - INFO - New connected socket [id: RIz-UnpcFKxq9LpmAAAL] 
+15.4.2024, 20:58:46 - INFO - Req was made | / 
+15.4.2024, 20:58:46 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 20:58:50 - INFO - Req was made | / 
+15.4.2024, 20:58:50 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 21:48:52 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 21:49:14 - INFO - New connected socket [id: wq1T1o5roEZXX4aLAAAN] 
+15.4.2024, 21:49:15 - INFO - Req was made | / 
+15.4.2024, 21:49:15 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 21:49:33 - INFO - Req was made | / 
+15.4.2024, 21:49:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 21:49:34 - INFO - Req was made | / 
+15.4.2024, 21:49:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 21:49:53 - INFO - Socket is leaving topic 66191bac84edb867eb472cdc [id: wq1T1o5roEZXX4aLAAAN] 
+15.4.2024, 21:49:54 - INFO - Req was made | / 
+15.4.2024, 21:49:54 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 21:49:55 - INFO - Req was made | / 
+15.4.2024, 21:49:55 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 21:50:38 - INFO - Socket is leaving topic 661a74f284edb867eb472d02 [id: wq1T1o5roEZXX4aLAAAN] 
+15.4.2024, 21:50:38 - INFO - Req was made | / 
+15.4.2024, 21:50:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 21:50:39 - INFO - Req was made | / 
+15.4.2024, 21:50:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 21:52:54 - INFO - Req was made | / 
+15.4.2024, 21:52:54 - DEBUG - Getting categories 
+15.4.2024, 21:52:58 - INFO - Req was made | / 
+15.4.2024, 21:52:58 - DEBUG - Getting categories 
+15.4.2024, 21:54:27 - INFO - Socket is leaving topic 661a74f284edb867eb472d07 [id: wq1T1o5roEZXX4aLAAAN] 
+15.4.2024, 21:54:27 - INFO - Req was made | / 
+15.4.2024, 21:54:27 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 21:54:28 - INFO - Req was made | / 
+15.4.2024, 21:54:28 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 21:54:43 - INFO - Socket is leaving topic 661d5a92d9c22d2279c96920 [id: wq1T1o5roEZXX4aLAAAN] 
+15.4.2024, 21:54:43 - INFO - Req was made | / 
+15.4.2024, 21:54:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 21:54:44 - INFO - Req was made | / 
+15.4.2024, 21:54:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 21:54:55 - INFO - Req was made | / 
+15.4.2024, 21:54:55 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 21:54:56 - INFO - Socket is leaving topic 661a74f284edb867eb472d18 [id: wq1T1o5roEZXX4aLAAAN] 
+15.4.2024, 21:54:56 - INFO - Req was made | / 
+15.4.2024, 21:54:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 21:54:57 - INFO - Req was made | / 
+15.4.2024, 21:54:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 21:58:29 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 21:58:33 - INFO - New connected socket [id: 92Q-acp9O7CDfaOlAAAP] 
+15.4.2024, 21:58:34 - INFO - Req was made | / 
+15.4.2024, 21:58:34 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 22:00:35 - ERROR - Failed to Login Error: Invalid username or password 
+15.4.2024, 22:00:36 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 22:00:37 - INFO - New connected socket [id: 0bOmGFJZdlaHEpR0AAAR] 
+15.4.2024, 22:00:38 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 22:00:38 - INFO - Req was made | / 
+15.4.2024, 22:01:13 - DEBUG - auth.service - signup with username: mika, fullname: mika 
+15.4.2024, 22:01:13 - DEBUG - auth.route - new account created: {"username":"mika","password":"$2b$10$mHuzPma9BwEo6NwUbWO1Tu1myTb3FjWqgOJ4teRjvWzPLSZTNyPFO","fullname":"mika","isAdmin":false,"_id":"661d79799bbc851fc5727df2"} 
+15.4.2024, 22:01:14 - INFO - Setting socket.userId = [object Object] for socket [id: 0bOmGFJZdlaHEpR0AAAR] 
+15.4.2024, 22:01:43 - INFO - Req was made | / 
+15.4.2024, 22:01:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:01:44 - INFO - Req was made | / 
+15.4.2024, 22:01:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:01:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:01:56 - INFO - Req was made | / 
+15.4.2024, 22:02:04 - INFO - New connected socket [id: 5Xh4Vdsi2ArNdTyPAAAT] 
+15.4.2024, 22:02:05 - INFO - Req was made | / 
+15.4.2024, 22:02:05 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 22:02:21 - DEBUG - auth.service - signup with username: nadav, fullname: nadav 
+15.4.2024, 22:02:21 - DEBUG - auth.route - new account created: {"username":"nadav","password":"$2b$10$/YNezgF5j1XrSRBFwVEUX.sfl/Xehec62wi.8zGGYC6MsJ73S5nFu","fullname":"nadav","isAdmin":false,"_id":"661d79bd9bbc851fc5727df3"} 
+15.4.2024, 22:02:22 - INFO - Setting socket.userId = [object Object] for socket [id: 5Xh4Vdsi2ArNdTyPAAAT] 
+15.4.2024, 22:03:10 - INFO - Req was made | / 
+15.4.2024, 22:03:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:03:19 - INFO - Req was made | / 
+15.4.2024, 22:03:19 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:03:19 - INFO - Req was made | / 
+15.4.2024, 22:03:19 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:03:24 - INFO - Req was made | / 
+15.4.2024, 22:03:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:03:32 - INFO - Station updated [id: 661a74f284edb867eb472cff], broadcasting changes. 
+15.4.2024, 22:03:32 - INFO - Req was made | / 
+15.4.2024, 22:03:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:03:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:03:33 - INFO - Req was made | / 
+15.4.2024, 22:03:37 - INFO - Station updated [id: 661a74f284edb867eb472cff], broadcasting changes. 
+15.4.2024, 22:03:37 - INFO - Req was made | / 
+15.4.2024, 22:03:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:03:38 - INFO - Req was made | / 
+15.4.2024, 22:03:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:03:42 - INFO - Station updated [id: 661a74f284edb867eb472cff], broadcasting changes. 
+15.4.2024, 22:03:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:03:42 - INFO - Req was made | / 
+15.4.2024, 22:03:42 - INFO - Req was made | / 
+15.4.2024, 22:03:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:04:20 - INFO - Removing socket.userId for socket [id: 5Xh4Vdsi2ArNdTyPAAAT] 
+15.4.2024, 22:04:27 - INFO - User login:  | {"_id":"661d79bd9bbc851fc5727df3","username":"nadav","fullname":"nadav","isAdmin":false} 
+15.4.2024, 22:04:27 - INFO - Setting socket.userId = [object Object] for socket [id: 5Xh4Vdsi2ArNdTyPAAAT] 
+15.4.2024, 22:04:40 - INFO - Socket is leaving topic 661a74f284edb867eb472cff [id: 5Xh4Vdsi2ArNdTyPAAAT] 
+15.4.2024, 22:04:40 - INFO - Req was made | / 
+15.4.2024, 22:04:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:04:41 - INFO - Req was made | / 
+15.4.2024, 22:04:41 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:04:56 - INFO - Socket is leaving topic 661a74f284edb867eb472cff [id: 0bOmGFJZdlaHEpR0AAAR] 
+15.4.2024, 22:04:56 - INFO - Req was made | / 
+15.4.2024, 22:04:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:04:57 - INFO - Req was made | / 
+15.4.2024, 22:04:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:05:03 - INFO - Station updated [id: 661a74f284edb867eb472d0f], broadcasting changes. 
+15.4.2024, 22:05:04 - INFO - Req was made | / 
+15.4.2024, 22:05:04 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:05:05 - INFO - Req was made | / 
+15.4.2024, 22:05:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:05:12 - INFO - Station updated [id: 661a74f284edb867eb472d0f], broadcasting changes. 
+15.4.2024, 22:05:12 - INFO - Req was made | / 
+15.4.2024, 22:05:12 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:05:13 - INFO - Req was made | / 
+15.4.2024, 22:05:13 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:05:19 - INFO - Station updated [id: 661a74f284edb867eb472d0f], broadcasting changes. 
+15.4.2024, 22:05:19 - INFO - Req was made | / 
+15.4.2024, 22:05:19 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:05:20 - INFO - Req was made | / 
+15.4.2024, 22:05:20 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:09:25 - INFO - Removing socket.userId for socket [id: 5Xh4Vdsi2ArNdTyPAAAT] 
+15.4.2024, 22:29:41 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 22:29:42 - INFO - New connected socket [id: scFL0vHdXC8DLy6UAAAV] 
+15.4.2024, 22:29:43 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: scFL0vHdXC8DLy6UAAAV] 
+15.4.2024, 22:30:13 - INFO - Req was made | / 
+15.4.2024, 22:30:13 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 22:30:13 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 22:30:15 - INFO - New connected socket [id: SMpfkpicY2xKlT3zAAAX] 
+15.4.2024, 22:30:15 - INFO - Req was made | / 
+15.4.2024, 22:30:15 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+15.4.2024, 22:30:15 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: SMpfkpicY2xKlT3zAAAX] 
+15.4.2024, 22:30:44 - DEBUG - auth.service - signup with username: emma, fullname: emma 
+15.4.2024, 22:30:44 - DEBUG - auth.route - new account created: {"username":"emma","password":"$2b$10$FHnbCHKHtx9dqS6fdmAfiuvy5ZoGN11.0r/jEJxxFetgb6./L1tlC","fullname":"emma","isAdmin":false,"_id":"661d80649bbc851fc5727df4"} 
+15.4.2024, 22:30:44 - INFO - Setting socket.userId = [object Object] for socket [id: SMpfkpicY2xKlT3zAAAX] 
+15.4.2024, 22:38:19 - INFO - Removing socket.userId for socket [id: 0bOmGFJZdlaHEpR0AAAR] 
+15.4.2024, 22:38:21 - INFO - Removing socket.userId for socket [id: SMpfkpicY2xKlT3zAAAX] 
+15.4.2024, 22:38:22 - INFO - Req was made | / 
+15.4.2024, 22:38:22 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:38:23 - INFO - Req was made | / 
+15.4.2024, 22:38:23 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:38:23 - INFO - Socket is leaving topic 661a74f284edb867eb472d0f [id: 0bOmGFJZdlaHEpR0AAAR] 
+15.4.2024, 22:38:24 - INFO - Req was made | / 
+15.4.2024, 22:38:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:38:24 - INFO - Req was made | / 
+15.4.2024, 22:38:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:38:36 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:38:36 - INFO - Req was made | / 
+15.4.2024, 22:38:40 - INFO - Req was made | / 
+15.4.2024, 22:38:41 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:38:43 - INFO - Station updated [id: 66191bac84edb867eb472cdc], broadcasting changes. 
+15.4.2024, 22:38:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:38:43 - INFO - Req was made | / 
+15.4.2024, 22:38:44 - INFO - Req was made | / 
+15.4.2024, 22:38:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:38:57 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 22:39:02 - INFO - Station updated [id: 66191bac84edb867eb472cdc], broadcasting changes. 
+15.4.2024, 22:39:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:39:02 - INFO - Req was made | / 
+15.4.2024, 22:39:02 - INFO - Req was made | / 
+15.4.2024, 22:39:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+15.4.2024, 22:44:31 - INFO - User login:  | {"_id":"661d80649bbc851fc5727df4","username":"emma","fullname":"emma","isAdmin":false} 
+15.4.2024, 22:44:31 - INFO - Setting socket.userId = [object Object] for socket [id: SMpfkpicY2xKlT3zAAAX] 
+15.4.2024, 22:45:52 - DEBUG - auth.service - signup with username: yossi, fullname: yossi 
+15.4.2024, 22:45:53 - DEBUG - auth.route - new account created: {"username":"yossi","password":"$2b$10$uYnnFHtlllsN8r5uXgUqzuZNdN1Evr55GkjKiTh1XG3wMhRfzqIVu","fullname":"yossi","isAdmin":false,"_id":"661d83f19bbc851fc5727df5"} 
+15.4.2024, 22:45:53 - INFO - Setting socket.userId = [object Object] for socket [id: SMpfkpicY2xKlT3zAAAX] 
+15.4.2024, 22:49:49 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 22:49:49 - INFO - Socket disconnected [id: undefined] 
+15.4.2024, 22:49:49 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 1:50:08 - INFO - New connected socket [id: 1YJ2F7PyVvXBkeYrAAAa] 
+16.4.2024, 1:50:08 - INFO - New connected socket [id: 7p6AeL2IrLXMwy7NAAAb] 
+16.4.2024, 1:50:10 - INFO - New connected socket [id: DKbHmzWeqwCCTbi7AAAd] 
+16.4.2024, 1:53:29 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 1:53:29 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 1:53:29 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 4:53:42 - INFO - New connected socket [id: 2q57hn69CZjFcMFbAAAf] 
+16.4.2024, 4:53:43 - INFO - New connected socket [id: uE6hxsUQlzlWet8bAAAi] 
+16.4.2024, 4:53:43 - INFO - New connected socket [id: ZfVDIeJP2X79i6L9AAAj] 
+16.4.2024, 4:55:49 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 4:55:49 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 4:55:49 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 7:56:02 - INFO - New connected socket [id: PaXAcANYQ4VpoxqMAAAn] 
+16.4.2024, 7:56:02 - INFO - New connected socket [id: bEouzel0HG-OmWzQAAAo] 
+16.4.2024, 7:56:02 - INFO - New connected socket [id: 5maAhNkXCYXwFArEAAAp] 
+16.4.2024, 7:58:17 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 7:58:17 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 7:58:17 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 8:36:26 - INFO - New connected socket [id: OsD8CXozHZVLyHqiAAAr] 
+16.4.2024, 8:36:27 - INFO - New connected socket [id: c1eTznoGDxXTXAzzAAAu] 
+16.4.2024, 8:36:27 - INFO - New connected socket [id: blRkdT-QVfwJM6fXAAAv] 
+16.4.2024, 8:36:56 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 8:36:57 - INFO - Setting socket.userId = 661d79799bbc851fc5727df2 for socket [id: NGuN-bM5zhWzFpy0AAAx] 
+16.4.2024, 8:36:57 - INFO - New connected socket [id: NGuN-bM5zhWzFpy0AAAx] 
+16.4.2024, 8:36:58 - INFO - Req was made | / 
+16.4.2024, 8:36:58 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:36:58 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 8:36:58 - INFO - Req was made | / 
+16.4.2024, 8:37:00 - INFO - Req was made | / 
+16.4.2024, 8:37:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:38:44 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 8:38:45 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 8:38:47 - INFO - Setting socket.userId = 661d83f19bbc851fc5727df5 for socket [id: 2WFuna1crd0Chc7lAAAz] 
+16.4.2024, 8:38:47 - INFO - New connected socket [id: 2WFuna1crd0Chc7lAAAz] 
+16.4.2024, 8:38:49 - INFO - Req was made | / 
+16.4.2024, 8:38:49 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 8:38:51 - INFO - New connected socket [id: MXGb5dzNkLuZGU7mAAA1] 
+16.4.2024, 8:38:52 - INFO - Req was made | / 
+16.4.2024, 8:38:52 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 8:43:47 - INFO - server.js loaded... 
+16.4.2024, 8:43:47 - INFO - Server is running on port: 3033 
+16.4.2024, 8:43:48 - INFO - New connected socket [id: t1kg2vb5Ut-eQwR1AAAB] 
+16.4.2024, 8:43:48 - INFO - Setting socket.userId = 661d83f19bbc851fc5727df5 for socket [id: t1kg2vb5Ut-eQwR1AAAB] 
+16.4.2024, 8:43:50 - INFO - New connected socket [id: v6QDLhmv9xDCYz6IAAAD] 
+16.4.2024, 8:43:51 - INFO - New connected socket [id: okw6_xeO2urFnLYYAAAF] 
+16.4.2024, 8:44:10 - INFO - server.js loaded... 
+16.4.2024, 8:44:10 - INFO - Server is running on port: 3033 
+16.4.2024, 8:44:11 - INFO - New connected socket [id: RIlZ3WTJupzFhdlbAAAB] 
+16.4.2024, 8:44:11 - INFO - New connected socket [id: UPwILY0uJ3nneOE_AAAD] 
+16.4.2024, 8:44:13 - INFO - New connected socket [id: XY1lreDCx1AfBENDAAAF] 
+16.4.2024, 8:44:15 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 8:44:21 - INFO - New connected socket [id: klx21ZZQEWCSTGxjAAAH] 
+16.4.2024, 8:44:21 - INFO - Setting socket.userId = 661d83f19bbc851fc5727df5 for socket [id: klx21ZZQEWCSTGxjAAAH] 
+16.4.2024, 8:44:21 - INFO - Req was made | / 
+16.4.2024, 8:44:21 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 8:44:28 - INFO - User login:  | {"_id":"661d80649bbc851fc5727df4","username":"emma","fullname":"emma","isAdmin":false} 
+16.4.2024, 8:44:28 - INFO - Setting socket.userId = [object Object] for socket [id: klx21ZZQEWCSTGxjAAAH] 
+16.4.2024, 8:44:36 - INFO - Req was made | / 
+16.4.2024, 8:44:36 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:44:37 - INFO - Req was made | / 
+16.4.2024, 8:44:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:45:01 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 8:45:02 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 8:45:05 - INFO - Req was made | / 
+16.4.2024, 8:45:05 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 8:45:05 - INFO - New connected socket [id: VaX_lHStBpoPqpOUAAAJ] 
+16.4.2024, 8:45:06 - INFO - New connected socket [id: wjzTeRDJ4FguncPqAAAL] 
+16.4.2024, 8:45:06 - INFO - Req was made | / 
+16.4.2024, 8:45:06 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 8:45:06 - INFO - Setting socket.userId = 661d79799bbc851fc5727df2 for socket [id: wjzTeRDJ4FguncPqAAAL] 
+16.4.2024, 8:45:06 - INFO - Req was made | / 
+16.4.2024, 8:45:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:45:08 - INFO - Req was made | / 
+16.4.2024, 8:45:08 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:47:24 - INFO - server.js loaded... 
+16.4.2024, 8:47:24 - INFO - Server is running on port: 3033 
+16.4.2024, 8:47:24 - INFO - New connected socket [id: 7r9Cci-9Y42jW7YiAAAC] 
+16.4.2024, 8:47:24 - INFO - New connected socket [id: teLgU2f02Wj3owQ0AAAD] 
+16.4.2024, 8:47:24 - INFO - New connected socket [id: rZDGtBIWh9nP9Rz3AAAF] 
+16.4.2024, 8:48:51 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 8:48:52 - INFO - New connected socket [id: nEUFKb7Cy-Ea2Df9AAAH] 
+16.4.2024, 8:48:53 - INFO - Req was made | / 
+16.4.2024, 8:48:53 - INFO - Setting socket.userId = 661d80649bbc851fc5727df4 for socket [id: nEUFKb7Cy-Ea2Df9AAAH] 
+16.4.2024, 8:48:53 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 8:48:53 - INFO - Req was made | / 
+16.4.2024, 8:48:53 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:48:59 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 8:49:01 - INFO - New connected socket [id: fmNt_uq2EUhB60r4AAAJ] 
+16.4.2024, 8:49:01 - INFO - Setting socket.userId = 661d80649bbc851fc5727df4 for socket [id: fmNt_uq2EUhB60r4AAAJ] 
+16.4.2024, 8:49:02 - INFO - Req was made | / 
+16.4.2024, 8:49:02 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 8:49:23 - INFO - server.js loaded... 
+16.4.2024, 8:49:23 - INFO - Server is running on port: 3033 
+16.4.2024, 8:49:24 - INFO - New connected socket [id: Vt0D5V2Ka3fTNPsJAAAD] 
+16.4.2024, 8:49:24 - INFO - New connected socket [id: fl2C0HUGHEV88LupAAAE] 
+16.4.2024, 8:49:24 - INFO - New connected socket [id: WVToJEiaxtrrh26AAAAF] 
+16.4.2024, 8:49:25 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 8:49:27 - INFO - New connected socket [id: 1hbylc1CQvHo4mh3AAAH] 
+16.4.2024, 8:49:27 - INFO - Req was made | / 
+16.4.2024, 8:49:27 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 8:49:27 - INFO - Setting socket.userId = 661d80649bbc851fc5727df4 for socket [id: 1hbylc1CQvHo4mh3AAAH] 
+16.4.2024, 8:49:47 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 8:49:48 - INFO - New connected socket [id: l6aFGpVy1PkYt-wrAAAJ] 
+16.4.2024, 8:49:48 - INFO - Setting socket.userId = 661d80649bbc851fc5727df4 for socket [id: l6aFGpVy1PkYt-wrAAAJ] 
+16.4.2024, 8:49:48 - INFO - Req was made | / 
+16.4.2024, 8:49:48 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 8:50:00 - INFO - server.js loaded... 
+16.4.2024, 8:50:00 - INFO - Server is running on port: 3033 
+16.4.2024, 8:50:00 - INFO - New connected socket [id: zUdBcbeXylaR2g_IAAAD] 
+16.4.2024, 8:50:00 - INFO - New connected socket [id: JGLMHpnpkSYeoIEwAAAE] 
+16.4.2024, 8:50:00 - INFO - New connected socket [id: M1GKCoVgXoKMzwiYAAAF] 
+16.4.2024, 8:50:08 - INFO - server.js loaded... 
+16.4.2024, 8:50:08 - INFO - Server is running on port: 3033 
+16.4.2024, 8:50:08 - INFO - New connected socket [id: SQh5qQ2zKbpdUJ_OAAAD] 
+16.4.2024, 8:50:08 - INFO - New connected socket [id: EswXMphSHlMcL6CRAAAE] 
+16.4.2024, 8:50:08 - INFO - New connected socket [id: y-Gw82TF8JyLfkpfAAAF] 
+16.4.2024, 8:50:12 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 8:50:13 - INFO - New connected socket [id: X7dS7hJrVn-jvbMfAAAH] 
+16.4.2024, 8:50:14 - INFO - Setting socket.userId = 661d80649bbc851fc5727df4 for socket [id: X7dS7hJrVn-jvbMfAAAH] 
+16.4.2024, 8:50:14 - INFO - Req was made | / 
+16.4.2024, 8:50:14 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 8:50:30 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 8:50:31 - INFO - New connected socket [id: _c9M6dLuAf8AiLWWAAAJ] 
+16.4.2024, 8:50:31 - INFO - Setting socket.userId = 661d80649bbc851fc5727df4 for socket [id: _c9M6dLuAf8AiLWWAAAJ] 
+16.4.2024, 8:50:32 - INFO - Req was made | / 
+16.4.2024, 8:50:32 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 8:52:36 - INFO - Req was made | / 
+16.4.2024, 8:52:36 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:52:37 - INFO - Req was made | / 
+16.4.2024, 8:52:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:52:50 - INFO - Socket is leaving topic 66191bac84edb867eb472cdc [id: _c9M6dLuAf8AiLWWAAAJ] 
+16.4.2024, 8:52:50 - INFO - Req was made | / 
+16.4.2024, 8:52:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:52:52 - INFO - Req was made | / 
+16.4.2024, 8:52:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:53:00 - INFO - Socket is leaving topic 661a74f284edb867eb472d03 [id: _c9M6dLuAf8AiLWWAAAJ] 
+16.4.2024, 8:53:00 - INFO - Req was made | / 
+16.4.2024, 8:53:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:53:02 - INFO - Req was made | / 
+16.4.2024, 8:53:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:53:09 - INFO - Socket is leaving topic 6619390084edb867eb472ce7 [id: _c9M6dLuAf8AiLWWAAAJ] 
+16.4.2024, 8:53:09 - INFO - Req was made | / 
+16.4.2024, 8:53:09 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:53:11 - INFO - Req was made | / 
+16.4.2024, 8:53:11 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:54:22 - INFO - Socket is leaving topic 661a74f284edb867eb472d16 [id: _c9M6dLuAf8AiLWWAAAJ] 
+16.4.2024, 8:54:23 - INFO - Req was made | / 
+16.4.2024, 8:54:23 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:54:25 - INFO - Req was made | / 
+16.4.2024, 8:54:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:54:36 - INFO - Socket is leaving topic 6619390084edb867eb472ce7 [id: _c9M6dLuAf8AiLWWAAAJ] 
+16.4.2024, 8:54:37 - INFO - Req was made | / 
+16.4.2024, 8:54:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:54:38 - INFO - Req was made | / 
+16.4.2024, 8:54:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:54:50 - INFO - Socket is leaving topic 66191bac84edb867eb472cdc [id: _c9M6dLuAf8AiLWWAAAJ] 
+16.4.2024, 8:54:51 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:54:51 - INFO - Req was made | / 
+16.4.2024, 8:54:52 - INFO - Req was made | / 
+16.4.2024, 8:54:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:56:05 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 8:56:16 - INFO - Req was made | / 
+16.4.2024, 8:56:16 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 8:56:20 - INFO - Req was made | / 
+16.4.2024, 8:56:20 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:56:20 - INFO - New connected socket [id: 2-qLPR3h7rvLuQhIAAAL] 
+16.4.2024, 8:56:20 - INFO - Setting socket.userId = 661d80649bbc851fc5727df4 for socket [id: 2-qLPR3h7rvLuQhIAAAL] 
+16.4.2024, 8:56:21 - INFO - Req was made | / 
+16.4.2024, 8:56:21 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:56:41 - INFO - Socket is leaving topic 661a74f284edb867eb472d16 [id: 2-qLPR3h7rvLuQhIAAAL] 
+16.4.2024, 8:56:41 - INFO - Req was made | / 
+16.4.2024, 8:56:41 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:56:42 - INFO - Req was made | / 
+16.4.2024, 8:56:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:56:44 - INFO - Req was made | / 
+16.4.2024, 8:56:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:56:46 - INFO - Req was made | / 
+16.4.2024, 8:56:46 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:56:46 - INFO - Socket is leaving topic 66191bac84edb867eb472cdc [id: 2-qLPR3h7rvLuQhIAAAL] 
+16.4.2024, 8:56:47 - INFO - Req was made | / 
+16.4.2024, 8:56:47 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:56:48 - INFO - Req was made | / 
+16.4.2024, 8:56:48 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:58:21 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 8:58:21 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 8:58:25 - INFO - New connected socket [id: Pw8psZu3bBdbyrY-AAAN] 
+16.4.2024, 8:58:25 - INFO - Req was made | / 
+16.4.2024, 8:58:25 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 8:58:26 - INFO - Req was made | / 
+16.4.2024, 8:58:26 - INFO - Setting socket.userId = 661d79799bbc851fc5727df2 for socket [id: Pw8psZu3bBdbyrY-AAAN] 
+16.4.2024, 8:58:27 - INFO - Req was made | / 
+16.4.2024, 8:58:27 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 8:58:26 - INFO - New connected socket [id: C0aBFER63ayUp2S5AAAP] 
+16.4.2024, 8:58:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:58:29 - INFO - Req was made | / 
+16.4.2024, 8:58:29 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:58:36 - INFO - Socket is leaving topic 661a74f284edb867eb472d01 [id: 2-qLPR3h7rvLuQhIAAAL] 
+16.4.2024, 8:58:37 - INFO - Req was made | / 
+16.4.2024, 8:58:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:58:37 - INFO - Req was made | / 
+16.4.2024, 8:58:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:58:38 - INFO - Req was made | / 
+16.4.2024, 8:58:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:58:46 - INFO - Socket is leaving topic 661a74f284edb867eb472d07 [id: 2-qLPR3h7rvLuQhIAAAL] 
+16.4.2024, 8:58:47 - INFO - Req was made | / 
+16.4.2024, 8:58:47 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:58:47 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:58:47 - INFO - Req was made | / 
+16.4.2024, 8:58:48 - INFO - Req was made | / 
+16.4.2024, 8:58:48 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:59:10 - INFO - Socket is leaving topic 661a74f284edb867eb472d05 [id: 2-qLPR3h7rvLuQhIAAAL] 
+16.4.2024, 8:59:11 - INFO - Req was made | / 
+16.4.2024, 8:59:11 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:59:11 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:59:11 - INFO - Req was made | / 
+16.4.2024, 8:59:12 - INFO - Req was made | / 
+16.4.2024, 8:59:12 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:59:33 - INFO - Socket is leaving topic 661a74f284edb867eb472cff [id: 2-qLPR3h7rvLuQhIAAAL] 
+16.4.2024, 8:59:33 - INFO - Req was made | / 
+16.4.2024, 8:59:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:59:34 - INFO - Req was made | / 
+16.4.2024, 8:59:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:59:35 - INFO - Req was made | / 
+16.4.2024, 8:59:35 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:59:49 - INFO - Socket is leaving topic 661a74f284edb867eb472d12 [id: 2-qLPR3h7rvLuQhIAAAL] 
+16.4.2024, 8:59:50 - INFO - Req was made | / 
+16.4.2024, 8:59:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:59:50 - INFO - Req was made | / 
+16.4.2024, 8:59:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 8:59:51 - INFO - Req was made | / 
+16.4.2024, 8:59:51 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:00:00 - INFO - Socket is leaving topic 661a74f284edb867eb472d11 [id: 2-qLPR3h7rvLuQhIAAAL] 
+16.4.2024, 9:00:00 - INFO - Req was made | / 
+16.4.2024, 9:00:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:00:01 - INFO - Req was made | / 
+16.4.2024, 9:00:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:00:01 - INFO - Req was made | / 
+16.4.2024, 9:00:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:00:32 - INFO - Socket is leaving topic 661a74f284edb867eb472d09 [id: 2-qLPR3h7rvLuQhIAAAL] 
+16.4.2024, 9:00:33 - INFO - Req was made | / 
+16.4.2024, 9:00:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:00:33 - INFO - Req was made | / 
+16.4.2024, 9:00:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:00:34 - INFO - Req was made | / 
+16.4.2024, 9:00:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:00:41 - INFO - Socket is leaving topic 6619390084edb867eb472ce7 [id: 2-qLPR3h7rvLuQhIAAAL] 
+16.4.2024, 9:00:41 - INFO - Req was made | / 
+16.4.2024, 9:00:41 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:00:42 - INFO - Req was made | / 
+16.4.2024, 9:00:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:00:42 - INFO - Req was made | / 
+16.4.2024, 9:00:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:01:24 - INFO - Socket is leaving topic 66191bac84edb867eb472cdc [id: 2-qLPR3h7rvLuQhIAAAL] 
+16.4.2024, 9:01:24 - INFO - Req was made | / 
+16.4.2024, 9:01:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:01:25 - INFO - Req was made | / 
+16.4.2024, 9:01:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:01:26 - INFO - Req was made | / 
+16.4.2024, 9:01:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:01:30 - INFO - Socket is leaving topic 661a74f284edb867eb472d0a [id: 2-qLPR3h7rvLuQhIAAAL] 
+16.4.2024, 9:01:30 - INFO - Req was made | / 
+16.4.2024, 9:01:30 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:01:31 - INFO - Req was made | / 
+16.4.2024, 9:01:31 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:01:31 - INFO - Req was made | / 
+16.4.2024, 9:01:31 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:03:14 - INFO - Removing socket.userId for socket [id: 2-qLPR3h7rvLuQhIAAAL] 
+16.4.2024, 9:03:29 - INFO - User login:  | {"_id":"661d83f19bbc851fc5727df5","username":"yossi","fullname":"yossi","isAdmin":false} 
+16.4.2024, 9:03:29 - INFO - Setting socket.userId = [object Object] for socket [id: 2-qLPR3h7rvLuQhIAAAL] 
+16.4.2024, 9:04:00 - INFO - Socket is leaving topic 661a74f284edb867eb472cff [id: 2-qLPR3h7rvLuQhIAAAL] 
+16.4.2024, 9:04:00 - INFO - Req was made | / 
+16.4.2024, 9:04:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:04:00 - INFO - Req was made | / 
+16.4.2024, 9:04:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:04:01 - INFO - Req was made | / 
+16.4.2024, 9:04:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:04:04 - INFO - Socket is leaving topic 661a74f284edb867eb472d03 [id: 2-qLPR3h7rvLuQhIAAAL] 
+16.4.2024, 9:04:04 - INFO - Req was made | / 
+16.4.2024, 9:04:04 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:04:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:04:05 - INFO - Req was made | / 
+16.4.2024, 9:04:05 - INFO - Req was made | / 
+16.4.2024, 9:04:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:06:54 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 9:08:14 - INFO - User login:  | {"_id":"661d80649bbc851fc5727df4","username":"emma","fullname":"emma","isAdmin":false} 
+16.4.2024, 9:08:14 - INFO - Setting socket.userId = [object Object] for socket [id: C0aBFER63ayUp2S5AAAP] 
+16.4.2024, 9:08:16 - INFO - User login:  | {"_id":"661d80649bbc851fc5727df4","username":"emma","fullname":"emma","isAdmin":false} 
+16.4.2024, 9:08:16 - INFO - Setting socket.userId = [object Object] for socket [id: C0aBFER63ayUp2S5AAAP] 
+16.4.2024, 9:16:18 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 9:16:20 - INFO - New connected socket [id: gW0GJu9W1NaoSbeXAAAR] 
+16.4.2024, 9:16:20 - INFO - Req was made | / 
+16.4.2024, 9:16:20 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 9:16:20 - INFO - Setting socket.userId = 661d80649bbc851fc5727df4 for socket [id: gW0GJu9W1NaoSbeXAAAR] 
+16.4.2024, 9:16:36 - INFO - Removing socket.userId for socket [id: gW0GJu9W1NaoSbeXAAAR] 
+16.4.2024, 9:16:43 - INFO - User login:  | {"_id":"661d80649bbc851fc5727df4","username":"emma","fullname":"emma","isAdmin":false} 
+16.4.2024, 9:16:43 - INFO - Setting socket.userId = [object Object] for socket [id: gW0GJu9W1NaoSbeXAAAR] 
+16.4.2024, 9:16:44 - INFO - User login:  | {"_id":"661d80649bbc851fc5727df4","username":"emma","fullname":"emma","isAdmin":false} 
+16.4.2024, 9:16:44 - INFO - Setting socket.userId = [object Object] for socket [id: gW0GJu9W1NaoSbeXAAAR] 
+16.4.2024, 9:23:26 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 9:23:29 - INFO - Req was made | / 
+16.4.2024, 9:23:28 - INFO - New connected socket [id: uJYLmlti494-v2Y4AAAT] 
+16.4.2024, 9:23:29 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 9:23:29 - INFO - Setting socket.userId = 661d80649bbc851fc5727df4 for socket [id: uJYLmlti494-v2Y4AAAT] 
+16.4.2024, 9:23:30 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 9:23:32 - INFO - New connected socket [id: 9uCv9hPjPZEODRmUAAAV] 
+16.4.2024, 9:23:33 - INFO - Req was made | / 
+16.4.2024, 9:23:33 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 9:23:33 - INFO - Setting socket.userId = 661d83f19bbc851fc5727df5 for socket [id: 9uCv9hPjPZEODRmUAAAV] 
+16.4.2024, 9:23:38 - INFO - Req was made | / 
+16.4.2024, 9:23:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:23:39 - INFO - Req was made | / 
+16.4.2024, 9:23:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:23:42 - INFO - Req was made | / 
+16.4.2024, 9:23:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:23:43 - INFO - Req was made | / 
+16.4.2024, 9:23:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:23:43 - INFO - Req was made | / 
+16.4.2024, 9:23:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:23:46 - INFO - Removing socket.userId for socket [id: uJYLmlti494-v2Y4AAAT] 
+16.4.2024, 9:23:54 - INFO - User login:  | {"_id":"661d83f19bbc851fc5727df5","username":"yossi","fullname":"yossi","isAdmin":false} 
+16.4.2024, 9:23:54 - INFO - Setting socket.userId = [object Object] for socket [id: uJYLmlti494-v2Y4AAAT] 
+16.4.2024, 9:24:42 - INFO - Req was made | / 
+16.4.2024, 9:24:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:24:42 - INFO - Req was made | / 
+16.4.2024, 9:24:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:24:43 - INFO - Req was made | / 
+16.4.2024, 9:24:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:25:01 - INFO - Req was made | / 
+16.4.2024, 9:25:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:25:06 - INFO - Req was made | / 
+16.4.2024, 9:25:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:25:09 - INFO - Req was made | / 
+16.4.2024, 9:25:09 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:25:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:25:10 - INFO - Req was made | / 
+16.4.2024, 9:25:10 - INFO - Req was made | / 
+16.4.2024, 9:25:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:25:59 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 9:26:00 - INFO - New connected socket [id: 4M-3IpiLR2GmzpTFAAAX] 
+16.4.2024, 9:26:01 - INFO - Setting socket.userId = 661d83f19bbc851fc5727df5 for socket [id: 4M-3IpiLR2GmzpTFAAAX] 
+16.4.2024, 9:26:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:26:01 - INFO - Req was made | / 
+16.4.2024, 9:26:01 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 9:26:01 - INFO - Req was made | / 
+16.4.2024, 9:26:02 - INFO - Req was made | / 
+16.4.2024, 9:26:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:28:56 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 9:29:00 - INFO - New connected socket [id: uJbCo0sdcFYH0a3tAAAZ] 
+16.4.2024, 9:29:01 - INFO - Req was made | / 
+16.4.2024, 9:29:01 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 9:29:01 - INFO - Req was made | / 
+16.4.2024, 9:29:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:29:02 - INFO - Req was made | / 
+16.4.2024, 9:29:01 - INFO - Setting socket.userId = 661d83f19bbc851fc5727df5 for socket [id: uJbCo0sdcFYH0a3tAAAZ] 
+16.4.2024, 9:29:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:28:58 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 9:29:04 - INFO - New connected socket [id: tl1yATvFFzLp9hrGAAAb] 
+16.4.2024, 9:29:05 - INFO - Req was made | / 
+16.4.2024, 9:29:05 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 9:29:05 - INFO - Setting socket.userId = 661d83f19bbc851fc5727df5 for socket [id: tl1yATvFFzLp9hrGAAAb] 
+16.4.2024, 9:29:06 - INFO - Removing socket.userId for socket [id: uJbCo0sdcFYH0a3tAAAZ] 
+16.4.2024, 9:29:36 - DEBUG - auth.service - signup with username: mark, fullname: mark 
+16.4.2024, 9:29:37 - DEBUG - auth.route - new account created: {"username":"mark","password":"$2b$10$DwKavs49gNvczlf.HajUmubjd5jYjNeKdf6ZFh5f8CT0Pliyhtf3u","fullname":"mark","isAdmin":false,"_id":"661e1ad1025f7070a859fa13"} 
+16.4.2024, 9:29:37 - INFO - Setting socket.userId = [object Object] for socket [id: uJbCo0sdcFYH0a3tAAAZ] 
+16.4.2024, 9:31:51 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 9:31:53 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 9:31:54 - INFO - New connected socket [id: YFZ5uA-72KE69nRyAAAd] 
+16.4.2024, 9:31:54 - INFO - Req was made | / 
+16.4.2024, 9:31:54 - INFO - Setting socket.userId = 661e1ad1025f7070a859fa13 for socket [id: YFZ5uA-72KE69nRyAAAd] 
+16.4.2024, 9:31:54 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 9:31:56 - INFO - New connected socket [id: AhM1MhkHievZJZMSAAAf] 
+16.4.2024, 9:31:56 - INFO - Req was made | / 
+16.4.2024, 9:31:56 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 9:31:56 - INFO - Setting socket.userId = 661d83f19bbc851fc5727df5 for socket [id: AhM1MhkHievZJZMSAAAf] 
+16.4.2024, 9:32:18 - INFO - Removing socket.userId for socket [id: YFZ5uA-72KE69nRyAAAd] 
+16.4.2024, 9:32:26 - INFO - User login:  | {"_id":"661e1ad1025f7070a859fa13","username":"mark","fullname":"mark","isAdmin":false} 
+16.4.2024, 9:32:26 - INFO - Setting socket.userId = [object Object] for socket [id: YFZ5uA-72KE69nRyAAAd] 
+16.4.2024, 9:40:13 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 9:46:46 - INFO - server.js loaded... 
+16.4.2024, 9:46:47 - INFO - Server is running on port: 3033 
+16.4.2024, 9:46:49 - INFO - New connected socket [id: MqYVOO_Tv91pwTagAAAB] 
+16.4.2024, 9:53:10 - INFO - User login:  | {"_id":"661e1ad1025f7070a859fa13","username":"mark","fullname":"mark","isAdmin":false} 
+16.4.2024, 9:53:10 - INFO - Setting socket.userId = [object Object] for socket [id: MqYVOO_Tv91pwTagAAAB] 
+16.4.2024, 9:53:33 - DEBUG - auth.service - signup with username: moshe, fullname: moshe 
+16.4.2024, 9:53:33 - DEBUG - auth.route - new account created: {"username":"moshe","password":"$2b$10$CnN1g1r02DJT7ruJDBQatukzVmtYI7HKUqo0RGTRJoIj1q38mYiCW","fullname":"moshe","isAdmin":false,"_id":"661e206d98f71b9f176983ec"} 
+16.4.2024, 9:53:34 - INFO - Setting socket.userId = [object Object] for socket [id: MqYVOO_Tv91pwTagAAAB] 
+16.4.2024, 9:54:15 - INFO - Req was made | / 
+16.4.2024, 9:54:15 - DEBUG - Getting categories 
+16.4.2024, 9:54:25 - INFO - Req was made | / 
+16.4.2024, 9:54:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:54:25 - INFO - Req was made | / 
+16.4.2024, 9:54:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:54:26 - INFO - Req was made | / 
+16.4.2024, 9:54:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:55:09 - INFO - Socket is leaving topic 661a74f284edb867eb472d0b [id: MqYVOO_Tv91pwTagAAAB] 
+16.4.2024, 9:55:09 - INFO - Req was made | / 
+16.4.2024, 9:55:09 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 9:55:10 - INFO - Req was made | / 
+16.4.2024, 9:55:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 10:22:16 - INFO - Removing socket.userId for socket [id: MqYVOO_Tv91pwTagAAAB] 
+16.4.2024, 10:22:40 - DEBUG - auth.service - signup with username: puki, fullname: puki 
+16.4.2024, 10:22:40 - DEBUG - auth.route - new account created: {"username":"puki","password":"$2b$10$og9X7N2y3T928MPuujjTm.UYFinC1wVWA6adVmD4z3Umy8O2LIVSa","fullname":"puki","isAdmin":false,"_id":"661e274098f71b9f176983ee"} 
+16.4.2024, 10:22:40 - INFO - Setting socket.userId = [object Object] for socket [id: MqYVOO_Tv91pwTagAAAB] 
+16.4.2024, 10:23:52 - INFO - Removing socket.userId for socket [id: MqYVOO_Tv91pwTagAAAB] 
+16.4.2024, 10:23:57 - INFO - User login:  | {"_id":"661e274098f71b9f176983ee","username":"puki","fullname":"puki","imgUrl":null,"isAdmin":false} 
+16.4.2024, 10:23:57 - INFO - Setting socket.userId = [object Object] for socket [id: MqYVOO_Tv91pwTagAAAB] 
+16.4.2024, 10:26:23 - INFO - Removing socket.userId for socket [id: MqYVOO_Tv91pwTagAAAB] 
+16.4.2024, 10:26:26 - INFO - User login:  | {"_id":"661e274098f71b9f176983ee","username":"puki","fullname":"puki","imgUrl":null,"isAdmin":false} 
+16.4.2024, 10:26:26 - INFO - Setting socket.userId = [object Object] for socket [id: MqYVOO_Tv91pwTagAAAB] 
+16.4.2024, 10:34:28 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 10:34:31 - INFO - New connected socket [id: 5R2jNuFVyIHAgJ8RAAAD] 
+16.4.2024, 10:34:32 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 10:34:32 - INFO - Setting socket.userId = 661e274098f71b9f176983ee for socket [id: 5R2jNuFVyIHAgJ8RAAAD] 
+16.4.2024, 10:34:32 - INFO - Req was made | / 
+16.4.2024, 10:34:33 - INFO - Removing socket.userId for socket [id: 5R2jNuFVyIHAgJ8RAAAD] 
+16.4.2024, 10:34:38 - INFO - User login:  | {"_id":"661e274098f71b9f176983ee","username":"puki","fullname":"puki","imgUrl":null,"isAdmin":false} 
+16.4.2024, 10:34:38 - INFO - Setting socket.userId = [object Object] for socket [id: 5R2jNuFVyIHAgJ8RAAAD] 
+16.4.2024, 10:35:04 - INFO - Removing socket.userId for socket [id: 5R2jNuFVyIHAgJ8RAAAD] 
+16.4.2024, 10:35:07 - INFO - User login:  | {"_id":"661e274098f71b9f176983ee","username":"puki","fullname":"puki","imgUrl":null,"isAdmin":false} 
+16.4.2024, 10:35:07 - INFO - Setting socket.userId = [object Object] for socket [id: 5R2jNuFVyIHAgJ8RAAAD] 
+16.4.2024, 10:35:21 - INFO - Removing socket.userId for socket [id: 5R2jNuFVyIHAgJ8RAAAD] 
+16.4.2024, 10:35:43 - DEBUG - auth.service - signup with username: kuki, fullname: kuki 
+16.4.2024, 10:35:43 - DEBUG - auth.route - new account created: {"username":"kuki","password":"$2b$10$1Eqqt1pGN1.aem6mpzyZC.MSL1xZq6dI8FwQHduakFq5NEdrs8Jx2","fullname":"kuki","isAdmin":false,"_id":"661e2a4f98f71b9f176983ef"} 
+16.4.2024, 10:35:44 - INFO - Setting socket.userId = [object Object] for socket [id: 5R2jNuFVyIHAgJ8RAAAD] 
+16.4.2024, 10:36:19 - INFO - Removing socket.userId for socket [id: 5R2jNuFVyIHAgJ8RAAAD] 
+16.4.2024, 10:36:24 - INFO - User login:  | {"_id":"661e2a4f98f71b9f176983ef","username":"kuki","fullname":"kuki","imgUrl":null,"isAdmin":false} 
+16.4.2024, 10:36:24 - INFO - Setting socket.userId = [object Object] for socket [id: 5R2jNuFVyIHAgJ8RAAAD] 
+16.4.2024, 10:37:15 - INFO - Removing socket.userId for socket [id: 5R2jNuFVyIHAgJ8RAAAD] 
+16.4.2024, 10:37:37 - DEBUG - auth.service - signup with username: kiki, fullname: kiki 
+16.4.2024, 10:37:37 - DEBUG - auth.route - new account created: {"username":"kiki","password":"$2b$10$QKrnSDK2WWoZNspoZEDQ2O9Wuu2MC3QcXyjyWpkyVmE.ldSBDqp2y","fullname":"kiki","isAdmin":false,"_id":"661e2ac198f71b9f176983f0"} 
+16.4.2024, 10:37:37 - INFO - Setting socket.userId = [object Object] for socket [id: 5R2jNuFVyIHAgJ8RAAAD] 
+16.4.2024, 10:38:42 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 10:38:44 - INFO - Req was made | / 
+16.4.2024, 10:38:43 - INFO - Setting socket.userId = 661e2ac198f71b9f176983f0 for socket [id: DZzBgVligwPgwGwVAAAF] 
+16.4.2024, 10:38:44 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 10:38:43 - INFO - New connected socket [id: DZzBgVligwPgwGwVAAAF] 
+16.4.2024, 14:14:55 - INFO - server.js loaded... 
+16.4.2024, 14:14:55 - INFO - Server is running on port: 3033 
+16.4.2024, 14:14:55 - INFO - New connected socket [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:20:15 - INFO - Removing socket.userId for socket [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:20:25 - INFO - User login:  | {"_id":"661e2ac198f71b9f176983f0","username":"kiki","fullname":"kiki","imgUrl":null,"isAdmin":false} 
+16.4.2024, 14:20:25 - INFO - Setting socket.userId = [object Object] for socket [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:20:41 - INFO - Req was made | / 
+16.4.2024, 14:20:41 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:20:41 - INFO - Req was made | / 
+16.4.2024, 14:20:41 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:20:42 - INFO - Req was made | / 
+16.4.2024, 14:20:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:20:52 - INFO - Socket is leaving topic 6619390084edb867eb472ce7 [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:20:52 - INFO - Req was made | / 
+16.4.2024, 14:20:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:20:52 - INFO - Req was made | / 
+16.4.2024, 14:20:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:20:56 - INFO - Socket is leaving topic 661e23872ce6af24fb4cb1c5 [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:20:56 - INFO - Req was made | / 
+16.4.2024, 14:20:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:20:57 - INFO - Req was made | / 
+16.4.2024, 14:20:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:20:58 - INFO - Socket is leaving topic 661e23df2ce6af24fb4cb1c6 [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:20:58 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:20:58 - INFO - Req was made | / 
+16.4.2024, 14:20:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:20:59 - INFO - Req was made | / 
+16.4.2024, 14:21:00 - INFO - Socket is leaving topic 661e20cd98f71b9f176983ed [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:21:00 - INFO - Req was made | / 
+16.4.2024, 14:21:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:21:00 - INFO - Req was made | / 
+16.4.2024, 14:21:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:21:01 - INFO - Socket is leaving topic 661e196a025f7070a859fa12 [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:21:01 - INFO - Req was made | / 
+16.4.2024, 14:21:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:21:02 - INFO - Req was made | / 
+16.4.2024, 14:21:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:21:02 - INFO - Socket is leaving topic 661e1044814e896b46c74772 [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:21:03 - INFO - Req was made | / 
+16.4.2024, 14:21:03 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:21:03 - INFO - Socket is leaving topic 661d7b7241b5b8f828c12d65 [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:21:03 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:21:03 - INFO - Req was made | / 
+16.4.2024, 14:21:04 - INFO - Req was made | / 
+16.4.2024, 14:21:04 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:21:04 - INFO - Req was made | / 
+16.4.2024, 14:21:04 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:21:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:21:05 - INFO - Req was made | / 
+16.4.2024, 14:21:10 - INFO - Socket is leaving topic 661bb9089f9e9468991f1be7 [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:21:10 - INFO - Req was made | / 
+16.4.2024, 14:21:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:21:10 - INFO - Req was made | / 
+16.4.2024, 14:21:10 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:21:14 - INFO - Socket is leaving topic 661d4da6ce45e17ea595c5f2 [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:21:14 - INFO - Req was made | / 
+16.4.2024, 14:21:14 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:21:15 - INFO - Req was made | / 
+16.4.2024, 14:21:15 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:21:15 - INFO - Req was made | / 
+16.4.2024, 14:21:15 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:24:06 - INFO - Removing socket.userId for socket [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:24:16 - INFO - User login:  | {"_id":"661e2ac198f71b9f176983f0","username":"kiki","fullname":"kiki","imgUrl":null,"isAdmin":false} 
+16.4.2024, 14:24:16 - INFO - Setting socket.userId = [object Object] for socket [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:27:50 - INFO - Socket is leaving topic 661b9b7af0666aa45e374b6d [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:27:50 - INFO - Req was made | / 
+16.4.2024, 14:27:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:27:51 - INFO - Req was made | / 
+16.4.2024, 14:27:51 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:27:51 - INFO - Req was made | / 
+16.4.2024, 14:27:51 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:28:00 - INFO - Socket is leaving topic 661a74f284edb867eb472d16 [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:28:00 - INFO - Req was made | / 
+16.4.2024, 14:28:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:28:01 - INFO - Req was made | / 
+16.4.2024, 14:28:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:28:01 - INFO - Req was made | / 
+16.4.2024, 14:28:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:28:26 - INFO - Req was made | / 
+16.4.2024, 14:28:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:28:27 - INFO - Req was made | / 
+16.4.2024, 14:28:27 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:29:11 - INFO - Removing socket.userId for socket [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:32:32 - DEBUG - auth.service - signup with username: niki, fullname: niki 
+16.4.2024, 14:32:32 - DEBUG - auth.route - new account created: {"username":"niki","password":"$2b$10$C5smuZNNLlRzI8Em0r445e98RIPZJKiR.D604ox619srq8YWaPSny","fullname":"niki","isAdmin":false,"_id":"661e61d0fd0b364fc2eee3d2"} 
+16.4.2024, 14:32:33 - INFO - Setting socket.userId = [object Object] for socket [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:37:19 - INFO - Socket is leaving topic 661b89023eac919a957512aa [id: 9_Py49HbH1weE9yQAAAB] 
+16.4.2024, 14:37:20 - INFO - Req was made | / 
+16.4.2024, 14:37:20 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:37:21 - INFO - Req was made | / 
+16.4.2024, 14:37:21 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:37:22 - INFO - Req was made | / 
+16.4.2024, 14:37:22 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 14:50:47 - INFO - Req was made | / 
+16.4.2024, 14:50:47 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 16:17:00 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 16:17:08 - INFO - New connected socket [id: ty4RIcp6I61V9UoeAAAD] 
+16.4.2024, 16:17:08 - INFO - Setting socket.userId = 661e61d0fd0b364fc2eee3d2 for socket [id: ty4RIcp6I61V9UoeAAAD] 
+16.4.2024, 16:17:09 - INFO - Req was made | / 
+16.4.2024, 16:17:09 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 16:17:09 - INFO - Req was made | / 
+16.4.2024, 16:17:09 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 16:17:11 - INFO - Req was made | / 
+16.4.2024, 16:17:11 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 16:19:51 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 16:19:56 - INFO - New connected socket [id: B4iKS3wlMUvKzaTeAAAF] 
+16.4.2024, 16:19:57 - INFO - Req was made | / 
+16.4.2024, 16:19:57 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 16:19:57 - INFO - Setting socket.userId = 661e61d0fd0b364fc2eee3d2 for socket [id: B4iKS3wlMUvKzaTeAAAF] 
+16.4.2024, 16:19:57 - INFO - Req was made | / 
+16.4.2024, 16:19:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 16:19:59 - INFO - Req was made | / 
+16.4.2024, 16:19:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 16:20:16 - INFO - New connected socket [id: XOcjGXTVJJcpORFeAAAH] 
+16.4.2024, 16:20:16 - INFO - Req was made | / 
+16.4.2024, 16:20:16 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 16:20:16 - INFO - Setting socket.userId = 661d83f19bbc851fc5727df5 for socket [id: XOcjGXTVJJcpORFeAAAH] 
+16.4.2024, 16:22:52 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 16:22:53 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 16:22:55 - INFO - New connected socket [id: _t3xtQPa2QDE0c3lAAAJ] 
+16.4.2024, 16:22:56 - INFO - Req was made | / 
+16.4.2024, 16:22:56 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 16:22:57 - INFO - Setting socket.userId = 661d83f19bbc851fc5727df5 for socket [id: _t3xtQPa2QDE0c3lAAAJ] 
+16.4.2024, 16:22:59 - INFO - New connected socket [id: _DPxDTnI7X_L1JUNAAAL] 
+16.4.2024, 16:23:00 - INFO - Req was made | / 
+16.4.2024, 16:23:00 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 16:23:00 - INFO - Req was made | / 
+16.4.2024, 16:23:00 - INFO - Setting socket.userId = 661e61d0fd0b364fc2eee3d2 for socket [id: _DPxDTnI7X_L1JUNAAAL] 
+16.4.2024, 16:23:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 16:23:02 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 16:23:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 16:23:02 - INFO - Req was made | / 
+16.4.2024, 16:23:02 - INFO - New connected socket [id: _DCpZoQo1dxENVksAAAN] 
+16.4.2024, 16:23:03 - INFO - Setting socket.userId = 661e61d0fd0b364fc2eee3d2 for socket [id: _DCpZoQo1dxENVksAAAN] 
+16.4.2024, 16:23:03 - INFO - Req was made | / 
+16.4.2024, 16:23:03 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 16:23:04 - INFO - Req was made | / 
+16.4.2024, 16:23:04 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 16:23:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 16:23:05 - INFO - Req was made | / 
+16.4.2024, 16:24:39 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 16:24:41 - INFO - New connected socket [id: dnNzrgkzDSK-TEuaAAAP] 
+16.4.2024, 16:24:41 - INFO - Req was made | / 
+16.4.2024, 16:24:41 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 16:24:42 - INFO - Req was made | / 
+16.4.2024, 16:24:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 16:24:42 - INFO - Setting socket.userId = 661e61d0fd0b364fc2eee3d2 for socket [id: dnNzrgkzDSK-TEuaAAAP] 
+16.4.2024, 16:24:43 - INFO - Req was made | / 
+16.4.2024, 16:24:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 16:29:11 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 16:29:13 - INFO - New connected socket [id: tixLHxSGE0xnaK1KAAAR] 
+16.4.2024, 16:29:14 - INFO - Req was made | / 
+16.4.2024, 16:29:14 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 16:29:14 - INFO - Setting socket.userId = 661e61d0fd0b364fc2eee3d2 for socket [id: tixLHxSGE0xnaK1KAAAR] 
+16.4.2024, 16:29:14 - INFO - Req was made | / 
+16.4.2024, 16:29:14 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 16:29:17 - INFO - Req was made | / 
+16.4.2024, 16:29:17 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 16:29:17 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 16:29:18 - INFO - New connected socket [id: JRM-MKkav-uG2o47AAAT] 
+16.4.2024, 16:29:19 - INFO - Req was made | / 
+16.4.2024, 16:29:19 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 16:29:19 - INFO - Setting socket.userId = 661d83f19bbc851fc5727df5 for socket [id: JRM-MKkav-uG2o47AAAT] 
+16.4.2024, 16:40:35 - INFO - Removing socket.userId for socket [id: JRM-MKkav-uG2o47AAAT] 
+16.4.2024, 16:41:19 - DEBUG - auth.service - signup with username: hello, fullname: hello 
+16.4.2024, 16:41:19 - DEBUG - auth.route - new account created: {"username":"hello","password":"$2b$10$l1d2CeROVPblCB/t7OftMOfva5IkCGBt2tb3xd976Ef4Cu/92Ad8e","fullname":"hello","isAdmin":false,"_id":"661e7ffffd0b364fc2eee3d3"} 
+16.4.2024, 16:41:19 - INFO - Setting socket.userId = [object Object] for socket [id: JRM-MKkav-uG2o47AAAT] 
+16.4.2024, 16:44:26 - INFO - User login:  | {"_id":"661d79bd9bbc851fc5727df3","username":"nadav","fullname":"nadav","isAdmin":false,"imgUrl":" https://res.cloudinary.com/dkwwsxprt/image/upload/v1713274876/aokcc7p60cebnmn1alre.jpg"} 
+16.4.2024, 16:44:26 - INFO - Setting socket.userId = [object Object] for socket [id: JRM-MKkav-uG2o47AAAT] 
+16.4.2024, 16:57:50 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 16:57:52 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: BRUe2kITxmeN_zB8AAAV] 
+16.4.2024, 16:57:51 - INFO - New connected socket [id: BRUe2kITxmeN_zB8AAAV] 
+16.4.2024, 16:57:53 - INFO - Req was made | / 
+16.4.2024, 16:57:53 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 17:00:09 - INFO - Removing socket.userId for socket [id: BRUe2kITxmeN_zB8AAAV] 
+16.4.2024, 17:00:17 - INFO - User login:  | {"_id":"661d79bd9bbc851fc5727df3","username":"nadav","fullname":"nadav","isAdmin":false,"imgUrl":" https://res.cloudinary.com/dkwwsxprt/image/upload/v1713274876/aokcc7p60cebnmn1alre.jpg"} 
+16.4.2024, 17:00:17 - INFO - Setting socket.userId = [object Object] for socket [id: BRUe2kITxmeN_zB8AAAV] 
+16.4.2024, 17:05:46 - INFO - Removing socket.userId for socket [id: BRUe2kITxmeN_zB8AAAV] 
+16.4.2024, 17:05:52 - INFO - User login:  | {"_id":"661d79bd9bbc851fc5727df3","username":"nadav","fullname":"nadav","isAdmin":false,"imgUrl":" https://res.cloudinary.com/dkwwsxprt/image/upload/v1713274876/aokcc7p60cebnmn1alre.jpg"} 
+16.4.2024, 17:05:52 - INFO - Setting socket.userId = [object Object] for socket [id: BRUe2kITxmeN_zB8AAAV] 
+16.4.2024, 17:06:25 - INFO - Removing socket.userId for socket [id: BRUe2kITxmeN_zB8AAAV] 
+16.4.2024, 17:06:40 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 17:06:41 - INFO - New connected socket [id: D8xG7nhRLUUntGVpAAAX] 
+16.4.2024, 17:06:42 - INFO - Req was made | / 
+16.4.2024, 17:06:42 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 17:06:41 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: D8xG7nhRLUUntGVpAAAX] 
+16.4.2024, 17:12:07 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 17:12:10 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: WDhd3mo_rtzJOmzYAAAZ] 
+16.4.2024, 17:12:10 - INFO - New connected socket [id: WDhd3mo_rtzJOmzYAAAZ] 
+16.4.2024, 17:12:10 - INFO - Req was made | / 
+16.4.2024, 17:12:10 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 17:14:20 - INFO - Removing socket.userId for socket [id: WDhd3mo_rtzJOmzYAAAZ] 
+16.4.2024, 17:14:26 - INFO - User login:  | {"_id":"661d79bd9bbc851fc5727df3","username":"nadav","fullname":"nadav","isAdmin":false,"imgUrl":" https://res.cloudinary.com/dkwwsxprt/image/upload/v1713274876/aokcc7p60cebnmn1alre.jpg"} 
+16.4.2024, 17:14:26 - INFO - Setting socket.userId = [object Object] for socket [id: WDhd3mo_rtzJOmzYAAAZ] 
+16.4.2024, 17:15:11 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 17:20:41 - INFO - New connected socket [id: nhJxM_YnBaPcM7X8AAAb] 
+16.4.2024, 17:20:42 - INFO - Req was made | / 
+16.4.2024, 17:20:42 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 17:20:42 - INFO - Setting socket.userId = 661e61d0fd0b364fc2eee3d2 for socket [id: nhJxM_YnBaPcM7X8AAAb] 
+16.4.2024, 17:22:46 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 17:22:48 - INFO - New connected socket [id: BmtyGcvYX_Yw3JGEAAAd] 
+16.4.2024, 17:22:49 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: BmtyGcvYX_Yw3JGEAAAd] 
+16.4.2024, 17:22:49 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 17:22:49 - INFO - Req was made | / 
+16.4.2024, 18:05:06 - INFO - Req was made | / 
+16.4.2024, 18:05:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:05:08 - INFO - Req was made | / 
+16.4.2024, 18:05:08 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:05:09 - INFO - Req was made | / 
+16.4.2024, 18:05:09 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:05:16 - INFO - Req was made | / 
+16.4.2024, 18:05:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:05:30 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 18:05:32 - INFO - New connected socket [id: SyQ6ul9Vpelo2_6wAAAf] 
+16.4.2024, 18:05:32 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: SyQ6ul9Vpelo2_6wAAAf] 
+16.4.2024, 18:05:32 - INFO - Req was made | / 
+16.4.2024, 18:05:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:05:32 - INFO - Req was made | / 
+16.4.2024, 18:05:32 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 18:05:34 - INFO - Req was made | / 
+16.4.2024, 18:05:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:06:12 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 18:06:21 - INFO - New connected socket [id: q4lLhRre8TWsHmKQAAAh] 
+16.4.2024, 18:06:21 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: q4lLhRre8TWsHmKQAAAh] 
+16.4.2024, 18:06:22 - INFO - Req was made | / 
+16.4.2024, 18:06:22 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:06:22 - INFO - Req was made | / 
+16.4.2024, 18:06:22 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 18:06:23 - INFO - Req was made | / 
+16.4.2024, 18:06:23 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:06:32 - INFO - Req was made | / 
+16.4.2024, 18:06:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:06:48 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 18:06:51 - INFO - Setting socket.userId = 661e61d0fd0b364fc2eee3d2 for socket [id: lzxYQCJD_4WmZP9_AAAj] 
+16.4.2024, 18:06:51 - INFO - New connected socket [id: lzxYQCJD_4WmZP9_AAAj] 
+16.4.2024, 18:06:52 - INFO - Req was made | / 
+16.4.2024, 18:06:52 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 18:07:03 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 18:07:05 - INFO - New connected socket [id: Qh9g63ZxhzD5MtYHAAAl] 
+16.4.2024, 18:07:05 - INFO - Setting socket.userId = 661e61d0fd0b364fc2eee3d2 for socket [id: Qh9g63ZxhzD5MtYHAAAl] 
+16.4.2024, 18:07:06 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 18:07:06 - INFO - Req was made | / 
+16.4.2024, 18:55:40 - INFO - Req was made | / 
+16.4.2024, 18:55:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:55:41 - INFO - Req was made | / 
+16.4.2024, 18:55:41 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:55:42 - INFO - Req was made | / 
+16.4.2024, 18:55:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:55:47 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:55:47 - INFO - Req was made | / 
+16.4.2024, 18:55:49 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 18:56:34 - INFO - New connected socket [id: VUUIzZRVxdFzEU_kAAAn] 
+16.4.2024, 18:56:35 - INFO - Req was made | / 
+16.4.2024, 18:56:35 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 18:57:03 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:57:03 - INFO - Req was made | / 
+16.4.2024, 18:57:04 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:57:04 - INFO - Req was made | / 
+16.4.2024, 18:57:05 - INFO - Req was made | / 
+16.4.2024, 18:57:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:57:14 - INFO - User login:  | {"_id":"661d79bd9bbc851fc5727df3","username":"nadav","fullname":"nadav","isAdmin":false,"imgUrl":" https://res.cloudinary.com/dkwwsxprt/image/upload/v1713274876/aokcc7p60cebnmn1alre.jpg"} 
+16.4.2024, 18:57:14 - INFO - Setting socket.userId = [object Object] for socket [id: VUUIzZRVxdFzEU_kAAAn] 
+16.4.2024, 18:57:24 - INFO - Req was made | / 
+16.4.2024, 18:57:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:57:24 - INFO - Req was made | / 
+16.4.2024, 18:57:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:57:25 - INFO - Req was made | / 
+16.4.2024, 18:57:25 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:57:55 - INFO - Req was made | / 
+16.4.2024, 18:57:55 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:57:59 - INFO - Req was made | / 
+16.4.2024, 18:57:59 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:58:00 - INFO - Req was made | / 
+16.4.2024, 18:58:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:58:01 - INFO - Req was made | / 
+16.4.2024, 18:58:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:58:02 - INFO - Req was made | / 
+16.4.2024, 18:58:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:58:02 - INFO - Req was made | / 
+16.4.2024, 18:58:02 - DEBUG - Getting categories 
+16.4.2024, 18:58:16 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 18:59:12 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 18:59:17 - INFO - New connected socket [id: oTNcNyljSFSlrfybAAAp] 
+16.4.2024, 18:59:17 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: oTNcNyljSFSlrfybAAAp] 
+16.4.2024, 18:59:18 - INFO - Req was made | / 
+16.4.2024, 18:59:18 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 18:59:42 - INFO - Req was made | / 
+16.4.2024, 18:59:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:59:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 18:59:43 - INFO - Req was made | / 
+16.4.2024, 18:59:43 - INFO - Req was made | / 
+16.4.2024, 18:59:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 19:00:06 - INFO - New connected socket [id: 99gku_Mi7eglBoLgAAAr] 
+16.4.2024, 19:00:06 - INFO - Req was made | / 
+16.4.2024, 19:00:06 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 19:00:06 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: 99gku_Mi7eglBoLgAAAr] 
+16.4.2024, 19:00:12 - INFO - Removing socket.userId for socket [id: oTNcNyljSFSlrfybAAAp] 
+16.4.2024, 19:00:20 - INFO - User login:  | {"_id":"661d79bd9bbc851fc5727df3","username":"nadav","fullname":"nadav","isAdmin":false,"imgUrl":" https://res.cloudinary.com/dkwwsxprt/image/upload/v1713274876/aokcc7p60cebnmn1alre.jpg"} 
+16.4.2024, 19:00:20 - INFO - Setting socket.userId = [object Object] for socket [id: oTNcNyljSFSlrfybAAAp] 
+16.4.2024, 19:02:05 - INFO - Req was made | / 
+16.4.2024, 19:02:05 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 19:02:06 - INFO - Req was made | / 
+16.4.2024, 19:02:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 19:02:07 - INFO - Req was made | / 
+16.4.2024, 19:02:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 19:02:34 - INFO - Socket is leaving topic 6619390084edb867eb472ce7 [id: oTNcNyljSFSlrfybAAAp] 
+16.4.2024, 19:02:34 - INFO - Req was made | / 
+16.4.2024, 19:02:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 19:02:35 - INFO - Req was made | / 
+16.4.2024, 19:02:35 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 19:02:35 - INFO - Req was made | / 
+16.4.2024, 19:02:35 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 19:02:40 - INFO - Req was made | / 
+16.4.2024, 19:02:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 19:02:46 - INFO - Req was made | / 
+16.4.2024, 19:02:46 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 19:02:57 - INFO - Req was made | / 
+16.4.2024, 19:02:57 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 19:03:02 - INFO - New connected socket [id: ZnRfIKYIm0rgRvRSAAAt] 
+16.4.2024, 19:03:02 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: ZnRfIKYIm0rgRvRSAAAt] 
+16.4.2024, 19:03:02 - INFO - Req was made | / 
+16.4.2024, 19:03:02 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 19:03:03 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 19:03:03 - INFO - Req was made | / 
+16.4.2024, 19:03:04 - INFO - Req was made | / 
+16.4.2024, 19:03:04 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 19:03:42 - INFO - Req was made | / 
+16.4.2024, 19:03:42 - DEBUG - Getting categories 
+16.4.2024, 19:03:52 - INFO - Socket is leaving topic 66191bac84edb867eb472cdc [id: ZnRfIKYIm0rgRvRSAAAt] 
+16.4.2024, 19:03:53 - INFO - Req was made | / 
+16.4.2024, 19:03:53 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 19:03:53 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 19:03:53 - INFO - Req was made | / 
+16.4.2024, 19:03:54 - INFO - Req was made | / 
+16.4.2024, 19:03:54 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 19:10:03 - INFO - Req was made | / 
+16.4.2024, 19:10:03 - DEBUG - Getting categories 
+16.4.2024, 20:33:37 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 20:34:21 - INFO - New connected socket [id: mrS2AiMT2Xx9sSVHAAAv] 
+16.4.2024, 20:34:55 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 20:39:00 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 20:39:02 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: zVLRU3z8yO27F6O7AAAx] 
+16.4.2024, 20:39:02 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 20:39:02 - INFO - Req was made | / 
+16.4.2024, 20:39:02 - INFO - New connected socket [id: zVLRU3z8yO27F6O7AAAx] 
+16.4.2024, 20:39:04 - INFO - New connected socket [id: Fonkpu3V9yLnpjLeAAAz] 
+16.4.2024, 20:39:44 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 20:39:46 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: kN3K6otA6i5Bgv2bAAA1] 
+16.4.2024, 20:39:46 - INFO - New connected socket [id: kN3K6otA6i5Bgv2bAAA1] 
+16.4.2024, 20:39:47 - INFO - Req was made | / 
+16.4.2024, 20:39:47 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 20:40:38 - INFO - Req was made | / 
+16.4.2024, 20:40:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 20:40:40 - INFO - Req was made | / 
+16.4.2024, 20:40:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 20:40:41 - INFO - Req was made | / 
+16.4.2024, 20:40:41 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 20:40:43 - INFO - Socket is leaving topic 661a74f284edb867eb472d01 [id: kN3K6otA6i5Bgv2bAAA1] 
+16.4.2024, 20:40:43 - INFO - Req was made | / 
+16.4.2024, 20:40:43 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 20:40:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 20:40:44 - INFO - Req was made | / 
+16.4.2024, 20:40:46 - INFO - Req was made | / 
+16.4.2024, 20:40:46 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 20:41:19 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 20:41:23 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: 0kZfRuhEgXYOF-BuAAA3] 
+16.4.2024, 20:41:25 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 20:41:28 - INFO - Req was made | / 
+16.4.2024, 20:41:28 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 20:41:23 - INFO - New connected socket [id: 0kZfRuhEgXYOF-BuAAA3] 
+16.4.2024, 20:41:25 - INFO - Req was made | / 
+16.4.2024, 20:41:34 - INFO - Req was made | / 
+16.4.2024, 20:41:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 20:41:38 - INFO - Removing socket.userId for socket [id: 0kZfRuhEgXYOF-BuAAA3] 
+16.4.2024, 20:41:52 - INFO - User login:  | {"_id":"661d79bd9bbc851fc5727df3","username":"nadav","fullname":"nadav","isAdmin":false,"imgUrl":" https://res.cloudinary.com/dkwwsxprt/image/upload/v1713274876/aokcc7p60cebnmn1alre.jpg"} 
+16.4.2024, 20:41:52 - INFO - Setting socket.userId = [object Object] for socket [id: 0kZfRuhEgXYOF-BuAAA3] 
+16.4.2024, 20:42:48 - INFO - Req was made | / 
+16.4.2024, 20:42:48 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 20:42:50 - INFO - Req was made | / 
+16.4.2024, 20:42:49 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 20:42:50 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 20:42:49 - INFO - Req was made | / 
+16.4.2024, 20:43:03 - INFO - Req was made | / 
+16.4.2024, 20:43:03 - DEBUG - Getting categories 
+16.4.2024, 20:43:12 - INFO - Socket is leaving topic 6619390084edb867eb472ce7 [id: 0kZfRuhEgXYOF-BuAAA3] 
+16.4.2024, 20:43:12 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 20:43:13 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 20:43:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 20:43:12 - INFO - Req was made | / 
+16.4.2024, 20:43:13 - INFO - Req was made | / 
+16.4.2024, 20:43:16 - INFO - Req was made | / 
+16.4.2024, 21:00:24 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 21:00:37 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 21:00:38 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 21:00:54 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: 2eImpETfZv16JgCrAAA5] 
+16.4.2024, 21:00:54 - INFO - New connected socket [id: 2eImpETfZv16JgCrAAA5] 
+16.4.2024, 21:00:55 - INFO - Req was made | / 
+16.4.2024, 21:00:55 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 21:00:56 - INFO - Req was made | / 
+16.4.2024, 21:00:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 21:01:00 - INFO - Req was made | / 
+16.4.2024, 21:01:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 21:01:13 - INFO - New connected socket [id: yVf-_Aq4coGyYEWaAAA7] 
+16.4.2024, 21:01:13 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: yVf-_Aq4coGyYEWaAAA7] 
+16.4.2024, 21:01:15 - INFO - Req was made | / 
+16.4.2024, 21:01:15 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 21:01:15 - INFO - Req was made | / 
+16.4.2024, 21:01:14 - INFO - New connected socket [id: 8VBo6qNRrjUhJuiUAAA9] 
+16.4.2024, 21:01:19 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: 8VBo6qNRrjUhJuiUAAA9] 
+16.4.2024, 21:01:15 - DEBUG - Getting categories 
+16.4.2024, 21:03:16 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 21:03:23 - INFO - New connected socket [id: 9SYNjESoEhm72wf6AAA_] 
+16.4.2024, 21:03:24 - INFO - Req was made | / 
+16.4.2024, 21:03:24 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 21:03:24 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: 9SYNjESoEhm72wf6AAA_] 
+16.4.2024, 21:03:24 - INFO - Req was made | / 
+16.4.2024, 21:03:24 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 21:03:24 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 21:03:26 - INFO - Req was made | / 
+16.4.2024, 21:03:24 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 21:03:26 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 21:03:31 - INFO - New connected socket [id: zI2UD92TpSX5dVT5AABB] 
+16.4.2024, 21:03:31 - INFO - Req was made | / 
+16.4.2024, 21:03:31 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 21:03:31 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: zI2UD92TpSX5dVT5AABB] 
+16.4.2024, 21:03:32 - INFO - Req was made | / 
+16.4.2024, 21:03:32 - DEBUG - Getting categories 
+16.4.2024, 21:45:33 - INFO - Req was made | / 
+16.4.2024, 21:45:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 21:45:35 - INFO - Removing socket.userId for socket [id: 9SYNjESoEhm72wf6AAA_] 
+16.4.2024, 21:46:07 - DEBUG - auth.service - signup with username: haim, fullname: haim 
+16.4.2024, 21:46:07 - DEBUG - auth.route - new account created: {"username":"haim","password":"$2b$10$nKDrNtQArTiEqdLUb84wqOVnjKS.BkpdJOVylHGVACVyJTrviADiK","fullname":"haim","isAdmin":false,"_id":"661ec76ffd0b364fc2eee3d4"} 
+16.4.2024, 21:46:08 - INFO - Setting socket.userId = [object Object] for socket [id: 9SYNjESoEhm72wf6AAA_] 
+16.4.2024, 21:46:13 - DEBUG - auth.service - signup with username: haim, fullname: haim 
+16.4.2024, 21:46:13 - ERROR - cannot insert user | Error: Username taken 
+16.4.2024, 21:46:13 - ERROR - Failed to signup Error: Username taken 
+16.4.2024, 21:46:37 - DEBUG - auth.service - signup with username: haim, fullname: haim 
+16.4.2024, 21:46:37 - DEBUG - auth.route - new account created: {"username":"haim","password":"$2b$10$VeOTJ6GAnl4VqrEH3RniQ.VoLSrqVdvvifZt8yNXU3AGMaWbCxsVu","fullname":"haim","isAdmin":false,"_id":"661ec78dfd0b364fc2eee3d5"} 
+16.4.2024, 21:46:37 - INFO - Setting socket.userId = [object Object] for socket [id: 9SYNjESoEhm72wf6AAA_] 
+16.4.2024, 21:46:41 - DEBUG - auth.service - signup with username: haim, fullname: haim 
+16.4.2024, 21:46:42 - ERROR - cannot insert user | Error: Username taken 
+16.4.2024, 21:46:42 - ERROR - Failed to signup Error: Username taken 
+16.4.2024, 21:46:44 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 21:46:46 - INFO - New connected socket [id: ssJbjfwreee_ZJuiAABD] 
+16.4.2024, 21:46:46 - INFO - Setting socket.userId = 661ec78dfd0b364fc2eee3d5 for socket [id: ssJbjfwreee_ZJuiAABD] 
+16.4.2024, 21:46:47 - INFO - Req was made | / 
+16.4.2024, 21:46:47 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 21:47:14 - DEBUG - auth.service - signup with username: haim, fullname: haim 
+16.4.2024, 21:47:15 - ERROR - cannot insert user | Error: Username taken 
+16.4.2024, 21:47:15 - ERROR - Failed to signup Error: Username taken 
+16.4.2024, 21:47:21 - DEBUG - auth.service - signup with username: haim, fullname: haim 
+16.4.2024, 21:47:21 - ERROR - cannot insert user | Error: Username taken 
+16.4.2024, 21:47:21 - ERROR - Failed to signup Error: Username taken 
+16.4.2024, 21:50:00 - INFO - User login:  | {"_id":"661ec78dfd0b364fc2eee3d5","username":"haim","fullname":"haim","isAdmin":false,"imgUrl":"https://res.cloudinary.com/dkwwsxprt/image/upload/v1713293232/kovyzjkz3j0xmpepo3bf.jpg"} 
+16.4.2024, 21:50:00 - INFO - Setting socket.userId = [object Object] for socket [id: ssJbjfwreee_ZJuiAABD] 
+16.4.2024, 22:02:48 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 22:02:55 - INFO - Setting socket.userId = 661ec78dfd0b364fc2eee3d5 for socket [id: 9TRHni5yVEZR7RDPAABF] 
+16.4.2024, 22:02:57 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 22:02:55 - INFO - New connected socket [id: 9TRHni5yVEZR7RDPAABF] 
+16.4.2024, 22:02:57 - INFO - Req was made | / 
+16.4.2024, 22:47:29 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 22:47:33 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: Y2d96hZT4VFrXqcmAABH] 
+16.4.2024, 22:47:33 - INFO - New connected socket [id: Y2d96hZT4VFrXqcmAABH] 
+16.4.2024, 22:47:34 - INFO - Req was made | / 
+16.4.2024, 22:47:34 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 22:47:38 - INFO - Req was made | / 
+16.4.2024, 22:47:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 22:47:38 - INFO - Req was made | / 
+16.4.2024, 22:47:38 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 22:47:39 - INFO - Req was made | / 
+16.4.2024, 22:47:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 22:48:03 - INFO - Req was made | / 
+16.4.2024, 22:48:03 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 22:48:04 - INFO - Req was made | / 
+16.4.2024, 22:48:04 - DEBUG - Getting categories 
+16.4.2024, 22:48:19 - INFO - Socket is leaving topic 6619390084edb867eb472ce7 [id: Y2d96hZT4VFrXqcmAABH] 
+16.4.2024, 22:48:20 - INFO - Req was made | / 
+16.4.2024, 22:48:20 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 22:48:20 - INFO - Req was made | / 
+16.4.2024, 22:48:20 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 22:48:21 - INFO - Req was made | / 
+16.4.2024, 22:48:21 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 22:49:21 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 22:49:22 - INFO - New connected socket [id: VWSLWyZziP1r6MX8AABJ] 
+16.4.2024, 22:49:23 - INFO - Req was made | / 
+16.4.2024, 22:49:23 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+16.4.2024, 22:49:23 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: VWSLWyZziP1r6MX8AABJ] 
+16.4.2024, 22:49:33 - INFO - Removing socket.userId for socket [id: VWSLWyZziP1r6MX8AABJ] 
+16.4.2024, 22:49:34 - INFO - Req was made | / 
+16.4.2024, 22:49:34 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 22:49:35 - INFO - Req was made | / 
+16.4.2024, 22:49:35 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 22:49:41 - INFO - Socket is leaving topic 661ed64efd0b364fc2eee3d6 [id: VWSLWyZziP1r6MX8AABJ] 
+16.4.2024, 22:49:41 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 22:49:41 - INFO - Req was made | / 
+16.4.2024, 22:49:42 - INFO - Req was made | / 
+16.4.2024, 22:49:42 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 22:49:44 - INFO - Socket is leaving topic 661ed655fd0b364fc2eee3d7 [id: VWSLWyZziP1r6MX8AABJ] 
+16.4.2024, 22:49:44 - INFO - Req was made | / 
+16.4.2024, 22:49:44 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 22:49:45 - INFO - Req was made | / 
+16.4.2024, 22:49:45 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 22:49:45 - INFO - Req was made | / 
+16.4.2024, 22:49:45 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 22:50:12 - INFO - Req was made | / 
+16.4.2024, 22:50:12 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+16.4.2024, 22:50:24 - INFO - Socket disconnected [id: undefined] 
+16.4.2024, 22:50:24 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 1:50:41 - INFO - New connected socket [id: n-buNk0im1Kys7OkAABM] 
+17.4.2024, 1:50:41 - INFO - New connected socket [id: vyd9rIIjaA-VjCjnAABN] 
+17.4.2024, 1:55:12 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 1:55:12 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 8:36:32 - INFO - New connected socket [id: P4Kat6zb7Rtmc1b5AABP] 
+17.4.2024, 8:36:32 - INFO - New connected socket [id: ZGMW3_kHIkKVKsTsAABR] 
+17.4.2024, 8:53:58 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 8:54:00 - INFO - New connected socket [id: o-S6OOHn7rPYTx3DAABT] 
+17.4.2024, 8:54:00 - INFO - Req was made | / 
+17.4.2024, 8:54:00 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: o-S6OOHn7rPYTx3DAABT] 
+17.4.2024, 8:54:00 - INFO - Req was made | / 
+17.4.2024, 8:54:00 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 8:54:00 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+17.4.2024, 8:54:01 - INFO - Req was made | / 
+17.4.2024, 8:54:01 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 8:54:08 - INFO - Socket is leaving topic 661ed64efd0b364fc2eee3d6 [id: o-S6OOHn7rPYTx3DAABT] 
+17.4.2024, 8:54:08 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 8:54:08 - INFO - Req was made | / 
+17.4.2024, 8:54:09 - INFO - Req was made | / 
+17.4.2024, 8:54:09 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 8:54:09 - INFO - Req was made | / 
+17.4.2024, 8:54:09 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 8:54:15 - INFO - Station updated [id: 661a74f284edb867eb472cff], broadcasting changes. 
+17.4.2024, 8:54:15 - INFO - Req was made | / 
+17.4.2024, 8:54:15 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 8:55:50 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 8:56:15 - INFO - server.js loaded... 
+17.4.2024, 8:56:15 - INFO - Server is running on port: 3033 
+17.4.2024, 8:56:16 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: LOskBS5HCNfulTXHAAAB] 
+17.4.2024, 8:56:16 - INFO - New connected socket [id: LOskBS5HCNfulTXHAAAB] 
+17.4.2024, 8:56:45 - INFO - server.js loaded... 
+17.4.2024, 8:56:45 - INFO - Server is running on port: 3033 
+17.4.2024, 8:56:50 - INFO - New connected socket [id: DXrElLBU_ii28MCDAAAB] 
+17.4.2024, 8:56:51 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 8:56:53 - INFO - New connected socket [id: k7mn0ap7YiZkZD6SAAAD] 
+17.4.2024, 8:56:53 - INFO - Req was made | / 
+17.4.2024, 8:56:53 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+17.4.2024, 8:56:53 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: k7mn0ap7YiZkZD6SAAAD] 
+17.4.2024, 8:57:20 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 8:57:26 - INFO - New connected socket [id: Wy__pcHGLKvN0S8NAAAF] 
+17.4.2024, 8:57:26 - INFO - Req was made | / 
+17.4.2024, 8:57:26 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+17.4.2024, 8:57:26 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: Wy__pcHGLKvN0S8NAAAF] 
+17.4.2024, 8:57:28 - INFO - Removing socket.userId for socket [id: Wy__pcHGLKvN0S8NAAAF] 
+17.4.2024, 8:57:32 - INFO - Req was made | / 
+17.4.2024, 8:57:32 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 8:57:33 - INFO - Req was made | / 
+17.4.2024, 8:57:33 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 8:57:37 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 8:57:39 - INFO - New connected socket [id: GgF52Xxg7YIqg3g8AAAH] 
+17.4.2024, 8:57:39 - INFO - Req was made | / 
+17.4.2024, 8:57:39 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+17.4.2024, 8:57:39 - INFO - Req was made | / 
+17.4.2024, 8:57:39 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: GgF52Xxg7YIqg3g8AAAH] 
+17.4.2024, 8:57:39 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 8:57:40 - INFO - Req was made | / 
+17.4.2024, 8:57:40 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 8:57:45 - INFO - Removing socket.userId for socket [id: GgF52Xxg7YIqg3g8AAAH] 
+17.4.2024, 8:57:48 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 8:57:49 - INFO - New connected socket [id: fFDxglH6bL-RBXbQAAAJ] 
+17.4.2024, 8:57:49 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: fFDxglH6bL-RBXbQAAAJ] 
+17.4.2024, 8:57:49 - INFO - Req was made | / 
+17.4.2024, 8:57:49 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+17.4.2024, 8:57:51 - INFO - Removing socket.userId for socket [id: fFDxglH6bL-RBXbQAAAJ] 
+17.4.2024, 8:57:55 - DEBUG - Getting categories 
+17.4.2024, 8:57:55 - INFO - Req was made | / 
+17.4.2024, 8:57:58 - INFO - Req was made | / 
+17.4.2024, 8:57:58 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 8:57:58 - INFO - Req was made | / 
+17.4.2024, 8:57:58 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 8:58:28 - INFO - User login:  | {"_id":"661ec78dfd0b364fc2eee3d5","username":"haim","fullname":"haim","isAdmin":false,"imgUrl":"https://res.cloudinary.com/dkwwsxprt/image/upload/v1713293232/kovyzjkz3j0xmpepo3bf.jpg"} 
+17.4.2024, 8:58:28 - INFO - Setting socket.userId = [object Object] for socket [id: fFDxglH6bL-RBXbQAAAJ] 
+17.4.2024, 8:58:33 - INFO - Removing socket.userId for socket [id: fFDxglH6bL-RBXbQAAAJ] 
+17.4.2024, 8:58:37 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 8:58:38 - INFO - New connected socket [id: Z_I89QSBoiSe_ZoJAAAL] 
+17.4.2024, 8:58:39 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+17.4.2024, 8:58:39 - INFO - Setting socket.userId = 661ec78dfd0b364fc2eee3d5 for socket [id: Z_I89QSBoiSe_ZoJAAAL] 
+17.4.2024, 8:58:39 - INFO - Req was made | / 
+17.4.2024, 9:00:03 - INFO - Removing socket.userId for socket [id: Z_I89QSBoiSe_ZoJAAAL] 
+17.4.2024, 9:00:25 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:00:30 - INFO - Setting socket.userId = 661ec78dfd0b364fc2eee3d5 for socket [id: rhEK5I5Ku9Xl8utCAAAN] 
+17.4.2024, 9:00:41 - INFO - New connected socket [id: 6XGuH66J6eKZy34WAAAP] 
+17.4.2024, 9:00:37 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:00:41 - INFO - Setting socket.userId = 661ec78dfd0b364fc2eee3d5 for socket [id: 6XGuH66J6eKZy34WAAAP] 
+17.4.2024, 9:00:29 - INFO - New connected socket [id: rhEK5I5Ku9Xl8utCAAAN] 
+17.4.2024, 9:00:42 - INFO - Req was made | / 
+17.4.2024, 9:00:42 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+17.4.2024, 9:00:45 - INFO - Removing socket.userId for socket [id: 6XGuH66J6eKZy34WAAAP] 
+17.4.2024, 9:01:05 - INFO - Req was made | / 
+17.4.2024, 9:01:05 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+17.4.2024, 9:01:13 - INFO - User login:  | {"_id":"661ec78dfd0b364fc2eee3d5","username":"haim","fullname":"haim","isAdmin":false,"imgUrl":"https://res.cloudinary.com/dkwwsxprt/image/upload/v1713293232/kovyzjkz3j0xmpepo3bf.jpg"} 
+17.4.2024, 9:01:13 - INFO - Setting socket.userId = [object Object] for socket [id: 6XGuH66J6eKZy34WAAAP] 
+17.4.2024, 9:01:30 - INFO - Removing socket.userId for socket [id: 6XGuH66J6eKZy34WAAAP] 
+17.4.2024, 9:01:32 - INFO - User login:  | {"_id":"661ec78dfd0b364fc2eee3d5","username":"haim","fullname":"haim","isAdmin":false,"imgUrl":"https://res.cloudinary.com/dkwwsxprt/image/upload/v1713293232/kovyzjkz3j0xmpepo3bf.jpg"} 
+17.4.2024, 9:01:32 - INFO - Setting socket.userId = [object Object] for socket [id: 6XGuH66J6eKZy34WAAAP] 
+17.4.2024, 9:01:39 - INFO - Removing socket.userId for socket [id: 6XGuH66J6eKZy34WAAAP] 
+17.4.2024, 9:01:47 - INFO - User login:  | {"_id":"661d79bd9bbc851fc5727df3","username":"nadav","fullname":"nadav","isAdmin":false,"imgUrl":" https://res.cloudinary.com/dkwwsxprt/image/upload/v1713274876/aokcc7p60cebnmn1alre.jpg"} 
+17.4.2024, 9:01:47 - INFO - Setting socket.userId = [object Object] for socket [id: 6XGuH66J6eKZy34WAAAP] 
+17.4.2024, 9:01:52 - INFO - Removing socket.userId for socket [id: 6XGuH66J6eKZy34WAAAP] 
+17.4.2024, 9:01:54 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:01:55 - INFO - New connected socket [id: RIbSCcQq-p1jex8mAAAR] 
+17.4.2024, 9:01:55 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+17.4.2024, 9:01:55 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: RIbSCcQq-p1jex8mAAAR] 
+17.4.2024, 9:01:55 - INFO - Req was made | / 
+17.4.2024, 9:01:57 - INFO - Removing socket.userId for socket [id: RIbSCcQq-p1jex8mAAAR] 
+17.4.2024, 9:02:15 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:02:19 - INFO - Req was made | / 
+17.4.2024, 9:02:18 - INFO - New connected socket [id: 6NLN3sQN2lp_brUPAAAT] 
+17.4.2024, 9:02:19 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+17.4.2024, 9:03:19 - INFO - server.js loaded... 
+17.4.2024, 9:03:19 - INFO - Server is running on port: 3033 
+17.4.2024, 9:03:19 - INFO - New connected socket [id: Np4HcfGrjHHSFhzjAAAB] 
+17.4.2024, 9:04:50 - INFO - server.js loaded... 
+17.4.2024, 9:04:50 - INFO - Server is running on port: 3033 
+17.4.2024, 9:04:50 - INFO - New connected socket [id: knoh5kV1zQwtK4fhAAAB] 
+17.4.2024, 9:04:52 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:04:53 - INFO - New connected socket [id: hlTpP3NfCc_do1m2AAAD] 
+17.4.2024, 9:04:54 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+17.4.2024, 9:04:54 - INFO - Req was made | / 
+17.4.2024, 9:05:23 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:05:25 - INFO - New connected socket [id: -NugKmZoMAfSuUKdAAAF] 
+17.4.2024, 9:05:25 - INFO - Req was made | / 
+17.4.2024, 9:05:25 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+17.4.2024, 9:05:40 - INFO - User login:  | {"_id":"661d79bd9bbc851fc5727df3","username":"nadav","fullname":"nadav","isAdmin":false,"imgUrl":" https://res.cloudinary.com/dkwwsxprt/image/upload/v1713274876/aokcc7p60cebnmn1alre.jpg"} 
+17.4.2024, 9:05:40 - INFO - Setting socket.userId = [object Object] for socket [id: -NugKmZoMAfSuUKdAAAF] 
+17.4.2024, 9:05:51 - INFO - Req was made | / 
+17.4.2024, 9:05:51 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 9:05:52 - INFO - Req was made | / 
+17.4.2024, 9:05:52 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 9:05:55 - INFO - Req was made | / 
+17.4.2024, 9:05:55 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 9:05:56 - INFO - Req was made | / 
+17.4.2024, 9:05:56 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 9:07:17 - INFO - server.js loaded... 
+17.4.2024, 9:07:17 - INFO - Server is running on port: 3033 
+17.4.2024, 9:07:17 - INFO - New connected socket [id: qtyR3232khBY4CfdAAAB] 
+17.4.2024, 9:07:22 - INFO - server.js loaded... 
+17.4.2024, 9:07:22 - INFO - Server is running on port: 3033 
+17.4.2024, 9:07:22 - INFO - New connected socket [id: Shlkvocv_m9-i2RKAAAB] 
+17.4.2024, 9:07:28 - INFO - Removing socket.userId for socket [id: Shlkvocv_m9-i2RKAAAB] 
+17.4.2024, 9:07:30 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:07:31 - INFO - New connected socket [id: yd4GFS_I9KAVmIfEAAAD] 
+17.4.2024, 9:07:31 - INFO - Req was made | / 
+17.4.2024, 9:07:31 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+17.4.2024, 9:07:31 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: yd4GFS_I9KAVmIfEAAAD] 
+17.4.2024, 9:07:36 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:07:37 - INFO - New connected socket [id: _PMcwNG99D0pziXkAAAF] 
+17.4.2024, 9:07:37 - INFO - Req was made | / 
+17.4.2024, 9:07:37 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+17.4.2024, 9:09:03 - INFO - server.js loaded... 
+17.4.2024, 9:09:03 - INFO - Server is running on port: 3033 
+17.4.2024, 9:09:03 - INFO - New connected socket [id: XNxzUiJBO9LWZxmGAAAB] 
+17.4.2024, 9:09:03 - INFO - Req was made | / 
+17.4.2024, 9:09:03 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+17.4.2024, 9:13:49 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:13:50 - INFO - New connected socket [id: 6s2hP1eB8GK8LoOhAAAD] 
+17.4.2024, 9:13:51 - INFO - Req was made | / 
+17.4.2024, 9:13:51 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 9:13:51 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+17.4.2024, 9:13:51 - INFO - Req was made | / 
+17.4.2024, 9:16:08 - INFO - User login:  | {"_id":"661d79bd9bbc851fc5727df3","username":"nadav","fullname":"nadav","isAdmin":false,"imgUrl":" https://res.cloudinary.com/dkwwsxprt/image/upload/v1713274876/aokcc7p60cebnmn1alre.jpg"} 
+17.4.2024, 9:16:08 - INFO - Setting socket.userId = [object Object] for socket [id: 6s2hP1eB8GK8LoOhAAAD] 
+17.4.2024, 9:16:12 - INFO - New connected socket [id: jQUL-XS6Qb8nPiYoAAAF] 
+17.4.2024, 9:16:19 - INFO - Removing socket.userId for socket [id: 6s2hP1eB8GK8LoOhAAAD] 
+17.4.2024, 9:16:23 - INFO - Socket disconnected [id: undefined] 
+17.4.2024, 9:16:23 - INFO - New connected socket [id: y-v3Ve1hcOtVjjKTAAAH] 
+17.4.2024, 9:16:24 - INFO - Setting socket.userId = 661d79bd9bbc851fc5727df3 for socket [id: y-v3Ve1hcOtVjjKTAAAH] 
+17.4.2024, 9:16:24 - INFO - Req was made | / 
+17.4.2024, 9:16:24 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+17.4.2024, 9:17:37 - INFO - Req was made | / 
+17.4.2024, 9:17:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 9:17:37 - INFO - Req was made | / 
+17.4.2024, 9:17:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+17.4.2024, 9:17:37 - INFO - Req was made | / 
+17.4.2024, 9:17:37 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
