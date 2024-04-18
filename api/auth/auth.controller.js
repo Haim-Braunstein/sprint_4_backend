@@ -4,6 +4,7 @@ import { logger } from '../../services/logger.service.js'
 export async function login(req, res) {
 
     const { username, password } = req.body
+    console.log("🚀 ~ file: auth.controller.js:7 ~ login ~ req.body:", req.body)
     try {
         const user = await authService.login(username, password)
         const loginToken = authService.getLoginToken(user)
@@ -42,6 +43,7 @@ export async function login(req, res) {
 }
 
 export async function logout(req, res){
+    console.log("🚀 ~ file: auth.controller.js:46 ~ logout ~ res:",  res.clearCookie)
     try {
         res.clearCookie('loginToken')
         res.send({ msg: 'Logged out successfully' })
