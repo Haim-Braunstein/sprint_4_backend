@@ -12513,3 +12513,6 @@
 21.4.2024, 12:20:27 - INFO - server.js loaded... 
 21.4.2024, 12:20:27 - INFO - Server is running on port: 3033 
 21.4.2024, 12:20:31 - INFO - New connected socket [id: VkGxPRnBTtScD49DAAAB] 
+21.4.2024, 12:24:42 - INFO - Socket disconnected [id: undefined] 
+21.4.2024, 12:26:45 - INFO - server.js loaded... 
+21.4.2024, 12:26:45 - INFO - Server is running on port: 3033 
