@@ -12491,3 +12491,25 @@
 21.4.2024, 10:06:40 - INFO - New connected socket [id: IQcih2OU8oDiPoNHAAAF] 
 21.4.2024, 10:06:40 - INFO - New connected socket [id: 7qgePxwTP-_YGgeYAAAG] 
 21.4.2024, 10:06:40 - INFO - New connected socket [id: imEauRtL1M0cVc0PAAAH] 
+21.4.2024, 10:11:31 - INFO - Socket disconnected [id: undefined] 
+21.4.2024, 10:11:31 - INFO - Socket disconnected [id: undefined] 
+21.4.2024, 11:55:16 - INFO - Socket disconnected [id: undefined] 
+21.4.2024, 11:55:16 - INFO - Socket disconnected [id: undefined] 
+21.4.2024, 12:17:46 - INFO - server.js loaded... 
+21.4.2024, 12:17:46 - INFO - Server is running on port: 3033 
+21.4.2024, 12:17:56 - INFO - New connected socket [id: 1ga9aZjMgr_9x1fwAAAB] 
+21.4.2024, 12:17:56 - INFO - Req was made | / 
+21.4.2024, 12:17:57 - DEBUG - Getting Stations | {"txt":""} | {"station":1} 
+21.4.2024, 12:18:06 - INFO - Req was made | / 
+21.4.2024, 12:18:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+21.4.2024, 12:18:06 - INFO - Req was made | / 
+21.4.2024, 12:18:06 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+21.4.2024, 12:18:07 - INFO - Req was made | / 
+21.4.2024, 12:18:07 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+21.4.2024, 12:18:16 - INFO - Req was made | / 
+21.4.2024, 12:18:16 - DEBUG - Getting Stations | {"txt":""} | {"artist":1} 
+21.4.2024, 12:20:21 - INFO - server.js loaded... 
+21.4.2024, 12:20:21 - INFO - Server is running on port: 3033 
+21.4.2024, 12:20:27 - INFO - server.js loaded... 
+21.4.2024, 12:20:27 - INFO - Server is running on port: 3033 
+21.4.2024, 12:20:31 - INFO - New connected socket [id: VkGxPRnBTtScD49DAAAB] 
